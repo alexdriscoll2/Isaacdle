@@ -9,6 +9,10 @@ const IsaacItems_json_1 = __importDefault(require("../datasets/IsaacItems.json")
 function fetchItem(id) {
     const item = new ItemClass_1.Item(id);
     let descriptors = searchForId(id, "passive");
+    if (descriptors === undefined)
+        descriptors = searchForId(id, "active");
+    if (descriptors === undefined)
+        descriptors = searchForId(id, "familiar");
     item.name = descriptors;
     return item;
 }

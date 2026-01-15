@@ -16,7 +16,7 @@ export function fetchItem(id: number): Item
     return item;
 }
 
-function searchForId(id: number, typeItem: keyof typeof items)
+function searchForId(id: number, typeItem: keyof typeof items) // return index instead and access all i need to
 {  
     let min = 0;
     let max = items[typeItem].length;

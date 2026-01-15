@@ -4,11 +4,16 @@
   "description": "tboi item wordle game",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest ./src"
   },
   "author": "Alex Driscoll",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "ts-jest": "^29.4.6",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "jest": "^30.2.0"
   }
 }
