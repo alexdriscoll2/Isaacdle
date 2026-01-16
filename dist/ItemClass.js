@@ -8,7 +8,7 @@ class Item {
     typeItem = "";
     quality = -1;
     stats = [];
-    itemPool = "";
+    itemPool = [];
     constructor(id) {
         this.id = id;
     }

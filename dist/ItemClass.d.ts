@@ -4,7 +4,7 @@ export interface ItemDetails {
     typeItem: string;
     quality: number;
     stats: string[];
-    itemPool: string;
+    itemPool: string[];
 }
 export declare class Item implements ItemDetails {
     id: number;
@@ -12,7 +12,7 @@ export declare class Item implements ItemDetails {
     typeItem: string;
     quality: number;
     stats: string[];
-    itemPool: string;
+    itemPool: string[];
     constructor(id: number);
     getId(): number;
     setName(newName: string): void;

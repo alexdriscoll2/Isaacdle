@@ -2,12 +2,12 @@
 
 export interface ItemDetails
 {
-    id: number
-    name: string
-    typeItem: string
-    quality: number
-    stats: string[]
-    itemPool: string
+    id: number;
+    name: string;
+    typeItem: string;
+    quality: number;
+    stats: string[];
+    itemPool: string[];
 }
 
 export class Item implements ItemDetails
@@ -17,7 +17,7 @@ export class Item implements ItemDetails
     typeItem: string = "";
     quality: number = -1;
     stats: string[] = [];
-    itemPool: string = "";
+    itemPool: string[] = [];
 
     constructor(id: number)
     {
