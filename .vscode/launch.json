@@ -15,6 +15,12 @@
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]
+        },
+        {
+            "command": "npm test",
+            "name": "debug tests",
+            "request": "launch",
+            "type": "node-terminal"
         }
     ]
 }

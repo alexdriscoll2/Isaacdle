@@ -8,12 +8,28 @@ const ItemClass_1 = require("./ItemClass");
 const IsaacItems_json_1 = __importDefault(require("../datasets/IsaacItems.json"));
 function fetchItem(id) {
     const item = new ItemClass_1.Item(id);
-    let descriptors = searchForId(id, "passive");
-    if (descriptors === undefined)
-        descriptors = searchForId(id, "active");
-    if (descriptors === undefined)
-        descriptors = searchForId(id, "familiar");
-    item.name = descriptors;
+    let descriptorsIndex = searchForId(id, "passive");
+    if (descriptorsIndex !== -1) {
+        item.name = IsaacItems_json_1.default["passive"][descriptorsIndex]?.["@name"];
+    }
+    else // not a passive item, try to see if it's an active item
+     {
+        descriptorsIndex = searchForId(id, "active");
+        if (descriptorsIndex !== -1) {
+            item.name = IsaacItems_json_1.default["active"][descriptorsIndex]?.["@name"];
+        }
+        else // not passive or active, should be a familiar
+         {
+            descriptorsIndex = searchForId(id, "familiar");
+            if (descriptorsIndex !== -1) {
+                item.name = IsaacItems_json_1.default["familiar"][descriptorsIndex]?.["@name"];
+            }
+            else // if not a familiar, we couldn't find the item
+             {
+                throw new Error("Item id not found: " + id);
+            }
+        }
+    }
     return item;
 }
 function searchForId(id, typeItem) {
@@ -23,17 +39,15 @@ function searchForId(id, typeItem) {
     while (min != max) {
         target = Math.floor((min + max) / 2);
         if (id === parseInt(IsaacItems_json_1.default[typeItem][target]?.["@id"])) {
-            return IsaacItems_json_1.default[typeItem][target]?.["@name"];
+            return target;
         }
-        else if (id <= parseInt(IsaacItems_json_1.default[typeItem][target]?.["@id"])) {
+        else if (id < parseInt(IsaacItems_json_1.default[typeItem][target]?.["@id"])) {
             max = target;
         }
         else {
-            min = target;
+            min === target ? min++ : min = target;
         }
     }
-    if (id === parseInt(IsaacItems_json_1.default[typeItem][target]?.["@id"])) {
-        return IsaacItems_json_1.default[typeItem][target]?.["@name"];
-    }
+    return -1;
 }
 //# sourceMappingURL=ItemSearcher.js.map

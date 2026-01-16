@@ -5,18 +5,37 @@ export function fetchItem(id: number): Item
 {
     const item = new Item(id);
 
-    let descriptors = searchForId(id, "passive");
-    if(descriptors === undefined)
-        descriptors = searchForId(id, "active");
-    if(descriptors === undefined)
-        descriptors = searchForId(id, "familiar");
+    let descriptorsIndex = searchForId(id, "passive");
 
-    item.name = descriptors as string;
+    if(descriptorsIndex !== -1)
+    {
+        item.name = items["passive"][descriptorsIndex]?.["@name"] as string;
+    }
+    else // not a passive item, try to see if it's an active item
+    {
+        descriptorsIndex = searchForId(id, "active");
+        if(descriptorsIndex !== -1)
+        {
+            item.name = items["active"][descriptorsIndex]?.["@name"] as string;
+        }
+        else // not passive or active, should be a familiar
+        {
+            descriptorsIndex = searchForId(id, "familiar");
+            if(descriptorsIndex !== -1)
+            {
+                item.name = items["familiar"][descriptorsIndex]?.["@name"] as string;
+            }
+            else // if not a familiar, we couldn't find the item
+            {
+                throw new Error("Item id not found: " + id);
+            }
+        }
+    }
     
     return item;
 }
 
-function searchForId(id: number, typeItem: keyof typeof items) // return index instead and access all i need to
+function searchForId(id: number, typeItem: keyof typeof items): number
 {  
     let min = 0;
     let max = items[typeItem].length;
@@ -28,19 +47,17 @@ function searchForId(id: number, typeItem: keyof typeof items) // return index i
         target = Math.floor((min + max) / 2);
         if(id === parseInt(items[typeItem][target]?.["@id"] as string))
         {
-            return items[typeItem][target]?.["@name"];
+            return target;
         }
-        else if(id <= parseInt(items[typeItem][target]?.["@id"] as string))
+        else if(id < parseInt(items[typeItem][target]?.["@id"] as string))
         {
             max = target;
         }
         else
         {
-            min = target;
+            min === target ? min++ : min = target;
         }
     }
-    if(id === parseInt(items[typeItem][target]?.["@id"] as string))
-    {
-        return items[typeItem][target]?.["@name"];
-    }
+
+    return -1;
 }
