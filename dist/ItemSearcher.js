@@ -3,51 +3,54 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Result = exports.Turnout = void 0;
 exports.fetchItem = fetchItem;
-const ItemClass_1 = require("./ItemClass");
-const IsaacItems_json_1 = __importDefault(require("../datasets/IsaacItems.json"));
+exports.compareItems = compareItems;
+const ItemDataFinal_json_1 = __importDefault(require("../datasets/ItemDataFinal.json"));
+var Turnout;
+(function (Turnout) {
+    Turnout[Turnout["GREEN"] = 1] = "GREEN";
+    Turnout[Turnout["YELLOW"] = 2] = "YELLOW";
+    Turnout[Turnout["RED"] = 3] = "RED";
+    Turnout[Turnout["REDUP"] = 4] = "REDUP";
+    Turnout[Turnout["REDDOWN"] = 5] = "REDDOWN";
+})(Turnout || (exports.Turnout = Turnout = {}));
+var Result;
+(function (Result) {
+    Result[Result["TYPEITEM"] = 0] = "TYPEITEM";
+    Result[Result["QUALITY"] = 1] = "QUALITY";
+    Result[Result["STATS"] = 2] = "STATS";
+    Result[Result["ITEMPOOL"] = 3] = "ITEMPOOL";
+})(Result || (exports.Result = Result = {}));
 function fetchItem(id) {
-    const item = new ItemClass_1.Item(id);
-    let descriptorsIndex = searchForId(id, "passive");
-    if (descriptorsIndex !== -1) {
-        item.name = IsaacItems_json_1.default["passive"][descriptorsIndex]?.["@name"];
-    }
-    else // not a passive item, try to see if it's an active item
-     {
-        descriptorsIndex = searchForId(id, "active");
-        if (descriptorsIndex !== -1) {
-            item.name = IsaacItems_json_1.default["active"][descriptorsIndex]?.["@name"];
-        }
-        else // not passive or active, should be a familiar
-         {
-            descriptorsIndex = searchForId(id, "familiar");
-            if (descriptorsIndex !== -1) {
-                item.name = IsaacItems_json_1.default["familiar"][descriptorsIndex]?.["@name"];
-            }
-            else // if not a familiar, we couldn't find the item
-             {
-                throw new Error("Item id not found: " + id);
-            }
-        }
-    }
-    return item;
+    return ItemDataFinal_json_1.default[id - 1];
 }
-function searchForId(id, typeItem) {
-    let min = 0;
-    let max = IsaacItems_json_1.default[typeItem].length;
-    let target = Math.floor((min + max) / 2);
-    while (min != max) {
-        target = Math.floor((min + max) / 2);
-        if (id === parseInt(IsaacItems_json_1.default[typeItem][target]?.["@id"])) {
-            return target;
-        }
-        else if (id < parseInt(IsaacItems_json_1.default[typeItem][target]?.["@id"])) {
-            max = target;
-        }
-        else {
-            min === target ? min++ : min = target;
+// returns how similar item2 is to item1
+function compareItems(item1, item2) {
+    const results = new Array(4);
+    item1.typeItem === item2.typeItem ? results[Result.TYPEITEM] = Turnout.GREEN : results[Result.TYPEITEM] = Turnout.RED;
+    item1.quality === item2.quality ? results[Result.QUALITY] = Turnout.GREEN :
+        item1.quality > item2.quality ? results[Result.QUALITY] = Turnout.REDUP :
+            results[Result.QUALITY] = Turnout.REDDOWN;
+    results[Result.STATS] = compareArrs(item1.stats, item2.stats);
+    results[Result.ITEMPOOL] = compareArrs(item1.itemPool, item2.itemPool);
+    return results;
+}
+function compareArrs(arr1, arr2) {
+    let numMatched = 0;
+    for (const element of arr2) {
+        if (arr1.includes(element)) {
+            numMatched++;
         }
     }
-    return -1;
+    if (numMatched === arr1.length && arr1.length === arr2.length) {
+        return Turnout.GREEN;
+    }
+    else if (numMatched === 0) {
+        return Turnout.RED;
+    }
+    else {
+        return Turnout.YELLOW;
+    }
 }
 //# sourceMappingURL=ItemSearcher.js.map

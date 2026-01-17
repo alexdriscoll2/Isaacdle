@@ -44,6 +44,68 @@ describe("Fetch Item Tests: ", () => {
         expect(typeof item4.name).toBe("string");
         expect(item4.name).toBe("#TWISTED_PAIR_NAME");
     });
+    it("should compare an item to itself correctly", () => {
+        const item1 = (0, ItemSearcher_1.fetchItem)(1);
+        const item2 = (0, ItemSearcher_1.fetchItem)(1);
+        expect((0, ItemSearcher_1.compareItems)(item1, item2)).toEqual([1, 1, 1, 1]); // signifies all greens
+    });
+    it("should compare item type correctly", () => {
+        const item1 = (0, ItemSearcher_1.fetchItem)(1); // passive
+        const item2 = (0, ItemSearcher_1.fetchItem)(2); // passive
+        expect((0, ItemSearcher_1.compareItems)(item1, item2)[ItemSearcher_1.Result.TYPEITEM]).toEqual(ItemSearcher_1.Turnout.GREEN); // matches
+        const item3 = (0, ItemSearcher_1.fetchItem)(8); // familiar
+        expect((0, ItemSearcher_1.compareItems)(item1, item3)[ItemSearcher_1.Result.TYPEITEM]).toEqual(ItemSearcher_1.Turnout.RED); // doesn't match
+        const item4 = (0, ItemSearcher_1.fetchItem)(33); // active
+        expect((0, ItemSearcher_1.compareItems)(item1, item4)[ItemSearcher_1.Result.TYPEITEM]).toEqual(ItemSearcher_1.Turnout.RED); // doesn't match
+        expect((0, ItemSearcher_1.compareItems)(item3, item4)[ItemSearcher_1.Result.TYPEITEM]).toEqual(ItemSearcher_1.Turnout.RED); // doesn't match
+    });
+    it("should compare quality correctly", () => {
+        const item1 = (0, ItemSearcher_1.fetchItem)(1); // q3
+        const item2 = (0, ItemSearcher_1.fetchItem)(3); // q3
+        expect((0, ItemSearcher_1.compareItems)(item1, item2)[ItemSearcher_1.Result.QUALITY]).toEqual(ItemSearcher_1.Turnout.GREEN); // matches
+        const item3 = (0, ItemSearcher_1.fetchItem)(2); // q2
+        // does not match and the guess (arg2) is lower quality than the actual item (arg1)
+        expect((0, ItemSearcher_1.compareItems)(item1, item3)[ItemSearcher_1.Result.QUALITY]).toEqual(ItemSearcher_1.Turnout.REDUP);
+        const item4 = (0, ItemSearcher_1.fetchItem)(4); // q4
+        // does not match and the guess (arg2) is higher quality than the actual item (arg1)
+        expect((0, ItemSearcher_1.compareItems)(item1, item4)[ItemSearcher_1.Result.QUALITY]).toEqual(ItemSearcher_1.Turnout.REDDOWN);
+    });
+    it("should compare stats correctly", () => {
+        const item1 = (0, ItemSearcher_1.fetchItem)(25); // health
+        const item2 = (0, ItemSearcher_1.fetchItem)(26); // health
+        expect((0, ItemSearcher_1.compareItems)(item1, item2)[ItemSearcher_1.Result.STATS]).toEqual(ItemSearcher_1.Turnout.GREEN); // matches
+        const item3 = (0, ItemSearcher_1.fetchItem)(27); // speed
+        expect((0, ItemSearcher_1.compareItems)(item1, item3)[ItemSearcher_1.Result.STATS]).toEqual(ItemSearcher_1.Turnout.RED); // doesn't match
+        const item4 = (0, ItemSearcher_1.fetchItem)(342); // shotspeed firedelay health
+        expect((0, ItemSearcher_1.compareItems)(item1, item4)[ItemSearcher_1.Result.STATS]).toEqual(ItemSearcher_1.Turnout.YELLOW); // partially matches
+        expect((0, ItemSearcher_1.compareItems)(item4, item1)[ItemSearcher_1.Result.STATS]).toEqual(ItemSearcher_1.Turnout.YELLOW); // partially matches
+    });
+    it("should compare item pools correctly", () => {
+        const item1 = (0, ItemSearcher_1.fetchItem)(24); // boss, beggar
+        const item2 = (0, ItemSearcher_1.fetchItem)(25); // boss, beggar
+        expect((0, ItemSearcher_1.compareItems)(item1, item2)[ItemSearcher_1.Result.ITEMPOOL]).toEqual(ItemSearcher_1.Turnout.GREEN); // matches
+        const item3 = (0, ItemSearcher_1.fetchItem)(1); // treasure
+        expect((0, ItemSearcher_1.compareItems)(item1, item3)[ItemSearcher_1.Result.ITEMPOOL]).toEqual(ItemSearcher_1.Turnout.RED); // doesn't match
+        const item4 = (0, ItemSearcher_1.fetchItem)(25); // boss, beggar, rotten beggar
+        expect((0, ItemSearcher_1.compareItems)(item1, item4)[ItemSearcher_1.Result.ITEMPOOL]).toEqual(ItemSearcher_1.Turnout.YELLOW); // partially matches
+        expect((0, ItemSearcher_1.compareItems)(item4, item1)[ItemSearcher_1.Result.ITEMPOOL]).toEqual(ItemSearcher_1.Turnout.YELLOW); // partially matches
+    });
     // include test that all items have atleast one itempool
+    // it("every item should have an item pool *", () =>
+    // {
+    //     const arr = new Array<number>();
+    //     for(let i = 1; i <= 732; i++)
+    //     {
+    //         if(fetchItem(i).itemPool.length === 0)
+    //         {
+    //             arr.push(i);
+    //         }
+    //     }
+    //     if(arr.length > 0)
+    //     {
+    //         throw new Error("ids with no item pool: " + arr.toString());
+    //     }
+    //     expect(arr.length).toBe(0);
+    // });
 });
 //# sourceMappingURL=ItemFetcher.test.js.map

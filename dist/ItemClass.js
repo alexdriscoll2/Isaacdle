@@ -1,5 +1,4 @@
 "use strict";
-// maybe include an enum for type / item pool
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Item = void 0;
 class Item {

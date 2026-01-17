@@ -1,63 +1,68 @@
 import { Item } from "./ItemClass"
-import items from "../datasets/IsaacItems.json"
+import items from "../datasets/ItemDataFinal.json"
+
+export enum Turnout
+{
+    GREEN = 1,
+    YELLOW = 2,
+    RED = 3,
+    REDUP = 4,
+    REDDOWN = 5
+}
+
+export enum Result 
+{
+    TYPEITEM = 0,
+    QUALITY,
+    STATS,
+    ITEMPOOL
+}
 
 export function fetchItem(id: number): Item
 {
-    const item = new Item(id);
-
-    let descriptorsIndex = searchForId(id, "passive");
-
-    if(descriptorsIndex !== -1)
-    {
-        item.name = items["passive"][descriptorsIndex]?.["@name"] as string;
-    }
-    else // not a passive item, try to see if it's an active item
-    {
-        descriptorsIndex = searchForId(id, "active");
-        if(descriptorsIndex !== -1)
-        {
-            item.name = items["active"][descriptorsIndex]?.["@name"] as string;
-        }
-        else // not passive or active, should be a familiar
-        {
-            descriptorsIndex = searchForId(id, "familiar");
-            if(descriptorsIndex !== -1)
-            {
-                item.name = items["familiar"][descriptorsIndex]?.["@name"] as string;
-            }
-            else // if not a familiar, we couldn't find the item
-            {
-                throw new Error("Item id not found: " + id);
-            }
-        }
-    }
-    
-    return item;
+    return (items[id-1] as Item);
 }
 
-function searchForId(id: number, typeItem: keyof typeof items): number
-{  
-    let min = 0;
-    let max = items[typeItem].length;
+// returns how similar item2 is to item1
+export function compareItems(item1: Item, item2: Item): number[]
+{
+    const results = new Array<number>(4);
 
-    let target = Math.floor((min + max) / 2);
+    item1.typeItem === item2.typeItem ? results[Result.TYPEITEM] = Turnout.GREEN : results[Result.TYPEITEM] = Turnout.RED;
 
-    while (min != max)
+    item1.quality === item2.quality ? results[Result.QUALITY] = Turnout.GREEN : 
+        item1.quality > item2.quality ? results[Result.QUALITY] = Turnout.REDUP :
+            results[Result.QUALITY] = Turnout.REDDOWN;
+
+    results[Result.STATS] = compareArrs(item1.stats, item2.stats);
+    
+    results[Result.ITEMPOOL] = compareArrs(item1.itemPool, item2.itemPool);
+
+    return results;
+}
+
+function compareArrs(arr1: string[], arr2: string[]): number
+{
+    let numMatched = 0;
+
+    for(const element of arr2) 
     {
-        target = Math.floor((min + max) / 2);
-        if(id === parseInt(items[typeItem][target]?.["@id"] as string))
+        if(arr1.includes(element))
         {
-            return target;
-        }
-        else if(id < parseInt(items[typeItem][target]?.["@id"] as string))
-        {
-            max = target;
-        }
-        else
-        {
-            min === target ? min++ : min = target;
+            numMatched++;
         }
     }
 
-    return -1;
+    if(numMatched === arr1.length && arr1.length === arr2.length)
+    {
+        return Turnout.GREEN;
+    }
+    else if(numMatched === 0)
+    {
+        return Turnout.RED;
+    }
+    else
+    {
+        return Turnout.YELLOW;
+    }
 }

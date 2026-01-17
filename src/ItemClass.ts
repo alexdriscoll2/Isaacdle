@@ -1,5 +1,3 @@
-// maybe include an enum for type / item pool
-
 export interface ItemDetails
 {
     id: number;

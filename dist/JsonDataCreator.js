@@ -22,7 +22,7 @@ for (const category of categories) {
         allItems[id - 1]?.setName(item?.["@name"]);
         allItems[id - 1].typeItem = category;
         if (item?.["@cache"]) {
-            allItems[id - 1].stats = item["@cache"].split(" ");
+            allItems[id - 1].stats = item["@cache"].split(" "); // isnt adding correctly right now
         }
         if ("@hearts" in item || "@maxhearts" in item) {
             allItems[id - 1].stats.push("health");
