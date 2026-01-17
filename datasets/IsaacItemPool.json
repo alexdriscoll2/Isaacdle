@@ -6682,5 +6682,46 @@
         "@RemoveOn": "0.1"
       }
     ]
+  },
+  {
+    "@Name": "shellGame",
+    "Item": [
+      {
+        "@Id": "9",
+        "@Weight": "1",
+        "@DecreaseBy": "0.5",
+        "@RemoveOn": "0.1"
+      },
+      {
+        "@Id": "36",
+        "@Weight": "1",
+        "@DecreaseBy": "0.5",
+        "@RemoveOn": "0.1"
+      },
+      {
+        "@Id": "209",
+        "@Weight": "1",
+        "@DecreaseBy": "0.5",
+        "@RemoveOn": "0.1"
+      },
+      {
+        "@Id": "378",
+        "@Weight": "1",
+        "@DecreaseBy": "0.5",
+        "@RemoveOn": "0.1"
+      },
+      {
+        "@Id": "504",
+        "@Weight": "1",
+        "@DecreaseBy": "0.5",
+        "@RemoveOn": "0.1"
+      },
+      {
+        "@Id": "576",
+        "@Weight": "1",
+        "@DecreaseBy": "0.5",
+        "@RemoveOn": "0.1"
+      }
+    ]
   }
 ]

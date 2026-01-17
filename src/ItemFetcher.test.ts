@@ -63,4 +63,6 @@ describe("Fetch Item Tests: ", () =>
         expect(item4.name).toBe("#TWISTED_PAIR_NAME");
     })
 
+    // include test that all items have atleast one itempool
+
 })

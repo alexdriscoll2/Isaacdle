@@ -44,5 +44,6 @@ describe("Fetch Item Tests: ", () => {
         expect(typeof item4.name).toBe("string");
         expect(item4.name).toBe("#TWISTED_PAIR_NAME");
     });
+    // include test that all items have atleast one itempool
 });
 //# sourceMappingURL=ItemFetcher.test.js.map
