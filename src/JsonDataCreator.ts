@@ -22,7 +22,11 @@ for(const category of categories)
     {
         const id = parseInt(item?.["@id"] as string);
         
-        allItems[id-1]?.setName(item?.["@name"]);
+        // these two lines take the # and the _NAME part out of each name, put the name into lowercase, then capitalize the first letter of each word
+        let nameFixed = item?.["@name"].substring(1, item?.["@name"].length - 5).toLowerCase();
+        nameFixed = nameFixed.split("_").map(word => word[0]?.toUpperCase() + word.substring(1, word.length)).join().replaceAll(",", " ");
+
+        allItems[id-1]?.setName(nameFixed);
 
         allItems[id-1]!.typeItem = category;
 
@@ -57,10 +61,24 @@ for(const itemPool of itemPools)
     }
 }
 
-// convert to json and write that json to ItemDataFinal.json
-const jsonStr = JSON.stringify(allItems, null, 4);
-const filePath = path.join(__dirname, "../datasets/ItemDataFinal.json");
+// create reference by name dict
+let dict: { [key: string]: Item } = {}
 
-fs.writeFile(filePath, jsonStr, "utf8", () => {
+for(const item of allItems)
+{
+    dict[item.name] = item;
+}
+
+// convert both by id and by string to jsons
+const jsonID = JSON.stringify(allItems, null, 4);
+const jsonName = JSON.stringify(dict, null, 4);
+
+const filePath = path.join(__dirname, "../datasets/");
+
+fs.writeFile(path.join(filePath, "ItemDataByID.json"), jsonID, "utf8", () => {
+    console.log("Dataset created");
+})
+
+fs.writeFile(path.join(filePath, "ItemDataByName.json"), jsonName, "utf8", () => {
     console.log("Dataset created");
 })

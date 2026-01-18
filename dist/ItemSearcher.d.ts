@@ -1,4 +1,5 @@
 import { Item } from "./ItemClass";
+import items from "../datasets/ItemDataFinal.json";
 export declare enum Turnout {
     GREEN = 1,
     YELLOW = 2,
@@ -12,6 +13,6 @@ export declare enum Result {
     STATS = 2,
     ITEMPOOL = 3
 }
-export declare function fetchItem(id: number): Item;
+export declare function fetchItem(identifier: keyof typeof items): Item;
 export declare function compareItems(item1: Item, item2: Item): number[];
 //# sourceMappingURL=ItemSearcher.d.ts.map

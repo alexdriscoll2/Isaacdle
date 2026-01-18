@@ -22,8 +22,8 @@ var Result;
     Result[Result["STATS"] = 2] = "STATS";
     Result[Result["ITEMPOOL"] = 3] = "ITEMPOOL";
 })(Result || (exports.Result = Result = {}));
-function fetchItem(id) {
-    return ItemDataFinal_json_1.default[id - 1];
+function fetchItem(identifier) {
+    return ItemDataFinal_json_1.default?.[identifier];
 }
 // returns how similar item2 is to item1
 function compareItems(item1, item2) {

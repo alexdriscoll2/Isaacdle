@@ -1,5 +1,6 @@
 import { Item } from "./ItemClass"
-import items from "../datasets/ItemDataFinal.json"
+import itemsByID from "../datasets/ItemDataByID.json"
+import itemsByName from "../datasets/ItemDataByName.json"
 
 export enum Turnout
 {
@@ -18,10 +19,16 @@ export enum Result
     ITEMPOOL
 }
 
-export function fetchItem(id: number): Item
+export function fetchItembyId(id: number): Item
 {
-    return (items[id-1] as Item);
+    return (itemsByID[id-1] as Item)
 }
+
+export function fetchItemByName(identifier: keyof typeof itemsByName): Item
+{
+    return (itemsByName?.[identifier] as Item)
+}
+
 
 // returns how similar item2 is to item1
 export function compareItems(item1: Item, item2: Item): number[]

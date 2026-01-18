@@ -1,0 +1,8403 @@
+[
+    {
+        "id": 1,
+        "name": "The Sad Onion",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "The Inner Eye",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay",
+            "damage"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Spoon Bender",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "speed",
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Crickets Head",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "damage",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "My Reflection",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "luck",
+            "tearflag",
+            "shotspeed",
+            "range"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Number One",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay",
+            "range",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Blood Of The Martyr",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Brother Bobby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Skatole",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "shellGame"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Halo Of Flies",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "1up",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Magic Mushroom",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "damage",
+            "range",
+            "speed",
+            "size",
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "The Virus",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed",
+            "color"
+        ],
+        "itemPool": [
+            "treasure",
+            "demonBeggar",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Roid Rage",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "range",
+            "speed"
+        ],
+        "itemPool": [
+            "treasure",
+            "boss",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Heart",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Raw Liver",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Skeleton Key",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "A Dollar",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 19,
+        "name": "Boom",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Transcendence",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "flying"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "The Compass",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "beggar"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Lunch",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "beggar"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Dinner",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "beggar"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Dessert",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "beggar"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Breakfast",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "beggar"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Rotten Meat",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "beggar",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Wooden Spoon",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "The Belt",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Moms Underwear",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Moms Heels",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range"
+        ],
+        "itemPool": [
+            "boss",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Moms Lipstick",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range"
+        ],
+        "itemPool": [
+            "boss",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Wire Coat Hanger",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "The Bible",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "flying"
+        ],
+        "itemPool": [
+            "shop",
+            "angel",
+            "library"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "The Book Of Belial",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "library"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "The Necronomicon",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "secret",
+            "library"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "The Poop",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shellGame"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Mr Boom",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Tammys Head",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Moms Bra",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Kamikaze",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Moms Pad",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Bobs Rotten Head",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 44,
+        "name": "Teleport",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Yum Heart",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Lucky Foot",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "luck"
+        ],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Doctors Remote",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Cupids Arrow",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Shoop Da Whoop",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Steven",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 51,
+        "name": "Pentagram",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "boss",
+            "devil",
+            "demonBeggar",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Dr Fetus",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Magneto",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Treasure Map",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "beggar"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Moms Eye",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Lemon Mishap",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Distant Admiration",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Book Of Shadows",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "library"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "The Book Of Belial",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 60,
+        "name": "The Ladder",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 62,
+        "name": "Charm Of The Vampire",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "The Battery",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Steam Sale",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Anarchist Cookbook",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "library"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "The Hourglass",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Sister Maggy",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Technology",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Chocolate Milk",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Growth Hormones",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "speed"
+        ],
+        "itemPool": [
+            "boss",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Mini Mush",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed",
+            "range",
+            "size"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Rosary",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure",
+            "angel",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Cube Of Meat",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "A Quarter",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Phd",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "shop"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Xray Vision",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "My Little Unicorn",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Book Of Revelations",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel",
+            "library"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "The Mark",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "speed"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "The Pact",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "firedelay"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Dead Cat",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Lord Of The Pit",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "flying",
+            "speed"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "The Nail",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "speed",
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 84,
+        "name": "We Need To Go Deeper",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "secret"
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Deck Of Cards",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shop"
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Monstros Tooth",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Lokis Horns",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Little Chubby",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Spider Bite",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 90,
+        "name": "The Small Rock",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor",
+            "damage",
+            "speed",
+            "firedelay"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 91,
+        "name": "Spelunker Hat",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Super Bandage",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "boss"
+        ]
+    },
+    {
+        "id": 93,
+        "name": "The Gamekid",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Sack Of Pennies",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Robobaby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Little Chad",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 97,
+        "name": "The Book Of Sin",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "library"
+        ]
+    },
+    {
+        "id": 98,
+        "name": "The Relic",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Little Gish",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Little Steven",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 101,
+        "name": "The Halo",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "firedelay",
+            "range",
+            "speed",
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Moms Bottle Of Pills",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shop",
+            "beggar",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "The Common Cold",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 104,
+        "name": "The Parasite",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 105,
+        "name": "The D6",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Mr Mega",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 107,
+        "name": "The Pinking Shears",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 108,
+        "name": "The Wafer",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Money undefined Power",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Moms Contacts",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor",
+            "tearflag",
+            "range"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 111,
+        "name": "The Bean",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Guardian Angel",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Demon Baby",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Moms Knife",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Ouija Board",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag",
+            "tearcolor",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 116,
+        "name": "9 Volt",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 117,
+        "name": "Dead Bird",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Brimstone",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 119,
+        "name": "Blood Bag",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed",
+            "health"
+        ],
+        "itemPool": [
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Odd Mushroom Thin",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "firedelay",
+            "speed",
+            "size"
+        ],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Odd Mushroom Large",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "speed",
+            "range",
+            "size",
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Whore Of Babylon",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "speed"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Monster Manual",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "library"
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Dead Sea Scrolls",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Bobbybomb",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Razor Blade",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure",
+            "demonBeggar",
+            "curse"
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Forget Me Now",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "secret",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Forever Alone",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Bucket Of Lard",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "speed",
+            "health"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 130,
+        "name": "A Pony",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "flying",
+            "speed"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 131,
+        "name": "Bomb Bag",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 132,
+        "name": "A Lump Of Coal",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 133,
+        "name": "Guppys Paw",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Guppys Tail",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Iv Bag",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Best Friend",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 137,
+        "name": "Remote Detonator",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shop",
+            "ultraSecret",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Stigmata",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 139,
+        "name": "Moms Purse",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Bobs Curse",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "redChest",
+            "bombBum",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 141,
+        "name": "Pageant Boy",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Scapular",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Speed Ball",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "treasure",
+            "boss",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Bum Friend",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 145,
+        "name": "Guppys Head",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Prayer Card",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 147,
+        "name": "Notched Axe",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 148,
+        "name": "Infestation",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Ipecac",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Tough Love",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 151,
+        "name": "The Mulligan",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 152,
+        "name": "Technology 2",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "weapon",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 153,
+        "name": "Mutant Spider",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay",
+            "damage"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 154,
+        "name": "Chemical Peel",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 155,
+        "name": "The Peeper",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 156,
+        "name": "Habit",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "angel"
+        ]
+    },
+    {
+        "id": 157,
+        "name": "Bloody Lust",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "color"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 158,
+        "name": "Crystal Ball",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 159,
+        "name": "Spirit Of The Night",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "flying",
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 160,
+        "name": "Crack The Sky",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 161,
+        "name": "Ankh",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 162,
+        "name": "Celtic Cross",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 163,
+        "name": "Ghost Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 164,
+        "name": "The Candle",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 165,
+        "name": "Catoninetails",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "shotspeed",
+            "damage"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 166,
+        "name": "D20",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 167,
+        "name": "Harlequin Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 168,
+        "name": "Epic Fetus",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 169,
+        "name": "Polyphemus",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "damage",
+            "firedelay",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 170,
+        "name": "Daddy Longlegs",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 171,
+        "name": "Spider Butt",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 172,
+        "name": "Sacrificial Dagger",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 173,
+        "name": "Mitre",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 174,
+        "name": "Rainbow Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 175,
+        "name": "Dads Key",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 176,
+        "name": "Stem Cells",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "shotspeed",
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "boss",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 177,
+        "name": "Portable Slot",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "beggar",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 178,
+        "name": "Holy Water",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 179,
+        "name": "Fate",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "flying"
+        ],
+        "itemPool": [
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 180,
+        "name": "The Black Bean",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 181,
+        "name": "White Pony",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "flying",
+            "speed"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 182,
+        "name": "Sacred Heart",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "damage",
+            "firedelay",
+            "range",
+            "shotspeed",
+            "tearcolor",
+            "tearflag",
+            "health"
+        ],
+        "itemPool": [
+            "angel",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 183,
+        "name": "Tooth Picks",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "shotspeed",
+            "firedelay"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 184,
+        "name": "Holy Grail",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "flying",
+            "health"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 185,
+        "name": "Dead Dove",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "flying",
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 186,
+        "name": "Blood Rights",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 187,
+        "name": "Guppys Hairball",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 188,
+        "name": "Abel",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 189,
+        "name": "Smb Super Fan",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay",
+            "damage",
+            "speed",
+            "range",
+            "health"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 190,
+        "name": "Pyro",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 191,
+        "name": "3 Dollar Bill",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 192,
+        "name": "Telepathy For Dummies",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "tearflag",
+            "tearcolor",
+            "range"
+        ],
+        "itemPool": [
+            "treasure",
+            "library"
+        ]
+    },
+    {
+        "id": 193,
+        "name": "Meat",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 194,
+        "name": "Magic 8 Ball",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "shotspeed"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 195,
+        "name": "Moms Coin Purse",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "boss",
+            "beggar",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 196,
+        "name": "Squeezy",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 197,
+        "name": "Jesus Juice",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "range"
+        ],
+        "itemPool": [
+            "boss",
+            "angel"
+        ]
+    },
+    {
+        "id": 198,
+        "name": "Box",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "boss",
+            "beggar"
+        ]
+    },
+    {
+        "id": 199,
+        "name": "Moms Key",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "pickupvision"
+        ],
+        "itemPool": [
+            "shop",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 200,
+        "name": "Moms Eyeshadow",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 201,
+        "name": "Iron Bar",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 202,
+        "name": "Midas Touch",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 203,
+        "name": "Humbleing Bundle",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 204,
+        "name": "Fanny Pack",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "beggar"
+        ]
+    },
+    {
+        "id": 205,
+        "name": "Sharp Plug",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 206,
+        "name": "Guillotine",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 207,
+        "name": "Ball Of Bandages",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 208,
+        "name": "Champion Belt",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "shop",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 209,
+        "name": "Butt Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum",
+            "shellGame"
+        ]
+    },
+    {
+        "id": 210,
+        "name": "Gnawed Leaf",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 211,
+        "name": "Spiderbaby",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 212,
+        "name": "Guppys Collar",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 213,
+        "name": "Lost Contact",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "shotspeed",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 214,
+        "name": "Anemic",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 215,
+        "name": "Goat Head",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "curse"
+        ]
+    },
+    {
+        "id": 216,
+        "name": "Ceremonial Robes",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "curse"
+        ]
+    },
+    {
+        "id": 217,
+        "name": "Moms Wig",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay",
+            "health"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 218,
+        "name": "Placenta",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 219,
+        "name": "Old Bandage",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 220,
+        "name": "Sad Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 221,
+        "name": "Rubber Cement",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 222,
+        "name": "Antigravity",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay",
+            "tearflag",
+            "color"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 223,
+        "name": "Pyromaniac",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 224,
+        "name": "Crickets Body",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay",
+            "range",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 225,
+        "name": "Gimpy",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "demonBeggar",
+            "curse"
+        ]
+    },
+    {
+        "id": 226,
+        "name": "Black Lotus",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 227,
+        "name": "Piggy Bank",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shop"
+        ]
+    },
+    {
+        "id": 228,
+        "name": "Moms Perfume",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 229,
+        "name": "Monstros Lung",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 230,
+        "name": "Abaddon",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "speed"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 231,
+        "name": "Ball Of Tar",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 232,
+        "name": "Stop Watch",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 233,
+        "name": "Tiny Planet",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 234,
+        "name": "Infestation 2",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 235,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 236,
+        "name": "E Coli",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 237,
+        "name": "Deaths Touch",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "firedelay",
+            "damage"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 238,
+        "name": "Key Piece 1",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 239,
+        "name": "Key Piece 2",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 240,
+        "name": "Experimental Treatment",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure",
+            "boss",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 241,
+        "name": "Contract From Below",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "curse"
+        ]
+    },
+    {
+        "id": 242,
+        "name": "Infamy",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 243,
+        "name": "Trinity Shield",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "weapon"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 244,
+        "name": "Tech5",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 245,
+        "name": "2020",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "damage",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 246,
+        "name": "Blue Map",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "beggar"
+        ]
+    },
+    {
+        "id": 247,
+        "name": "Bffs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 248,
+        "name": "Hive Mind",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 249,
+        "name": "Theres Options",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 250,
+        "name": "Bogo Bombs",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 251,
+        "name": "Starter Deck",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 252,
+        "name": "Little Baggy",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 253,
+        "name": "Magic Scab",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "luck",
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 254,
+        "name": "Blood Clot",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "boss",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 255,
+        "name": "Screw",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 256,
+        "name": "Hot Bombs",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 257,
+        "name": "Fire Mind",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 258,
+        "name": "Missing No",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 259,
+        "name": "Dark Matter",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 260,
+        "name": "Black Candle",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "pickupvision"
+        ],
+        "itemPool": [
+            "shop",
+            "curse"
+        ]
+    },
+    {
+        "id": 261,
+        "name": "Proptosis",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "damage"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 262,
+        "name": "Missing Page 2",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "secret",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 263,
+        "name": "Clear Rune",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 264,
+        "name": "Smart Fly",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 265,
+        "name": "Dry Baby",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 266,
+        "name": "Juicy Sack",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 267,
+        "name": "Robobaby 20",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 268,
+        "name": "Rotten Baby",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 269,
+        "name": "Headless Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 270,
+        "name": "Leech",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 271,
+        "name": "Mystery Sack",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret",
+            "beggar"
+        ]
+    },
+    {
+        "id": 272,
+        "name": "Bbf",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 273,
+        "name": "Bobs Brain",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 274,
+        "name": "Best Bud",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 275,
+        "name": "Lil Brimstone",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 276,
+        "name": "Isaacs Heart",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 277,
+        "name": "Lil Haunt",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 278,
+        "name": "Dark Bum",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 279,
+        "name": "Big Fan",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 280,
+        "name": "Sissy Longlegs",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 281,
+        "name": "Punching Bag",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 282,
+        "name": "How To Jump",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "library"
+        ]
+    },
+    {
+        "id": 283,
+        "name": "D100",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 284,
+        "name": "D4",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 285,
+        "name": "D10",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 286,
+        "name": "Blank Card",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "secret"
+        ]
+    },
+    {
+        "id": 287,
+        "name": "Book Of Secrets",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret",
+            "library"
+        ]
+    },
+    {
+        "id": 288,
+        "name": "Box Of Spiders",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 289,
+        "name": "Red Candle",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 290,
+        "name": "The Jar",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 291,
+        "name": "Flush",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 292,
+        "name": "Satanic Bible",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "library"
+        ]
+    },
+    {
+        "id": 293,
+        "name": "Head Of Krampus",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 294,
+        "name": "Butter Bean",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 295,
+        "name": "Magic Fingers",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shop"
+        ]
+    },
+    {
+        "id": 296,
+        "name": "Converter",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 297,
+        "name": "Pandoras Box",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "redChest"
+        ]
+    },
+    {
+        "id": 298,
+        "name": "Unicorn Stump",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 299,
+        "name": "Taurus",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 300,
+        "name": "Aries",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 301,
+        "name": "Cancer",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 302,
+        "name": "Leo",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "size"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 303,
+        "name": "Virgo",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 304,
+        "name": "Libra",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "speed",
+            "firedelay",
+            "damage",
+            "range"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 305,
+        "name": "Scorpio",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 306,
+        "name": "Sagittarius",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "speed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 307,
+        "name": "Capricorn",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "speed",
+            "firedelay",
+            "damage",
+            "range",
+            "health"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 308,
+        "name": "Aquarius",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 309,
+        "name": "Pisces",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 310,
+        "name": "Eves Mascara",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "shotspeed",
+            "damage",
+            "tearcolor",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 311,
+        "name": "Judas Shadow",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 312,
+        "name": "Maggys Bow",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 313,
+        "name": "Holy Mantle",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 314,
+        "name": "Thunder Thighs",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "speed",
+            "health"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 315,
+        "name": "Strange Attractor",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 316,
+        "name": "Cursed Eye",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure",
+            "secret",
+            "redChest"
+        ]
+    },
+    {
+        "id": 317,
+        "name": "Mysterious Liquid",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 318,
+        "name": "Gemini",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 319,
+        "name": "Cains Other Eye",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 320,
+        "name": "S Only Friend",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 321,
+        "name": "Samsons Chains",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 322,
+        "name": "Mongo Baby",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 323,
+        "name": "Isaacs Tears",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 324,
+        "name": "Undefined",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 325,
+        "name": "Scissors",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 326,
+        "name": "Breath Of Life",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 327,
+        "name": "The Polaroid",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 328,
+        "name": "The Negative",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 329,
+        "name": "The Ludovico Technique",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 330,
+        "name": "Soy Milk",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay",
+            "damage",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 331,
+        "name": "Godhead",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "tearflag",
+            "shotspeed",
+            "firedelay",
+            "range",
+            "damage"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 332,
+        "name": "Lazarus Rags",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 333,
+        "name": "The Mind",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 334,
+        "name": "The Body",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "angel",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 335,
+        "name": "The Soul",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 336,
+        "name": "Dead Onion",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor",
+            "tearflag",
+            "range",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "treasure",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 337,
+        "name": "Broken Watch",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 338,
+        "name": "The Boomerang",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 339,
+        "name": "Safety Pin",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range",
+            "shotspeed",
+            "damage"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 340,
+        "name": "Caffeine Pill",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "speed",
+            "size"
+        ],
+        "itemPool": [
+            "boss",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 341,
+        "name": "Torn Photo",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "shotspeed",
+            "firedelay"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 342,
+        "name": "Blue Cap",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "shotspeed",
+            "firedelay",
+            "health"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 343,
+        "name": "Latch Key",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "luck"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 344,
+        "name": "Match Book",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 345,
+        "name": "Synthoil",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "range"
+        ],
+        "itemPool": [
+            "boss",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 346,
+        "name": "A Snack",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 347,
+        "name": "Diplopia",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 348,
+        "name": "Placebo",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "secret"
+        ]
+    },
+    {
+        "id": 349,
+        "name": "Wooden Nickel",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 350,
+        "name": "Toxic Shock",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "color"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 351,
+        "name": "Mega Bean",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 352,
+        "name": "Glass Cannon",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 353,
+        "name": "Bomber Boy",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 354,
+        "name": "Crack Jacks",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 355,
+        "name": "Moms Pearls",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "luck",
+            "range"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 356,
+        "name": "Car Battery",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 357,
+        "name": "Box Of Friends",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 358,
+        "name": "The Wiz",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 359,
+        "name": "8 Inch Nails",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 360,
+        "name": "Incubus",
+        "typeItem": "familiar",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 361,
+        "name": "Fates Reward",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 362,
+        "name": "Lil Chest",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 363,
+        "name": "Sworn Protector",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 364,
+        "name": "Friend Zone",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 365,
+        "name": "Lost Fly",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 366,
+        "name": "Scatter Bombs",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 367,
+        "name": "Sticky Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 368,
+        "name": "Epiphora",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 369,
+        "name": "Continuum",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag",
+            "range"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 370,
+        "name": "Mr Dolly",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "range",
+            "firedelay"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 371,
+        "name": "Curse Of The Tower",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 372,
+        "name": "Charged Baby",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 373,
+        "name": "Dead Eye",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 374,
+        "name": "Holy Light",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 375,
+        "name": "Host Hat",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 376,
+        "name": "Restock",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "beggar"
+        ]
+    },
+    {
+        "id": 377,
+        "name": "Bursting Sack",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 378,
+        "name": "Number Two",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shellGame"
+        ]
+    },
+    {
+        "id": 379,
+        "name": "Pupula Duplex",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 380,
+        "name": "Pay To Play",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 381,
+        "name": "Edens Blessing",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 382,
+        "name": "Friendly Ball",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 383,
+        "name": "Tear Detonator",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 384,
+        "name": "Lil Gurdy",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 385,
+        "name": "Bumbo",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 386,
+        "name": "D12",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 387,
+        "name": "Censer",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 388,
+        "name": "Key Bum",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 389,
+        "name": "Rune Bag",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 390,
+        "name": "Seraphim",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 391,
+        "name": "Betrayal",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 392,
+        "name": "Zodiac",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 393,
+        "name": "Serpents Kiss",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 394,
+        "name": "Marked",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "firedelay",
+            "range"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 395,
+        "name": "Tech X",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 396,
+        "name": "Ventricle Razor",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 397,
+        "name": "Tractor Beam",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay",
+            "tearflag",
+            "range",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 398,
+        "name": "Gods Flesh",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 399,
+        "name": "Maw Of The Void",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 400,
+        "name": "Spear Of Destiny",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 401,
+        "name": "Explosivo",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 402,
+        "name": "Chaos",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "secret"
+        ]
+    },
+    {
+        "id": 403,
+        "name": "Spider Mod",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 404,
+        "name": "Farting Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 405,
+        "name": "Gb Bug",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 406,
+        "name": "D8",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 407,
+        "name": "Purity",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "firedelay",
+            "speed",
+            "range"
+        ],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 408,
+        "name": "Athame",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "curse"
+        ]
+    },
+    {
+        "id": 409,
+        "name": "Empty Vessel",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "flying"
+        ],
+        "itemPool": [
+            "devil",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 410,
+        "name": "Evil Eye",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 411,
+        "name": "Lusty Blood",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "color"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 412,
+        "name": "Cambion Conception",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 413,
+        "name": "Immaculate Conception",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 414,
+        "name": "More Options",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 415,
+        "name": "Crown Of Light",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "damage",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 416,
+        "name": "Deep Pockets",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 417,
+        "name": "Succubus",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 418,
+        "name": "Fruit Cake",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 419,
+        "name": "Teleport 20",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 420,
+        "name": "Black Powder",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 421,
+        "name": "Kidney Bean",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 422,
+        "name": "Glowing Hour Glass",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shop"
+        ]
+    },
+    {
+        "id": 423,
+        "name": "Circle Of Protection",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 424,
+        "name": "Sack Head",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "secret"
+        ]
+    },
+    {
+        "id": 425,
+        "name": "Night Light",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 426,
+        "name": "Obsessed Fan",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 427,
+        "name": "Mine Crafter",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 428,
+        "name": "Pjs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 429,
+        "name": "Head Of The Keeper",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 430,
+        "name": "Papa Fly",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 431,
+        "name": "Multidimensional Baby",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil"
+        ]
+    },
+    {
+        "id": 432,
+        "name": "Glitter Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 433,
+        "name": "My Shadow",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 434,
+        "name": "Jar Of Flies",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 435,
+        "name": "Lil Loki",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 436,
+        "name": "Milk",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 437,
+        "name": "D7",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 438,
+        "name": "Binky",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay",
+            "size"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 439,
+        "name": "Moms Box",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 440,
+        "name": "Kidney Stone",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "range",
+            "speed",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 441,
+        "name": "Mega Blast",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 442,
+        "name": "Dark Princes Crown",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range",
+            "firedelay",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "devil",
+            "curse"
+        ]
+    },
+    {
+        "id": 443,
+        "name": "Apple",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 444,
+        "name": "Lead Pencil",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 445,
+        "name": "Dog Tooth",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "speed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 446,
+        "name": "Dead Tooth",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 447,
+        "name": "Linger Bean",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "beggar"
+        ]
+    },
+    {
+        "id": 448,
+        "name": "Shard Of Glass",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 449,
+        "name": "Metal Plate",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 450,
+        "name": "Eye Of Greed",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 451,
+        "name": "Tarot Cloth",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "curse"
+        ]
+    },
+    {
+        "id": 452,
+        "name": "Varicose Veins",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 453,
+        "name": "Compound Fracture",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "range",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 454,
+        "name": "Polydactyly",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 455,
+        "name": "Dads Lost Coin",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest",
+            "beggar"
+        ]
+    },
+    {
+        "id": 456,
+        "name": "Midnight Snack",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest",
+            "beggar"
+        ]
+    },
+    {
+        "id": 457,
+        "name": "Cone Head",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 458,
+        "name": "Belly Button",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 459,
+        "name": "Sinus Infection",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 460,
+        "name": "Glaucoma",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 461,
+        "name": "Parasitoid",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "range"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 462,
+        "name": "Eye Of Belial",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "range",
+            "tearflag"
+        ],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 463,
+        "name": "Sulfuric Acid",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 464,
+        "name": "Glyph Of Balance",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 465,
+        "name": "Analog Stick",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 466,
+        "name": "Contagion",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 467,
+        "name": "Finger",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 468,
+        "name": "Shade",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "curse"
+        ]
+    },
+    {
+        "id": 469,
+        "name": "Depression",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 470,
+        "name": "Hushy",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 471,
+        "name": "Lil Monstro",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 472,
+        "name": "King Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 473,
+        "name": "Big Chubby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 474,
+        "name": "Broken Glass Cannon",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 475,
+        "name": "Plan C",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "devil",
+            "redChest",
+            "demonBeggar",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 476,
+        "name": "D1",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 477,
+        "name": "Void",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "angel"
+        ]
+    },
+    {
+        "id": 478,
+        "name": "Pause",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 479,
+        "name": "Smelter",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 480,
+        "name": "Compost",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 481,
+        "name": "Dataminer",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 482,
+        "name": "Clicker",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 483,
+        "name": "Mama Mega",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 484,
+        "name": "Wait What",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 485,
+        "name": "Crooked Penny",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shop",
+            "beggar"
+        ]
+    },
+    {
+        "id": 486,
+        "name": "Dull Razor",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 487,
+        "name": "Potato Peeler",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 488,
+        "name": "Metronome",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 489,
+        "name": "D Infinity",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 490,
+        "name": "Edens Soul",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 491,
+        "name": "Acid Baby",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 492,
+        "name": "Yo Listen",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [
+            "luck"
+        ],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 493,
+        "name": "Adrenaline",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 494,
+        "name": "Jacobs Ladder",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 495,
+        "name": "Ghost Pepper",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 496,
+        "name": "Euthanasia",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "demonBeggar",
+            "curse"
+        ]
+    },
+    {
+        "id": 497,
+        "name": "Camo Undies",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 498,
+        "name": "Duality",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "angel"
+        ]
+    },
+    {
+        "id": 499,
+        "name": "Eucharist",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 500,
+        "name": "Sack Of Sacks",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 501,
+        "name": "Greeds Gullet",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 502,
+        "name": "Large Zit",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 503,
+        "name": "Little Horn",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "demonBeggar",
+            "curse"
+        ]
+    },
+    {
+        "id": 504,
+        "name": "Brown Nugget",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure",
+            "shellGame"
+        ]
+    },
+    {
+        "id": 505,
+        "name": "Poke Go",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 506,
+        "name": "Backstabber",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 507,
+        "name": "Sharp Straw",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 508,
+        "name": "Moms Razor",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 509,
+        "name": "Bloodshot Eye",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 510,
+        "name": "Delirious",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 511,
+        "name": "Angry Fly",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 512,
+        "name": "Black Hole",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 513,
+        "name": "Bozo",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 514,
+        "name": "Broken Modem",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 515,
+        "name": "Mystery Gift",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 516,
+        "name": "Sprinkler",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 517,
+        "name": "Fast Bombs",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 518,
+        "name": "Buddy In A Box",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 519,
+        "name": "Lil Delirium",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "angel"
+        ]
+    },
+    {
+        "id": 520,
+        "name": "Jumper Cables",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 521,
+        "name": "Coupon",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 522,
+        "name": "Telekinesis",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 523,
+        "name": "Moving Box",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 524,
+        "name": "Technology Zero",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 525,
+        "name": "Leprosy",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 526,
+        "name": "7 Seals",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "angel"
+        ]
+    },
+    {
+        "id": 527,
+        "name": "Mr Me",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 528,
+        "name": "Angelic Prism",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 529,
+        "name": "Pop",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 530,
+        "name": "Deaths List",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 531,
+        "name": "Haemolacria",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "weapon",
+            "firedelay",
+            "damage",
+            "tearcolor",
+            "range"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 532,
+        "name": "Lachryphagy",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 533,
+        "name": "Trisagion",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 534,
+        "name": "Schoolbag",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 535,
+        "name": "Blanket",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 536,
+        "name": "Sacrificial Altar",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "curse"
+        ]
+    },
+    {
+        "id": 537,
+        "name": "Lil Spewer",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 538,
+        "name": "Marbles",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "luck"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 539,
+        "name": "Mystery Egg",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 540,
+        "name": "Flat Stone",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag",
+            "damage",
+            "firedelay",
+            "range"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 541,
+        "name": "Marrow",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "boss",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 542,
+        "name": "Slipped Rib",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 543,
+        "name": "Hallowed Ground",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "angel"
+        ]
+    },
+    {
+        "id": 544,
+        "name": "Pointy Rib",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 545,
+        "name": "Book Of The Dead",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "library"
+        ]
+    },
+    {
+        "id": 546,
+        "name": "Dads Ring",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 547,
+        "name": "Divorce Papers",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 548,
+        "name": "Jaw Bone",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 549,
+        "name": "Brittle Bones",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 550,
+        "name": "Broken Shovel",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 551,
+        "name": "Broken Shovel2",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 552,
+        "name": "Moms Shovel",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 553,
+        "name": "Mucormycosis",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 554,
+        "name": "2spooky",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "color"
+        ],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 555,
+        "name": "Golden Razor",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 556,
+        "name": "Sulfur",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 557,
+        "name": "Fortune Cookie",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 558,
+        "name": "Eye Sore",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 559,
+        "name": "120 Volt",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 560,
+        "name": "It Hurts",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 561,
+        "name": "Almond Milk",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "damage",
+            "firedelay",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 562,
+        "name": "Rock Bottom",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 563,
+        "name": "Nancy Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 564,
+        "name": "A Bar Of Soap",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay",
+            "shotspeed"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 565,
+        "name": "Blood Puppy",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "redChest",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 566,
+        "name": "Dream Catcher",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 567,
+        "name": "Paschal Candle",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 568,
+        "name": "Divine Intervention",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 569,
+        "name": "Blood Oath",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "curse"
+        ]
+    },
+    {
+        "id": 570,
+        "name": "Playdough Cookie",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearflag"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 571,
+        "name": "Orphan Socks",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "secret",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 572,
+        "name": "Eye Of The Occult",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "range",
+            "shotspeed",
+            "tearcolor",
+            "tearflag"
+        ],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 573,
+        "name": "Immaculate Heart",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "health"
+        ],
+        "itemPool": [
+            "angel",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 574,
+        "name": "Monstrance",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 575,
+        "name": "The Intruder",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 576,
+        "name": "Dirty Mind",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "shellGame"
+        ]
+    },
+    {
+        "id": 577,
+        "name": "Damocles",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 578,
+        "name": "Free Lemonade",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 579,
+        "name": "Spirit Sword",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "weapon",
+            "damage",
+            "firedelay"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 580,
+        "name": "Red Key",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "secret",
+            "redChest",
+            "curse",
+            "keyMaster",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 581,
+        "name": "Psy Fly",
+        "typeItem": "familiar",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 582,
+        "name": "Wavy Cap",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "firedelay",
+            "damage",
+            "speed"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 583,
+        "name": "Rocket In A Jar",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 584,
+        "name": "Book Of Virtues",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel",
+            "library"
+        ]
+    },
+    {
+        "id": 585,
+        "name": "Alabaster Box",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 586,
+        "name": "The Stairway",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 587,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 588,
+        "name": "Sol",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 589,
+        "name": "Luna",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 590,
+        "name": "Mercurius",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 591,
+        "name": "Venus",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 592,
+        "name": "Terra",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "tearflag"
+        ],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 593,
+        "name": "Mars",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 594,
+        "name": "Jupiter",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed",
+            "range",
+            "health"
+        ],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 595,
+        "name": "Saturnus",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 596,
+        "name": "Uranus",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 597,
+        "name": "Neptunus",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 598,
+        "name": "Pluto",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "range",
+            "firedelay",
+            "speed",
+            "size"
+        ],
+        "itemPool": [
+            "planetarium"
+        ]
+    },
+    {
+        "id": 599,
+        "name": "Voodoo Head",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 600,
+        "name": "Eye Drops",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 601,
+        "name": "Act Of Contrition",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "firedelay"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 602,
+        "name": "Member Card",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 603,
+        "name": "Battery Pack",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 604,
+        "name": "Moms Bracelet",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 605,
+        "name": "The Scooper",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 606,
+        "name": "Ocular Rift",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 607,
+        "name": "Boiled Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 608,
+        "name": "Freezer Baby",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 609,
+        "name": "Eternal D6",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 610,
+        "name": "Bird Cage",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 611,
+        "name": "Larynx",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 612,
+        "name": "Lost Soul",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 613,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 614,
+        "name": "Blood Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 615,
+        "name": "Lil Dumpy",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 616,
+        "name": "Birds Eye",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 617,
+        "name": "Lodestone",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 618,
+        "name": "Rotten Tomato",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 619,
+        "name": "Birthright",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 620,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 621,
+        "name": "Red Stew",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "health"
+        ],
+        "itemPool": [
+            "shop",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 622,
+        "name": "Genesis",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 623,
+        "name": "Sharp Key",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 624,
+        "name": "Booster Pack",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "boss"
+        ]
+    },
+    {
+        "id": 625,
+        "name": "Mega Mush",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 626,
+        "name": "Knife Piece 1",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 627,
+        "name": "Knife Piece 2",
+        "typeItem": "familiar",
+        "quality": 0,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 628,
+        "name": "Death Certificate",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 629,
+        "name": "Bot Fly",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 630,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 631,
+        "name": "Meat Cleaver",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 632,
+        "name": "Evil Charm",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "luck"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 633,
+        "name": "Dogma",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "flying",
+            "speed"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 634,
+        "name": "Purgatory",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "angel"
+        ]
+    },
+    {
+        "id": 635,
+        "name": "Stitches",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 636,
+        "name": "R Key",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 637,
+        "name": "Knockout Drops",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 638,
+        "name": "Eraser",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 639,
+        "name": "Yuck Heart",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "rottenBeggar"
+        ]
+    },
+    {
+        "id": 640,
+        "name": "Urn Of Souls",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 641,
+        "name": "Akeldama",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 642,
+        "name": "Magic Skin",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 643,
+        "name": "Revelation",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "flying"
+        ],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 644,
+        "name": "Consolation Prize",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 645,
+        "name": "Tinytoma",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 646,
+        "name": "Brimstone Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 647,
+        "name": "4 5 Volt",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "batteryBum"
+        ]
+    },
+    {
+        "id": 648,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 649,
+        "name": "Fruity Plum",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 650,
+        "name": "Plum Flute",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 651,
+        "name": "Star Of Bethlehem",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 652,
+        "name": "Cube Baby",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 653,
+        "name": "Vade Retro",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 654,
+        "name": "False Phd",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "redChest",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 655,
+        "name": "Spin To Win",
+        "typeItem": "active",
+        "quality": 1,
+        "stats": [
+            "familiars"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 656,
+        "name": "Damocles",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [
+            "familiars",
+            "damage"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 657,
+        "name": "Vasculitis",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 658,
+        "name": "Giant Cell",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 659,
+        "name": "Tropicamide",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "range"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 660,
+        "name": "Card Reading",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 661,
+        "name": "Quints",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 662,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 663,
+        "name": "Tooth And Nail",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 664,
+        "name": "Binge Eater",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "speed",
+            "firedelay",
+            "damage",
+            "range",
+            "shotspeed",
+            "luck",
+            "health"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 665,
+        "name": "Guppys Eye",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "pickupvision"
+        ],
+        "itemPool": [
+            "devil",
+            "redChest",
+            "curse"
+        ]
+    },
+    {
+        "id": 666,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 667,
+        "name": "Strawman",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 668,
+        "name": "Dads Note",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 669,
+        "name": "Sausage",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "all",
+            "health"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 670,
+        "name": "Options",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop"
+        ]
+    },
+    {
+        "id": 671,
+        "name": "Candy Heart",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 672,
+        "name": "A Pound Of Flesh",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 673,
+        "name": "Redemption",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 674,
+        "name": "Spirit Shackles",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 675,
+        "name": "Cracked Orb",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 676,
+        "name": "Empty Heart",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "demonBeggar"
+        ]
+    },
+    {
+        "id": 677,
+        "name": "Astral Projection",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "flying",
+            "tearflag",
+            "tearcolor"
+        ],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 678,
+        "name": "C Section",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "weapon",
+            "firedelay",
+            "damage",
+            "tearcolor",
+            "range"
+        ],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 679,
+        "name": "Lil Abaddon",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 680,
+        "name": "Montezumas Revenge",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 681,
+        "name": "Lil Portal",
+        "typeItem": "familiar",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 682,
+        "name": "Worm Friend",
+        "typeItem": "familiar",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 683,
+        "name": "Bone Spurs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 684,
+        "name": "Hungry Soul",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 685,
+        "name": "Jar Of Wisps",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 686,
+        "name": "Soul Locket",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 687,
+        "name": "Friend Finder",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 688,
+        "name": "Inner Child",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "range",
+            "firedelay",
+            "speed",
+            "size"
+        ],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 689,
+        "name": "Glitched Crown",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 690,
+        "name": "Belly Jelly",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 691,
+        "name": "Sacred Orb",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "angel",
+            "secret"
+        ]
+    },
+    {
+        "id": 692,
+        "name": "Sanguine Bond",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 693,
+        "name": "The Swarm",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "keyMaster"
+        ]
+    },
+    {
+        "id": 694,
+        "name": "Heartbreak",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "devil",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 695,
+        "name": "Bloody Gust",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "speed",
+            "firedelay",
+            "color"
+        ],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 696,
+        "name": "Salvation",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "angel"
+        ]
+    },
+    {
+        "id": 697,
+        "name": "Vanishing Twin",
+        "typeItem": "familiar",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "secret",
+            "curse"
+        ]
+    },
+    {
+        "id": 698,
+        "name": "Twisted Pair",
+        "typeItem": "familiar",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 699,
+        "name": "Azazels Rage",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "devil"
+        ]
+    },
+    {
+        "id": 700,
+        "name": "Echo Chamber",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "secret",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 701,
+        "name": "Isaacs Tomb",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 702,
+        "name": "Vengeful Spirit",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 703,
+        "name": "Esau Jr",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 704,
+        "name": "Berserk",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "all"
+        ],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 705,
+        "name": "Dark Arts",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "speed"
+        ],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 706,
+        "name": "Abyss",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 707,
+        "name": "Supper",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [
+            "health"
+        ],
+        "itemPool": [
+            "boss",
+            "beggar"
+        ]
+    },
+    {
+        "id": 708,
+        "name": "Stapler",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 709,
+        "name": "Suplex",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 710,
+        "name": "Bag Of Crafting",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 711,
+        "name": "Flip",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "secret",
+            "curse",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 712,
+        "name": "Lemegeton",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "devil",
+            "library"
+        ]
+    },
+    {
+        "id": 713,
+        "name": "Sumptorium",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 714,
+        "name": "Recall",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [
+            "flying"
+        ],
+        "itemPool": []
+    },
+    {
+        "id": 715,
+        "name": "Hold",
+        "typeItem": "active",
+        "quality": 0,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 716,
+        "name": "Keepers Sack",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "speed",
+            "range"
+        ],
+        "itemPool": [
+            "shop",
+            "secret"
+        ]
+    },
+    {
+        "id": 717,
+        "name": "Keepers Kin",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 718,
+        "name": "",
+        "typeItem": "",
+        "quality": -1,
+        "stats": [],
+        "itemPool": []
+    },
+    {
+        "id": 719,
+        "name": "Keepers Box",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "shop",
+            "secret"
+        ]
+    },
+    {
+        "id": 720,
+        "name": "Everything Jar",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 721,
+        "name": "Tmtrainer",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "secret"
+        ]
+    },
+    {
+        "id": 722,
+        "name": "Anima Sola",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 723,
+        "name": "Spindown Dice",
+        "typeItem": "active",
+        "quality": 4,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "secret"
+        ]
+    },
+    {
+        "id": 724,
+        "name": "Hypercoagulation",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 725,
+        "name": "Ibs",
+        "typeItem": "passive",
+        "quality": 0,
+        "stats": [],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 726,
+        "name": "Hemoptysis",
+        "typeItem": "passive",
+        "quality": 1,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 727,
+        "name": "Ghost Bombs",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "bombBum"
+        ]
+    },
+    {
+        "id": 728,
+        "name": "Gello",
+        "typeItem": "active",
+        "quality": 3,
+        "stats": [],
+        "itemPool": [
+            "treasure",
+            "devil",
+            "ultraSecret"
+        ]
+    },
+    {
+        "id": 729,
+        "name": "Decap Attack",
+        "typeItem": "active",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    {
+        "id": 730,
+        "name": "Glass Eye",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage",
+            "luck"
+        ],
+        "itemPool": [
+            "boss",
+            "goldenChest"
+        ]
+    },
+    {
+        "id": 731,
+        "name": "Stye",
+        "typeItem": "passive",
+        "quality": 2,
+        "stats": [
+            "damage",
+            "range"
+        ],
+        "itemPool": [
+            "boss"
+        ]
+    },
+    {
+        "id": 732,
+        "name": "Moms Ring",
+        "typeItem": "passive",
+        "quality": 3,
+        "stats": [
+            "damage"
+        ],
+        "itemPool": [
+            "goldenChest"
+        ]
+    }
+]

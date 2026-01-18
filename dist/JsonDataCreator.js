@@ -19,7 +19,10 @@ const categories = ["passive", "active", "familiar"];
 for (const category of categories) {
     for (const item of IsaacItems_json_1.default[category]) {
         const id = parseInt(item?.["@id"]);
-        allItems[id - 1]?.setName(item?.["@name"]);
+        // these two lines take the # and the _NAME part out of each name, put the name into lowercase, then capitalize the first letter of each word
+        let nameFixed = item?.["@name"].substring(1, item?.["@name"].length - 5).toLowerCase();
+        nameFixed = nameFixed.split("_").map(word => word[0]?.toUpperCase() + word.substring(1, word.length)).join().replaceAll(",", " ");
+        allItems[id - 1]?.setName(nameFixed);
         allItems[id - 1].typeItem = category;
         if (item?.["@cache"]) {
             allItems[id - 1].stats = item["@cache"].split(" "); // isnt adding correctly right now
@@ -42,10 +45,19 @@ for (const itemPool of IsaacItemPool_json_1.default) {
         allItems[id - 1].itemPool.push(poolName);
     }
 }
-// convert to json and write that json to ItemDataFinal.json
-const jsonStr = JSON.stringify(allItems, null, 4);
-const filePath = path_1.default.join(__dirname, "../datasets/ItemDataFinal.json");
-fs_1.default.writeFile(filePath, jsonStr, "utf8", () => {
+// create reference by name dict
+let dict = {};
+for (const item of allItems) {
+    dict[item.name] = item;
+}
+// convert both by id and by string to jsons
+const jsonID = JSON.stringify(allItems, null, 4);
+const jsonName = JSON.stringify(dict, null, 4);
+const filePath = path_1.default.join(__dirname, "../datasets/");
+fs_1.default.writeFile(path_1.default.join(filePath, "ItemDataByID.json"), jsonID, "utf8", () => {
+    console.log("Dataset created");
+});
+fs_1.default.writeFile(path_1.default.join(filePath, "ItemDataByName.json"), jsonName, "utf8", () => {
     console.log("Dataset created");
 });
 //# sourceMappingURL=JsonDataCreator.js.map

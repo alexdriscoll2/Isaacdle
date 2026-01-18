@@ -1,7 +1,20 @@
-[
-    {
+{
+    "2020": {
+        "id": 245,
+        "name": "2020",
+        "typeItem": "passive",
+        "quality": 4,
+        "stats": [
+            "damage",
+            "firedelay"
+        ],
+        "itemPool": [
+            "treasure"
+        ]
+    },
+    "The Sad Onion": {
         "id": 1,
-        "name": "#THE_SAD_ONION_NAME",
+        "name": "The Sad Onion",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -11,9 +24,9 @@
             "treasure"
         ]
     },
-    {
+    "The Inner Eye": {
         "id": 2,
-        "name": "#THE_INNER_EYE_NAME",
+        "name": "The Inner Eye",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -24,9 +37,9 @@
             "treasure"
         ]
     },
-    {
+    "Spoon Bender": {
         "id": 3,
-        "name": "#SPOON_BENDER_NAME",
+        "name": "Spoon Bender",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -38,9 +51,9 @@
             "treasure"
         ]
     },
-    {
+    "Crickets Head": {
         "id": 4,
-        "name": "#CRICKETS_HEAD_NAME",
+        "name": "Crickets Head",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -51,9 +64,9 @@
             "treasure"
         ]
     },
-    {
+    "My Reflection": {
         "id": 5,
-        "name": "#MY_REFLECTION_NAME",
+        "name": "My Reflection",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -67,9 +80,9 @@
             "treasure"
         ]
     },
-    {
+    "Number One": {
         "id": 6,
-        "name": "#NUMBER_ONE_NAME",
+        "name": "Number One",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -81,9 +94,9 @@
             "treasure"
         ]
     },
-    {
+    "Blood Of The Martyr": {
         "id": 7,
-        "name": "#BLOOD_OF_THE_MARTYR_NAME",
+        "name": "Blood Of The Martyr",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -94,9 +107,9 @@
             "angel"
         ]
     },
-    {
+    "Brother Bobby": {
         "id": 8,
-        "name": "#BROTHER_BOBBY_NAME",
+        "name": "Brother Bobby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -105,9 +118,9 @@
             "devil"
         ]
     },
-    {
+    "Skatole": {
         "id": 9,
-        "name": "#SKATOLE_NAME",
+        "name": "Skatole",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -115,9 +128,9 @@
             "shellGame"
         ]
     },
-    {
+    "Halo Of Flies": {
         "id": 10,
-        "name": "#HALO_OF_FLIES_NAME",
+        "name": "Halo Of Flies",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -126,9 +139,9 @@
             "keyMaster"
         ]
     },
-    {
+    "1up": {
         "id": 11,
-        "name": "#1UP_NAME",
+        "name": "1up",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -136,9 +149,9 @@
             "secret"
         ]
     },
-    {
+    "Magic Mushroom": {
         "id": 12,
-        "name": "#MAGIC_MUSHROOM_NAME",
+        "name": "Magic Mushroom",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -153,9 +166,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Virus": {
         "id": 13,
-        "name": "#THE_VIRUS_NAME",
+        "name": "The Virus",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -168,9 +181,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Roid Rage": {
         "id": 14,
-        "name": "#ROID_RAGE_NAME",
+        "name": "Roid Rage",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -183,9 +196,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Heart": {
         "id": 15,
-        "name": "#HEART_NAME",
+        "name": "Heart",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -196,9 +209,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Raw Liver": {
         "id": 16,
-        "name": "#RAW_LIVER_NAME",
+        "name": "Raw Liver",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -208,9 +221,9 @@
             "secret"
         ]
     },
-    {
+    "Skeleton Key": {
         "id": 17,
-        "name": "#SKELETON_KEY_NAME",
+        "name": "Skeleton Key",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -219,17 +232,17 @@
             "secret"
         ]
     },
-    {
+    "A Dollar": {
         "id": 18,
-        "name": "#A_DOLLAR_NAME",
+        "name": "A Dollar",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Boom": {
         "id": 19,
-        "name": "#BOOM_NAME",
+        "name": "Boom",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -237,9 +250,9 @@
             "treasure"
         ]
     },
-    {
+    "Transcendence": {
         "id": 20,
-        "name": "#TRANSCENDENCE_NAME",
+        "name": "Transcendence",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -249,9 +262,9 @@
             "secret"
         ]
     },
-    {
+    "The Compass": {
         "id": 21,
-        "name": "#THE_COMPASS_NAME",
+        "name": "The Compass",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -260,9 +273,9 @@
             "beggar"
         ]
     },
-    {
+    "Lunch": {
         "id": 22,
-        "name": "#LUNCH_NAME",
+        "name": "Lunch",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -273,9 +286,9 @@
             "beggar"
         ]
     },
-    {
+    "Dinner": {
         "id": 23,
-        "name": "#DINNER_NAME",
+        "name": "Dinner",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -286,9 +299,9 @@
             "beggar"
         ]
     },
-    {
+    "Dessert": {
         "id": 24,
-        "name": "#DESSERT_NAME",
+        "name": "Dessert",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -299,9 +312,9 @@
             "beggar"
         ]
     },
-    {
+    "Breakfast": {
         "id": 25,
-        "name": "#BREAKFAST_NAME",
+        "name": "Breakfast",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -312,9 +325,9 @@
             "beggar"
         ]
     },
-    {
+    "Rotten Meat": {
         "id": 26,
-        "name": "#ROTTEN_MEAT_NAME",
+        "name": "Rotten Meat",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -326,9 +339,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Wooden Spoon": {
         "id": 27,
-        "name": "#WOODEN_SPOON_NAME",
+        "name": "Wooden Spoon",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -338,9 +351,9 @@
             "boss"
         ]
     },
-    {
+    "The Belt": {
         "id": 28,
-        "name": "#THE_BELT_NAME",
+        "name": "The Belt",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -351,9 +364,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Moms Underwear": {
         "id": 29,
-        "name": "#MOMS_UNDERWEAR_NAME",
+        "name": "Moms Underwear",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -364,9 +377,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Moms Heels": {
         "id": 30,
-        "name": "#MOMS_HEELS_NAME",
+        "name": "Moms Heels",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -377,9 +390,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Moms Lipstick": {
         "id": 31,
-        "name": "#MOMS_LIPSTICK_NAME",
+        "name": "Moms Lipstick",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -390,9 +403,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Wire Coat Hanger": {
         "id": 32,
-        "name": "#WIRE_COAT_HANGER_NAME",
+        "name": "Wire Coat Hanger",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -403,9 +416,9 @@
             "goldenChest"
         ]
     },
-    {
+    "The Bible": {
         "id": 33,
-        "name": "#THE_BIBLE_NAME",
+        "name": "The Bible",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -417,22 +430,19 @@
             "library"
         ]
     },
-    {
-        "id": 34,
-        "name": "#THE_BOOK_OF_BELIAL_NAME",
-        "typeItem": "active",
-        "quality": 2,
+    "The Book Of Belial": {
+        "id": 59,
+        "name": "The Book Of Belial",
+        "typeItem": "passive",
+        "quality": 0,
         "stats": [
             "damage"
         ],
-        "itemPool": [
-            "devil",
-            "library"
-        ]
+        "itemPool": []
     },
-    {
+    "The Necronomicon": {
         "id": 35,
-        "name": "#THE_NECRONOMICON_NAME",
+        "name": "The Necronomicon",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -442,9 +452,9 @@
             "library"
         ]
     },
-    {
+    "The Poop": {
         "id": 36,
-        "name": "#THE_POOP_NAME",
+        "name": "The Poop",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -453,9 +463,9 @@
             "shellGame"
         ]
     },
-    {
+    "Mr Boom": {
         "id": 37,
-        "name": "#MR_BOOM_NAME",
+        "name": "Mr Boom",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -464,9 +474,9 @@
             "bombBum"
         ]
     },
-    {
+    "Tammys Head": {
         "id": 38,
-        "name": "#TAMMYS_HEAD_NAME",
+        "name": "Tammys Head",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -474,9 +484,9 @@
             "treasure"
         ]
     },
-    {
+    "Moms Bra": {
         "id": 39,
-        "name": "#MOMS_BRA_NAME",
+        "name": "Moms Bra",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -484,9 +494,9 @@
             "treasure"
         ]
     },
-    {
+    "Kamikaze": {
         "id": 40,
-        "name": "#KAMIKAZE_NAME",
+        "name": "Kamikaze",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -495,9 +505,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Moms Pad": {
         "id": 41,
-        "name": "#MOMS_PAD_NAME",
+        "name": "Moms Pad",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -505,9 +515,9 @@
             "treasure"
         ]
     },
-    {
+    "Bobs Rotten Head": {
         "id": 42,
-        "name": "#BOBS_ROTTEN_HEAD_NAME",
+        "name": "Bobs Rotten Head",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -516,17 +526,17 @@
             "rottenBeggar"
         ]
     },
-    {
-        "id": 43,
+    "": {
+        "id": 718,
         "name": "",
         "typeItem": "",
         "quality": -1,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Teleport": {
         "id": 44,
-        "name": "#TELEPORT_NAME",
+        "name": "Teleport",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -534,9 +544,9 @@
             "treasure"
         ]
     },
-    {
+    "Yum Heart": {
         "id": 45,
-        "name": "#YUM_HEART_NAME",
+        "name": "Yum Heart",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -545,9 +555,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Lucky Foot": {
         "id": 46,
-        "name": "#LUCKY_FOOT_NAME",
+        "name": "Lucky Foot",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -558,9 +568,9 @@
             "beggar"
         ]
     },
-    {
+    "Doctors Remote": {
         "id": 47,
-        "name": "#DOCTORS_REMOTE_NAME",
+        "name": "Doctors Remote",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -568,9 +578,9 @@
             "treasure"
         ]
     },
-    {
+    "Cupids Arrow": {
         "id": 48,
-        "name": "#CUPIDS_ARROW_NAME",
+        "name": "Cupids Arrow",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -580,9 +590,9 @@
             "treasure"
         ]
     },
-    {
+    "Shoop Da Whoop": {
         "id": 49,
-        "name": "#SHOOP_DA_WHOOP_NAME",
+        "name": "Shoop Da Whoop",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -591,9 +601,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Steven": {
         "id": 50,
-        "name": "#STEVEN_NAME",
+        "name": "Steven",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -601,9 +611,9 @@
         ],
         "itemPool": []
     },
-    {
+    "Pentagram": {
         "id": 51,
-        "name": "#PENTAGRAM_NAME",
+        "name": "Pentagram",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -617,9 +627,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Dr Fetus": {
         "id": 52,
-        "name": "#DR_FETUS_NAME",
+        "name": "Dr Fetus",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -629,9 +639,9 @@
             "treasure"
         ]
     },
-    {
+    "Magneto": {
         "id": 53,
-        "name": "#MAGNETO_NAME",
+        "name": "Magneto",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -640,9 +650,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Treasure Map": {
         "id": 54,
-        "name": "#TREASURE_MAP_NAME",
+        "name": "Treasure Map",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -651,9 +661,9 @@
             "beggar"
         ]
     },
-    {
+    "Moms Eye": {
         "id": 55,
-        "name": "#MOMS_EYE_NAME",
+        "name": "Moms Eye",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -661,9 +671,9 @@
             "treasure"
         ]
     },
-    {
+    "Lemon Mishap": {
         "id": 56,
-        "name": "#LEMON_MISHAP_NAME",
+        "name": "Lemon Mishap",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -671,9 +681,9 @@
             "treasure"
         ]
     },
-    {
+    "Distant Admiration": {
         "id": 57,
-        "name": "#DISTANT_ADMIRATION_NAME",
+        "name": "Distant Admiration",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -682,9 +692,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Book Of Shadows": {
         "id": 58,
-        "name": "#BOOK_OF_SHADOWS_NAME",
+        "name": "Book Of Shadows",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -693,19 +703,9 @@
             "library"
         ]
     },
-    {
-        "id": 59,
-        "name": "#THE_BOOK_OF_BELIAL_NAME",
-        "typeItem": "passive",
-        "quality": 0,
-        "stats": [
-            "damage"
-        ],
-        "itemPool": []
-    },
-    {
+    "The Ladder": {
         "id": 60,
-        "name": "#THE_LADDER_NAME",
+        "name": "The Ladder",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -715,17 +715,9 @@
             "shop"
         ]
     },
-    {
-        "id": 61,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Charm Of The Vampire": {
         "id": 62,
-        "name": "#CHARM_OF_THE_VAMPIRE_NAME",
+        "name": "Charm Of The Vampire",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -735,9 +727,9 @@
             "treasure"
         ]
     },
-    {
+    "The Battery": {
         "id": 63,
-        "name": "#THE_BATTERY_NAME",
+        "name": "The Battery",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -746,9 +738,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Steam Sale": {
         "id": 64,
-        "name": "#STEAM_SALE_NAME",
+        "name": "Steam Sale",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -756,9 +748,9 @@
             "shop"
         ]
     },
-    {
+    "Anarchist Cookbook": {
         "id": 65,
-        "name": "#ANARCHIST_COOKBOOK_NAME",
+        "name": "Anarchist Cookbook",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -767,9 +759,9 @@
             "library"
         ]
     },
-    {
+    "The Hourglass": {
         "id": 66,
-        "name": "#THE_HOURGLASS_NAME",
+        "name": "The Hourglass",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -777,9 +769,9 @@
             "treasure"
         ]
     },
-    {
+    "Sister Maggy": {
         "id": 67,
-        "name": "#SISTER_MAGGY_NAME",
+        "name": "Sister Maggy",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -789,9 +781,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Technology": {
         "id": 68,
-        "name": "#TECHNOLOGY_NAME",
+        "name": "Technology",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -801,9 +793,9 @@
             "treasure"
         ]
     },
-    {
+    "Chocolate Milk": {
         "id": 69,
-        "name": "#CHOCOLATE_MILK_NAME",
+        "name": "Chocolate Milk",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -813,9 +805,9 @@
             "treasure"
         ]
     },
-    {
+    "Growth Hormones": {
         "id": 70,
-        "name": "#GROWTH_HORMONES_NAME",
+        "name": "Growth Hormones",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -827,9 +819,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Mini Mush": {
         "id": 71,
-        "name": "#MINI_MUSH_NAME",
+        "name": "Mini Mush",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -841,9 +833,9 @@
             "treasure"
         ]
     },
-    {
+    "Rosary": {
         "id": 72,
-        "name": "#ROSARY_NAME",
+        "name": "Rosary",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -855,9 +847,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Cube Of Meat": {
         "id": 73,
-        "name": "#CUBE_OF_MEAT_NAME",
+        "name": "Cube Of Meat",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -865,9 +857,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "A Quarter": {
         "id": 74,
-        "name": "#A_QUARTER_NAME",
+        "name": "A Quarter",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -876,9 +868,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Phd": {
         "id": 75,
-        "name": "#PHD_NAME",
+        "name": "Phd",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -889,9 +881,9 @@
             "shop"
         ]
     },
-    {
+    "Xray Vision": {
         "id": 76,
-        "name": "#XRAY_VISION_NAME",
+        "name": "Xray Vision",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -899,9 +891,9 @@
             "treasure"
         ]
     },
-    {
+    "My Little Unicorn": {
         "id": 77,
-        "name": "#MY_LITTLE_UNICORN_NAME",
+        "name": "My Little Unicorn",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -911,9 +903,9 @@
             "treasure"
         ]
     },
-    {
+    "Book Of Revelations": {
         "id": 78,
-        "name": "#BOOK_OF_REVELATIONS_NAME",
+        "name": "Book Of Revelations",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -923,9 +915,9 @@
             "library"
         ]
     },
-    {
+    "The Mark": {
         "id": 79,
-        "name": "#THE_MARK_NAME",
+        "name": "The Mark",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -939,9 +931,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Pact": {
         "id": 80,
-        "name": "#THE_PACT_NAME",
+        "name": "The Pact",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -955,9 +947,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Dead Cat": {
         "id": 81,
-        "name": "#DEAD_CAT_NAME",
+        "name": "Dead Cat",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -967,9 +959,9 @@
             "curse"
         ]
     },
-    {
+    "Lord Of The Pit": {
         "id": 82,
-        "name": "#LORD_OF_THE_PIT_NAME",
+        "name": "Lord Of The Pit",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -982,9 +974,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Nail": {
         "id": 83,
-        "name": "#THE_NAIL_NAME",
+        "name": "The Nail",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -996,9 +988,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "We Need To Go Deeper": {
         "id": 84,
-        "name": "#WE_NEED_TO_GO_DEEPER_NAME",
+        "name": "We Need To Go Deeper",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -1007,9 +999,9 @@
             "secret"
         ]
     },
-    {
+    "Deck Of Cards": {
         "id": 85,
-        "name": "#DECK_OF_CARDS_NAME",
+        "name": "Deck Of Cards",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -1018,9 +1010,9 @@
             "shop"
         ]
     },
-    {
+    "Monstros Tooth": {
         "id": 86,
-        "name": "#MONSTROS_TOOTH_NAME",
+        "name": "Monstros Tooth",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1028,9 +1020,9 @@
             "treasure"
         ]
     },
-    {
+    "Lokis Horns": {
         "id": 87,
-        "name": "#LOKIS_HORNS_NAME",
+        "name": "Lokis Horns",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -1039,9 +1031,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Little Chubby": {
         "id": 88,
-        "name": "#LITTLE_CHUBBY_NAME",
+        "name": "Little Chubby",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1049,9 +1041,9 @@
             "treasure"
         ]
     },
-    {
+    "Spider Bite": {
         "id": 89,
-        "name": "#SPIDER_BITE_NAME",
+        "name": "Spider Bite",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1062,9 +1054,9 @@
             "treasure"
         ]
     },
-    {
+    "The Small Rock": {
         "id": 90,
-        "name": "#THE_SMALL_ROCK_NAME",
+        "name": "The Small Rock",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1075,9 +1067,9 @@
         ],
         "itemPool": []
     },
-    {
+    "Spelunker Hat": {
         "id": 91,
-        "name": "#SPELUNKER_HAT_NAME",
+        "name": "Spelunker Hat",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1085,9 +1077,9 @@
             "treasure"
         ]
     },
-    {
+    "Super Bandage": {
         "id": 92,
-        "name": "#SUPER_BANDAGE_NAME",
+        "name": "Super Bandage",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1098,9 +1090,9 @@
             "boss"
         ]
     },
-    {
+    "The Gamekid": {
         "id": 93,
-        "name": "#THE_GAMEKID_NAME",
+        "name": "The Gamekid",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1108,9 +1100,9 @@
             "treasure"
         ]
     },
-    {
+    "Sack Of Pennies": {
         "id": 94,
-        "name": "#SACK_OF_PENNIES_NAME",
+        "name": "Sack Of Pennies",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -1118,9 +1110,9 @@
             "treasure"
         ]
     },
-    {
+    "Robobaby": {
         "id": 95,
-        "name": "#ROBOBABY_NAME",
+        "name": "Robobaby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -1128,9 +1120,9 @@
             "treasure"
         ]
     },
-    {
+    "Little Chad": {
         "id": 96,
-        "name": "#LITTLE_CHAD_NAME",
+        "name": "Little Chad",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1139,9 +1131,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Book Of Sin": {
         "id": 97,
-        "name": "#THE_BOOK_OF_SIN_NAME",
+        "name": "The Book Of Sin",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -1151,9 +1143,9 @@
             "library"
         ]
     },
-    {
+    "The Relic": {
         "id": 98,
-        "name": "#THE_RELIC_NAME",
+        "name": "The Relic",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -1162,9 +1154,9 @@
             "angel"
         ]
     },
-    {
+    "Little Gish": {
         "id": 99,
-        "name": "#LITTLE_GISH_NAME",
+        "name": "Little Gish",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1172,9 +1164,9 @@
             "treasure"
         ]
     },
-    {
+    "Little Steven": {
         "id": 100,
-        "name": "#LITTLE_STEVEN_NAME",
+        "name": "Little Steven",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1182,9 +1174,9 @@
             "treasure"
         ]
     },
-    {
+    "The Halo": {
         "id": 101,
-        "name": "#THE_HALO_NAME",
+        "name": "The Halo",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1199,9 +1191,9 @@
             "angel"
         ]
     },
-    {
+    "Moms Bottle Of Pills": {
         "id": 102,
-        "name": "#MOMS_BOTTLE_OF_PILLS_NAME",
+        "name": "Moms Bottle Of Pills",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1212,9 +1204,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "The Common Cold": {
         "id": 103,
-        "name": "#THE_COMMON_COLD_NAME",
+        "name": "The Common Cold",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -1225,9 +1217,9 @@
             "treasure"
         ]
     },
-    {
+    "The Parasite": {
         "id": 104,
-        "name": "#THE_PARASITE_NAME",
+        "name": "The Parasite",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1238,9 +1230,9 @@
             "treasure"
         ]
     },
-    {
+    "The D6": {
         "id": 105,
-        "name": "#THE_D6_NAME",
+        "name": "The D6",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -1249,9 +1241,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Mr Mega": {
         "id": 106,
-        "name": "#MR_MEGA_NAME",
+        "name": "Mr Mega",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1260,9 +1252,9 @@
             "bombBum"
         ]
     },
-    {
+    "The Pinking Shears": {
         "id": 107,
-        "name": "#THE_PINKING_SHEARS_NAME",
+        "name": "The Pinking Shears",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -1272,9 +1264,9 @@
             "treasure"
         ]
     },
-    {
+    "The Wafer": {
         "id": 108,
-        "name": "#THE_WAFER_NAME",
+        "name": "The Wafer",
         "typeItem": "passive",
         "quality": 4,
         "stats": [],
@@ -1283,9 +1275,9 @@
             "angel"
         ]
     },
-    {
+    "Money undefined Power": {
         "id": 109,
-        "name": "#MONEY__POWER_NAME",
+        "name": "Money undefined Power",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1297,9 +1289,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Moms Contacts": {
         "id": 110,
-        "name": "#MOMS_CONTACTS_NAME",
+        "name": "Moms Contacts",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1312,9 +1304,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Bean": {
         "id": 111,
-        "name": "#THE_BEAN_NAME",
+        "name": "The Bean",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -1323,9 +1315,9 @@
             "beggar"
         ]
     },
-    {
+    "Guardian Angel": {
         "id": 112,
-        "name": "#GUARDIAN_ANGEL_NAME",
+        "name": "Guardian Angel",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1333,9 +1325,9 @@
             "angel"
         ]
     },
-    {
+    "Demon Baby": {
         "id": 113,
-        "name": "#DEMON_BABY_NAME",
+        "name": "Demon Baby",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1344,9 +1336,9 @@
             "devil"
         ]
     },
-    {
+    "Moms Knife": {
         "id": 114,
-        "name": "#MOMS_KNIFE_NAME",
+        "name": "Moms Knife",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -1357,9 +1349,9 @@
             "devil"
         ]
     },
-    {
+    "Ouija Board": {
         "id": 115,
-        "name": "#OUIJA_BOARD_NAME",
+        "name": "Ouija Board",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1372,9 +1364,9 @@
             "devil"
         ]
     },
-    {
+    "9 Volt": {
         "id": 116,
-        "name": "#9_VOLT_NAME",
+        "name": "9 Volt",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1383,9 +1375,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Dead Bird": {
         "id": 117,
-        "name": "#DEAD_BIRD_NAME",
+        "name": "Dead Bird",
         "typeItem": "passive",
         "quality": 0,
         "stats": [
@@ -1395,9 +1387,9 @@
             "treasure"
         ]
     },
-    {
+    "Brimstone": {
         "id": 118,
-        "name": "#BRIMSTONE_NAME",
+        "name": "Brimstone",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -1408,9 +1400,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Blood Bag": {
         "id": 119,
-        "name": "#BLOOD_BAG_NAME",
+        "name": "Blood Bag",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1421,9 +1413,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Odd Mushroom Thin": {
         "id": 120,
-        "name": "#ODD_MUSHROOM_THIN_NAME",
+        "name": "Odd Mushroom Thin",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1437,9 +1429,9 @@
             "secret"
         ]
     },
-    {
+    "Odd Mushroom Large": {
         "id": 121,
-        "name": "#ODD_MUSHROOM_LARGE_NAME",
+        "name": "Odd Mushroom Large",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1454,9 +1446,9 @@
             "secret"
         ]
     },
-    {
+    "Whore Of Babylon": {
         "id": 122,
-        "name": "#WHORE_OF_BABYLON_NAME",
+        "name": "Whore Of Babylon",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1469,9 +1461,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Monster Manual": {
         "id": 123,
-        "name": "#MONSTER_MANUAL_NAME",
+        "name": "Monster Manual",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1481,9 +1473,9 @@
             "library"
         ]
     },
-    {
+    "Dead Sea Scrolls": {
         "id": 124,
-        "name": "#DEAD_SEA_SCROLLS_NAME",
+        "name": "Dead Sea Scrolls",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1492,9 +1484,9 @@
             "angel"
         ]
     },
-    {
+    "Bobbybomb": {
         "id": 125,
-        "name": "#BOBBYBOMB_NAME",
+        "name": "Bobbybomb",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1503,9 +1495,9 @@
             "bombBum"
         ]
     },
-    {
+    "Razor Blade": {
         "id": 126,
-        "name": "#RAZOR_BLADE_NAME",
+        "name": "Razor Blade",
         "typeItem": "active",
         "quality": 0,
         "stats": [
@@ -1517,9 +1509,9 @@
             "curse"
         ]
     },
-    {
+    "Forget Me Now": {
         "id": 127,
-        "name": "#FORGET_ME_NOW_NAME",
+        "name": "Forget Me Now",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -1530,9 +1522,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Forever Alone": {
         "id": 128,
-        "name": "#FOREVER_ALONE_NAME",
+        "name": "Forever Alone",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -1541,9 +1533,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Bucket Of Lard": {
         "id": 129,
-        "name": "#BUCKET_OF_LARD_NAME",
+        "name": "Bucket Of Lard",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -1554,9 +1546,9 @@
             "treasure"
         ]
     },
-    {
+    "A Pony": {
         "id": 130,
-        "name": "#A_PONY_NAME",
+        "name": "A Pony",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -1565,9 +1557,9 @@
         ],
         "itemPool": []
     },
-    {
+    "Bomb Bag": {
         "id": 131,
-        "name": "#BOMB_BAG_NAME",
+        "name": "Bomb Bag",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1575,9 +1567,9 @@
             "treasure"
         ]
     },
-    {
+    "A Lump Of Coal": {
         "id": 132,
-        "name": "#A_LUMP_OF_COAL_NAME",
+        "name": "A Lump Of Coal",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1587,9 +1579,9 @@
         ],
         "itemPool": []
     },
-    {
+    "Guppys Paw": {
         "id": 133,
-        "name": "#GUPPYS_PAW_NAME",
+        "name": "Guppys Paw",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -1599,9 +1591,9 @@
             "curse"
         ]
     },
-    {
+    "Guppys Tail": {
         "id": 134,
-        "name": "#GUPPYS_TAIL_NAME",
+        "name": "Guppys Tail",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1611,9 +1603,9 @@
             "curse"
         ]
     },
-    {
+    "Iv Bag": {
         "id": 135,
-        "name": "#IV_BAG_NAME",
+        "name": "Iv Bag",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1621,9 +1613,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Best Friend": {
         "id": 136,
-        "name": "#BEST_FRIEND_NAME",
+        "name": "Best Friend",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1631,9 +1623,9 @@
             "treasure"
         ]
     },
-    {
+    "Remote Detonator": {
         "id": 137,
-        "name": "#REMOTE_DETONATOR_NAME",
+        "name": "Remote Detonator",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1644,9 +1636,9 @@
             "bombBum"
         ]
     },
-    {
+    "Stigmata": {
         "id": 138,
-        "name": "#STIGMATA_NAME",
+        "name": "Stigmata",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1658,9 +1650,9 @@
             "angel"
         ]
     },
-    {
+    "Moms Purse": {
         "id": 139,
-        "name": "#MOMS_PURSE_NAME",
+        "name": "Moms Purse",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1668,9 +1660,9 @@
             "shop"
         ]
     },
-    {
+    "Bobs Curse": {
         "id": 140,
-        "name": "#BOBS_CURSE_NAME",
+        "name": "Bobs Curse",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -1681,9 +1673,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Pageant Boy": {
         "id": 141,
-        "name": "#PAGEANT_BOY_NAME",
+        "name": "Pageant Boy",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -1691,9 +1683,9 @@
             "boss"
         ]
     },
-    {
+    "Scapular": {
         "id": 142,
-        "name": "#SCAPULAR_NAME",
+        "name": "Scapular",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1702,9 +1694,9 @@
             "angel"
         ]
     },
-    {
+    "Speed Ball": {
         "id": 143,
-        "name": "#SPEED_BALL_NAME",
+        "name": "Speed Ball",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1717,9 +1709,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Bum Friend": {
         "id": 144,
-        "name": "#BUM_FRIEND_NAME",
+        "name": "Bum Friend",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -1728,9 +1720,9 @@
             "beggar"
         ]
     },
-    {
+    "Guppys Head": {
         "id": 145,
-        "name": "#GUPPYS_HEAD_NAME",
+        "name": "Guppys Head",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -1740,9 +1732,9 @@
             "curse"
         ]
     },
-    {
+    "Prayer Card": {
         "id": 146,
-        "name": "#PRAYER_CARD_NAME",
+        "name": "Prayer Card",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -1751,9 +1743,9 @@
             "angel"
         ]
     },
-    {
+    "Notched Axe": {
         "id": 147,
-        "name": "#NOTCHED_AXE_NAME",
+        "name": "Notched Axe",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -1761,9 +1753,9 @@
             "shop"
         ]
     },
-    {
+    "Infestation": {
         "id": 148,
-        "name": "#INFESTATION_NAME",
+        "name": "Infestation",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -1771,9 +1763,9 @@
             "treasure"
         ]
     },
-    {
+    "Ipecac": {
         "id": 149,
-        "name": "#IPECAC_NAME",
+        "name": "Ipecac",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -1783,9 +1775,9 @@
             "treasure"
         ]
     },
-    {
+    "Tough Love": {
         "id": 150,
-        "name": "#TOUGH_LOVE_NAME",
+        "name": "Tough Love",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -1793,9 +1785,9 @@
             "treasure"
         ]
     },
-    {
+    "The Mulligan": {
         "id": 151,
-        "name": "#THE_MULLIGAN_NAME",
+        "name": "The Mulligan",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1805,9 +1797,9 @@
             "treasure"
         ]
     },
-    {
+    "Technology 2": {
         "id": 152,
-        "name": "#TECHNOLOGY_2_NAME",
+        "name": "Technology 2",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1818,9 +1810,9 @@
             "treasure"
         ]
     },
-    {
+    "Mutant Spider": {
         "id": 153,
-        "name": "#MUTANT_SPIDER_NAME",
+        "name": "Mutant Spider",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1831,9 +1823,9 @@
             "treasure"
         ]
     },
-    {
+    "Chemical Peel": {
         "id": 154,
-        "name": "#CHEMICAL_PEEL_NAME",
+        "name": "Chemical Peel",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1843,9 +1835,9 @@
             "treasure"
         ]
     },
-    {
+    "The Peeper": {
         "id": 155,
-        "name": "#THE_PEEPER_NAME",
+        "name": "The Peeper",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -1853,9 +1845,9 @@
             "treasure"
         ]
     },
-    {
+    "Habit": {
         "id": 156,
-        "name": "#HABIT_NAME",
+        "name": "Habit",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -1864,9 +1856,9 @@
             "angel"
         ]
     },
-    {
+    "Bloody Lust": {
         "id": 157,
-        "name": "#BLOODY_LUST_NAME",
+        "name": "Bloody Lust",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -1879,17 +1871,17 @@
             "ultraSecret"
         ]
     },
-    {
+    "Crystal Ball": {
         "id": 158,
-        "name": "#CRYSTAL_BALL_NAME",
+        "name": "Crystal Ball",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Spirit Of The Night": {
         "id": 159,
-        "name": "#SPIRIT_OF_THE_NIGHT_NAME",
+        "name": "Spirit Of The Night",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1903,9 +1895,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Crack The Sky": {
         "id": 160,
-        "name": "#CRACK_THE_SKY_NAME",
+        "name": "Crack The Sky",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -1913,9 +1905,9 @@
             "treasure"
         ]
     },
-    {
+    "Ankh": {
         "id": 161,
-        "name": "#ANKH_NAME",
+        "name": "Ankh",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -1923,9 +1915,9 @@
             "treasure"
         ]
     },
-    {
+    "Celtic Cross": {
         "id": 162,
-        "name": "#CELTIC_CROSS_NAME",
+        "name": "Celtic Cross",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -1934,9 +1926,9 @@
             "angel"
         ]
     },
-    {
+    "Ghost Baby": {
         "id": 163,
-        "name": "#GHOST_BABY_NAME",
+        "name": "Ghost Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -1945,9 +1937,9 @@
             "devil"
         ]
     },
-    {
+    "The Candle": {
         "id": 164,
-        "name": "#THE_CANDLE_NAME",
+        "name": "The Candle",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -1955,9 +1947,9 @@
             "shop"
         ]
     },
-    {
+    "Catoninetails": {
         "id": 165,
-        "name": "#CATONINETAILS_NAME",
+        "name": "Catoninetails",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -1968,9 +1960,9 @@
             "boss"
         ]
     },
-    {
+    "D20": {
         "id": 166,
-        "name": "#D20_NAME",
+        "name": "D20",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -1979,9 +1971,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Harlequin Baby": {
         "id": 167,
-        "name": "#HARLEQUIN_BABY_NAME",
+        "name": "Harlequin Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -1990,9 +1982,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Epic Fetus": {
         "id": 168,
-        "name": "#EPIC_FETUS_NAME",
+        "name": "Epic Fetus",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -2003,9 +1995,9 @@
             "secret"
         ]
     },
-    {
+    "Polyphemus": {
         "id": 169,
-        "name": "#POLYPHEMUS_NAME",
+        "name": "Polyphemus",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -2017,9 +2009,9 @@
             "treasure"
         ]
     },
-    {
+    "Daddy Longlegs": {
         "id": 170,
-        "name": "#DADDY_LONGLEGS_NAME",
+        "name": "Daddy Longlegs",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -2027,9 +2019,9 @@
             "treasure"
         ]
     },
-    {
+    "Spider Butt": {
         "id": 171,
-        "name": "#SPIDER_BUTT_NAME",
+        "name": "Spider Butt",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -2037,9 +2029,9 @@
             "treasure"
         ]
     },
-    {
+    "Sacrificial Dagger": {
         "id": 172,
-        "name": "#SACRIFICIAL_DAGGER_NAME",
+        "name": "Sacrificial Dagger",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -2048,9 +2040,9 @@
             "devil"
         ]
     },
-    {
+    "Mitre": {
         "id": 173,
-        "name": "#MITRE_NAME",
+        "name": "Mitre",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -2059,9 +2051,9 @@
             "angel"
         ]
     },
-    {
+    "Rainbow Baby": {
         "id": 174,
-        "name": "#RAINBOW_BABY_NAME",
+        "name": "Rainbow Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -2069,9 +2061,9 @@
             "treasure"
         ]
     },
-    {
+    "Dads Key": {
         "id": 175,
-        "name": "#DADS_KEY_NAME",
+        "name": "Dads Key",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -2080,9 +2072,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Stem Cells": {
         "id": 176,
-        "name": "#STEM_CELLS_NAME",
+        "name": "Stem Cells",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -2095,9 +2087,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Portable Slot": {
         "id": 177,
-        "name": "#PORTABLE_SLOT_NAME",
+        "name": "Portable Slot",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -2107,9 +2099,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Holy Water": {
         "id": 178,
-        "name": "#HOLY_WATER_NAME",
+        "name": "Holy Water",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -2118,9 +2110,9 @@
             "angel"
         ]
     },
-    {
+    "Fate": {
         "id": 179,
-        "name": "#FATE_NAME",
+        "name": "Fate",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2130,9 +2122,9 @@
             "goldenChest"
         ]
     },
-    {
+    "The Black Bean": {
         "id": 180,
-        "name": "#THE_BLACK_BEAN_NAME",
+        "name": "The Black Bean",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -2141,9 +2133,9 @@
             "beggar"
         ]
     },
-    {
+    "White Pony": {
         "id": 181,
-        "name": "#WHITE_PONY_NAME",
+        "name": "White Pony",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -2152,9 +2144,9 @@
         ],
         "itemPool": []
     },
-    {
+    "Sacred Heart": {
         "id": 182,
-        "name": "#SACRED_HEART_NAME",
+        "name": "Sacred Heart",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -2171,9 +2163,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Tooth Picks": {
         "id": 183,
-        "name": "#TOOTH_PICKS_NAME",
+        "name": "Tooth Picks",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2184,9 +2176,9 @@
             "boss"
         ]
     },
-    {
+    "Holy Grail": {
         "id": 184,
-        "name": "#HOLY_GRAIL_NAME",
+        "name": "Holy Grail",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2197,9 +2189,9 @@
             "angel"
         ]
     },
-    {
+    "Dead Dove": {
         "id": 185,
-        "name": "#DEAD_DOVE_NAME",
+        "name": "Dead Dove",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2211,9 +2203,9 @@
             "angel"
         ]
     },
-    {
+    "Blood Rights": {
         "id": 186,
-        "name": "#BLOOD_RIGHTS_NAME",
+        "name": "Blood Rights",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -2222,9 +2214,9 @@
             "devil"
         ]
     },
-    {
+    "Guppys Hairball": {
         "id": 187,
-        "name": "#GUPPYS_HAIRBALL_NAME",
+        "name": "Guppys Hairball",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -2232,9 +2224,9 @@
             "devil"
         ]
     },
-    {
+    "Abel": {
         "id": 188,
-        "name": "#ABEL_NAME",
+        "name": "Abel",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
@@ -2242,9 +2234,9 @@
             "treasure"
         ]
     },
-    {
+    "Smb Super Fan": {
         "id": 189,
-        "name": "#SMB_SUPER_FAN_NAME",
+        "name": "Smb Super Fan",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2258,9 +2250,9 @@
             "treasure"
         ]
     },
-    {
+    "Pyro": {
         "id": 190,
-        "name": "#PYRO_NAME",
+        "name": "Pyro",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -2270,9 +2262,9 @@
             "bombBum"
         ]
     },
-    {
+    "3 Dollar Bill": {
         "id": 191,
-        "name": "#3_DOLLAR_BILL_NAME",
+        "name": "3 Dollar Bill",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2282,9 +2274,9 @@
             "treasure"
         ]
     },
-    {
+    "Telepathy For Dummies": {
         "id": 192,
-        "name": "#TELEPATHY_FOR_DUMMIES_NAME",
+        "name": "Telepathy For Dummies",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -2297,9 +2289,9 @@
             "library"
         ]
     },
-    {
+    "Meat": {
         "id": 193,
-        "name": "#MEAT_NAME",
+        "name": "Meat",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2311,9 +2303,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Magic 8 Ball": {
         "id": 194,
-        "name": "#MAGIC_8_BALL_NAME",
+        "name": "Magic 8 Ball",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -2324,9 +2316,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Moms Coin Purse": {
         "id": 195,
-        "name": "#MOMS_COIN_PURSE_NAME",
+        "name": "Moms Coin Purse",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -2337,9 +2329,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Squeezy": {
         "id": 196,
-        "name": "#SQUEEZY_NAME",
+        "name": "Squeezy",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2350,9 +2342,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Jesus Juice": {
         "id": 197,
-        "name": "#JESUS_JUICE_NAME",
+        "name": "Jesus Juice",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2364,9 +2356,9 @@
             "angel"
         ]
     },
-    {
+    "Box": {
         "id": 198,
-        "name": "#BOX_NAME",
+        "name": "Box",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -2375,9 +2367,9 @@
             "beggar"
         ]
     },
-    {
+    "Moms Key": {
         "id": 199,
-        "name": "#MOMS_KEY_NAME",
+        "name": "Moms Key",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2388,9 +2380,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Moms Eyeshadow": {
         "id": 200,
-        "name": "#MOMS_EYESHADOW_NAME",
+        "name": "Moms Eyeshadow",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -2400,9 +2392,9 @@
             "treasure"
         ]
     },
-    {
+    "Iron Bar": {
         "id": 201,
-        "name": "#IRON_BAR_NAME",
+        "name": "Iron Bar",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2412,9 +2404,9 @@
             "treasure"
         ]
     },
-    {
+    "Midas Touch": {
         "id": 202,
-        "name": "#MIDAS_TOUCH_NAME",
+        "name": "Midas Touch",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2422,9 +2414,9 @@
             "treasure"
         ]
     },
-    {
+    "Humbleing Bundle": {
         "id": 203,
-        "name": "#HUMBLEING_BUNDLE_NAME",
+        "name": "Humbleing Bundle",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -2432,9 +2424,9 @@
             "shop"
         ]
     },
-    {
+    "Fanny Pack": {
         "id": 204,
-        "name": "#FANNY_PACK_NAME",
+        "name": "Fanny Pack",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -2443,9 +2435,9 @@
             "beggar"
         ]
     },
-    {
+    "Sharp Plug": {
         "id": 205,
-        "name": "#SHARP_PLUG_NAME",
+        "name": "Sharp Plug",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2454,9 +2446,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Guillotine": {
         "id": 206,
-        "name": "#GUILLOTINE_NAME",
+        "name": "Guillotine",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [
@@ -2467,17 +2459,17 @@
             "treasure"
         ]
     },
-    {
+    "Ball Of Bandages": {
         "id": 207,
-        "name": "#BALL_OF_BANDAGES_NAME",
+        "name": "Ball Of Bandages",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Champion Belt": {
         "id": 208,
-        "name": "#CHAMPION_BELT_NAME",
+        "name": "Champion Belt",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2488,9 +2480,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Butt Bombs": {
         "id": 209,
-        "name": "#BUTT_BOMBS_NAME",
+        "name": "Butt Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2500,9 +2492,9 @@
             "shellGame"
         ]
     },
-    {
+    "Gnawed Leaf": {
         "id": 210,
-        "name": "#GNAWED_LEAF_NAME",
+        "name": "Gnawed Leaf",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -2510,9 +2502,9 @@
             "treasure"
         ]
     },
-    {
+    "Spiderbaby": {
         "id": 211,
-        "name": "#SPIDERBABY_NAME",
+        "name": "Spiderbaby",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -2520,9 +2512,9 @@
             "treasure"
         ]
     },
-    {
+    "Guppys Collar": {
         "id": 212,
-        "name": "#GUPPYS_COLLAR_NAME",
+        "name": "Guppys Collar",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -2532,9 +2524,9 @@
             "curse"
         ]
     },
-    {
+    "Lost Contact": {
         "id": 213,
-        "name": "#LOST_CONTACT_NAME",
+        "name": "Lost Contact",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2546,9 +2538,9 @@
             "secret"
         ]
     },
-    {
+    "Anemic": {
         "id": 214,
-        "name": "#ANEMIC_NAME",
+        "name": "Anemic",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -2559,9 +2551,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Goat Head": {
         "id": 215,
-        "name": "#GOAT_HEAD_NAME",
+        "name": "Goat Head",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2572,9 +2564,9 @@
             "curse"
         ]
     },
-    {
+    "Ceremonial Robes": {
         "id": 216,
-        "name": "#CEREMONIAL_ROBES_NAME",
+        "name": "Ceremonial Robes",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2586,9 +2578,9 @@
             "curse"
         ]
     },
-    {
+    "Moms Wig": {
         "id": 217,
-        "name": "#MOMS_WIG_NAME",
+        "name": "Moms Wig",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2599,9 +2591,9 @@
             "treasure"
         ]
     },
-    {
+    "Placenta": {
         "id": 218,
-        "name": "#PLACENTA_NAME",
+        "name": "Placenta",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2611,9 +2603,9 @@
             "boss"
         ]
     },
-    {
+    "Old Bandage": {
         "id": 219,
-        "name": "#OLD_BANDAGE_NAME",
+        "name": "Old Bandage",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2623,9 +2615,9 @@
             "boss"
         ]
     },
-    {
+    "Sad Bombs": {
         "id": 220,
-        "name": "#SAD_BOMBS_NAME",
+        "name": "Sad Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2634,9 +2626,9 @@
             "bombBum"
         ]
     },
-    {
+    "Rubber Cement": {
         "id": 221,
-        "name": "#RUBBER_CEMENT_NAME",
+        "name": "Rubber Cement",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2647,9 +2639,9 @@
             "treasure"
         ]
     },
-    {
+    "Antigravity": {
         "id": 222,
-        "name": "#ANTIGRAVITY_NAME",
+        "name": "Antigravity",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2661,9 +2653,9 @@
             "treasure"
         ]
     },
-    {
+    "Pyromaniac": {
         "id": 223,
-        "name": "#PYROMANIAC_NAME",
+        "name": "Pyromaniac",
         "typeItem": "passive",
         "quality": 4,
         "stats": [],
@@ -2671,9 +2663,9 @@
             "treasure"
         ]
     },
-    {
+    "Crickets Body": {
         "id": 224,
-        "name": "#CRICKETS_BODY_NAME",
+        "name": "Crickets Body",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2685,9 +2677,9 @@
             "treasure"
         ]
     },
-    {
+    "Gimpy": {
         "id": 225,
-        "name": "#GIMPY_NAME",
+        "name": "Gimpy",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2698,9 +2690,9 @@
             "curse"
         ]
     },
-    {
+    "Black Lotus": {
         "id": 226,
-        "name": "#BLACK_LOTUS_NAME",
+        "name": "Black Lotus",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2710,9 +2702,9 @@
             "secret"
         ]
     },
-    {
+    "Piggy Bank": {
         "id": 227,
-        "name": "#PIGGY_BANK_NAME",
+        "name": "Piggy Bank",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -2721,9 +2713,9 @@
             "shop"
         ]
     },
-    {
+    "Moms Perfume": {
         "id": 228,
-        "name": "#MOMS_PERFUME_NAME",
+        "name": "Moms Perfume",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2734,9 +2726,9 @@
             "treasure"
         ]
     },
-    {
+    "Monstros Lung": {
         "id": 229,
-        "name": "#MONSTROS_LUNG_NAME",
+        "name": "Monstros Lung",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2746,9 +2738,9 @@
             "treasure"
         ]
     },
-    {
+    "Abaddon": {
         "id": 230,
-        "name": "#ABADDON_NAME",
+        "name": "Abaddon",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2761,9 +2753,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Ball Of Tar": {
         "id": 231,
-        "name": "#BALL_OF_TAR_NAME",
+        "name": "Ball Of Tar",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2773,9 +2765,9 @@
             "treasure"
         ]
     },
-    {
+    "Stop Watch": {
         "id": 232,
-        "name": "#STOP_WATCH_NAME",
+        "name": "Stop Watch",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -2785,9 +2777,9 @@
             "shop"
         ]
     },
-    {
+    "Tiny Planet": {
         "id": 233,
-        "name": "#TINY_PLANET_NAME",
+        "name": "Tiny Planet",
         "typeItem": "passive",
         "quality": 0,
         "stats": [
@@ -2797,9 +2789,9 @@
             "treasure"
         ]
     },
-    {
+    "Infestation 2": {
         "id": 234,
-        "name": "#INFESTATION_2_NAME",
+        "name": "Infestation 2",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -2807,17 +2799,9 @@
             "treasure"
         ]
     },
-    {
-        "id": 235,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "E Coli": {
         "id": 236,
-        "name": "#E_COLI_NAME",
+        "name": "E Coli",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -2825,9 +2809,9 @@
             "treasure"
         ]
     },
-    {
+    "Deaths Touch": {
         "id": 237,
-        "name": "#DEATHS_TOUCH_NAME",
+        "name": "Deaths Touch",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -2840,25 +2824,25 @@
             "devil"
         ]
     },
-    {
+    "Key Piece 1": {
         "id": 238,
-        "name": "#KEY_PIECE_1_NAME",
+        "name": "Key Piece 1",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Key Piece 2": {
         "id": 239,
-        "name": "#KEY_PIECE_2_NAME",
+        "name": "Key Piece 2",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Experimental Treatment": {
         "id": 240,
-        "name": "#EXPERIMENTAL_TREATMENT_NAME",
+        "name": "Experimental Treatment",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -2870,9 +2854,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Contract From Below": {
         "id": 241,
-        "name": "#CONTRACT_FROM_BELOW_NAME",
+        "name": "Contract From Below",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -2882,9 +2866,9 @@
             "curse"
         ]
     },
-    {
+    "Infamy": {
         "id": 242,
-        "name": "#INFAMY_NAME",
+        "name": "Infamy",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2893,9 +2877,9 @@
             "secret"
         ]
     },
-    {
+    "Trinity Shield": {
         "id": 243,
-        "name": "#TRINITY_SHIELD_NAME",
+        "name": "Trinity Shield",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -2905,9 +2889,9 @@
             "angel"
         ]
     },
-    {
+    "Tech5": {
         "id": 244,
-        "name": "#TECH5_NAME",
+        "name": "Tech5",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -2915,22 +2899,9 @@
             "treasure"
         ]
     },
-    {
-        "id": 245,
-        "name": "#2020_NAME",
-        "typeItem": "passive",
-        "quality": 4,
-        "stats": [
-            "damage",
-            "firedelay"
-        ],
-        "itemPool": [
-            "treasure"
-        ]
-    },
-    {
+    "Blue Map": {
         "id": 246,
-        "name": "#BLUE_MAP_NAME",
+        "name": "Blue Map",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2939,9 +2910,9 @@
             "beggar"
         ]
     },
-    {
+    "Bffs": {
         "id": 247,
-        "name": "#BFFS_NAME",
+        "name": "Bffs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2950,9 +2921,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Hive Mind": {
         "id": 248,
-        "name": "#HIVE_MIND_NAME",
+        "name": "Hive Mind",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2960,9 +2931,9 @@
             "shop"
         ]
     },
-    {
+    "Theres Options": {
         "id": 249,
-        "name": "#THERES_OPTIONS_NAME",
+        "name": "Theres Options",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -2970,9 +2941,9 @@
             "shop"
         ]
     },
-    {
+    "Bogo Bombs": {
         "id": 250,
-        "name": "#BOGO_BOMBS_NAME",
+        "name": "Bogo Bombs",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -2980,9 +2951,9 @@
             "shop"
         ]
     },
-    {
+    "Starter Deck": {
         "id": 251,
-        "name": "#STARTER_DECK_NAME",
+        "name": "Starter Deck",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -2990,9 +2961,9 @@
             "shop"
         ]
     },
-    {
+    "Little Baggy": {
         "id": 252,
-        "name": "#LITTLE_BAGGY_NAME",
+        "name": "Little Baggy",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -3000,9 +2971,9 @@
             "shop"
         ]
     },
-    {
+    "Magic Scab": {
         "id": 253,
-        "name": "#MAGIC_SCAB_NAME",
+        "name": "Magic Scab",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3014,9 +2985,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Blood Clot": {
         "id": 254,
-        "name": "#BLOOD_CLOT_NAME",
+        "name": "Blood Clot",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -3025,9 +2996,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Screw": {
         "id": 255,
-        "name": "#SCREW_NAME",
+        "name": "Screw",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3039,9 +3010,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Hot Bombs": {
         "id": 256,
-        "name": "#HOT_BOMBS_NAME",
+        "name": "Hot Bombs",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -3050,9 +3021,9 @@
             "bombBum"
         ]
     },
-    {
+    "Fire Mind": {
         "id": 257,
-        "name": "#FIRE_MIND_NAME",
+        "name": "Fire Mind",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3063,9 +3034,9 @@
             "treasure"
         ]
     },
-    {
+    "Missing No": {
         "id": 258,
-        "name": "#MISSING_NO_NAME",
+        "name": "Missing No",
         "typeItem": "passive",
         "quality": 0,
         "stats": [
@@ -3075,9 +3046,9 @@
             "secret"
         ]
     },
-    {
+    "Dark Matter": {
         "id": 259,
-        "name": "#DARK_MATTER_NAME",
+        "name": "Dark Matter",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3090,9 +3061,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Black Candle": {
         "id": 260,
-        "name": "#BLACK_CANDLE_NAME",
+        "name": "Black Candle",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3104,9 +3075,9 @@
             "curse"
         ]
     },
-    {
+    "Proptosis": {
         "id": 261,
-        "name": "#PROPTOSIS_NAME",
+        "name": "Proptosis",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3118,9 +3089,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Missing Page 2": {
         "id": 262,
-        "name": "#MISSING_PAGE_2_NAME",
+        "name": "Missing Page 2",
         "typeItem": "passive",
         "quality": 0,
         "stats": [
@@ -3132,9 +3103,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Clear Rune": {
         "id": 263,
-        "name": "#CLEAR_RUNE_NAME",
+        "name": "Clear Rune",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -3142,9 +3113,9 @@
             "secret"
         ]
     },
-    {
+    "Smart Fly": {
         "id": 264,
-        "name": "#SMART_FLY_NAME",
+        "name": "Smart Fly",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3153,9 +3124,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Dry Baby": {
         "id": 265,
-        "name": "#DRY_BABY_NAME",
+        "name": "Dry Baby",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -3163,9 +3134,9 @@
             "treasure"
         ]
     },
-    {
+    "Juicy Sack": {
         "id": 266,
-        "name": "#JUICY_SACK_NAME",
+        "name": "Juicy Sack",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3173,9 +3144,9 @@
             "treasure"
         ]
     },
-    {
+    "Robobaby 20": {
         "id": 267,
-        "name": "#ROBOBABY_20_NAME",
+        "name": "Robobaby 20",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3183,9 +3154,9 @@
             "treasure"
         ]
     },
-    {
+    "Rotten Baby": {
         "id": 268,
-        "name": "#ROTTEN_BABY_NAME",
+        "name": "Rotten Baby",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -3195,9 +3166,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Headless Baby": {
         "id": 269,
-        "name": "#HEADLESS_BABY_NAME",
+        "name": "Headless Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3206,9 +3177,9 @@
             "devil"
         ]
     },
-    {
+    "Leech": {
         "id": 270,
-        "name": "#LEECH_NAME",
+        "name": "Leech",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3216,9 +3187,9 @@
             "treasure"
         ]
     },
-    {
+    "Mystery Sack": {
         "id": 271,
-        "name": "#MYSTERY_SACK_NAME",
+        "name": "Mystery Sack",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3228,9 +3199,9 @@
             "beggar"
         ]
     },
-    {
+    "Bbf": {
         "id": 272,
-        "name": "#BBF_NAME",
+        "name": "Bbf",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3239,9 +3210,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Bobs Brain": {
         "id": 273,
-        "name": "#BOBS_BRAIN_NAME",
+        "name": "Bobs Brain",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3250,9 +3221,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Best Bud": {
         "id": 274,
-        "name": "#BEST_BUD_NAME",
+        "name": "Best Bud",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
@@ -3260,9 +3231,9 @@
             "treasure"
         ]
     },
-    {
+    "Lil Brimstone": {
         "id": 275,
-        "name": "#LIL_BRIMSTONE_NAME",
+        "name": "Lil Brimstone",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3271,9 +3242,9 @@
             "devil"
         ]
     },
-    {
+    "Isaacs Heart": {
         "id": 276,
-        "name": "#ISAACS_HEART_NAME",
+        "name": "Isaacs Heart",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
@@ -3282,9 +3253,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Lil Haunt": {
         "id": 277,
-        "name": "#LIL_HAUNT_NAME",
+        "name": "Lil Haunt",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3292,9 +3263,9 @@
             "treasure"
         ]
     },
-    {
+    "Dark Bum": {
         "id": 278,
-        "name": "#DARK_BUM_NAME",
+        "name": "Dark Bum",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -3304,9 +3275,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Big Fan": {
         "id": 279,
-        "name": "#BIG_FAN_NAME",
+        "name": "Big Fan",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3315,9 +3286,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Sissy Longlegs": {
         "id": 280,
-        "name": "#SISSY_LONGLEGS_NAME",
+        "name": "Sissy Longlegs",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3325,9 +3296,9 @@
             "treasure"
         ]
     },
-    {
+    "Punching Bag": {
         "id": 281,
-        "name": "#PUNCHING_BAG_NAME",
+        "name": "Punching Bag",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3335,9 +3306,9 @@
             "treasure"
         ]
     },
-    {
+    "How To Jump": {
         "id": 282,
-        "name": "#HOW_TO_JUMP_NAME",
+        "name": "How To Jump",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3346,9 +3317,9 @@
             "library"
         ]
     },
-    {
+    "D100": {
         "id": 283,
-        "name": "#D100_NAME",
+        "name": "D100",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -3356,9 +3327,9 @@
             "treasure"
         ]
     },
-    {
+    "D4": {
         "id": 284,
-        "name": "#D4_NAME",
+        "name": "D4",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -3366,9 +3337,9 @@
             "treasure"
         ]
     },
-    {
+    "D10": {
         "id": 285,
-        "name": "#D10_NAME",
+        "name": "D10",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3376,9 +3347,9 @@
             "treasure"
         ]
     },
-    {
+    "Blank Card": {
         "id": 286,
-        "name": "#BLANK_CARD_NAME",
+        "name": "Blank Card",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -3387,9 +3358,9 @@
             "secret"
         ]
     },
-    {
+    "Book Of Secrets": {
         "id": 287,
-        "name": "#BOOK_OF_SECRETS_NAME",
+        "name": "Book Of Secrets",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3399,9 +3370,9 @@
             "library"
         ]
     },
-    {
+    "Box Of Spiders": {
         "id": 288,
-        "name": "#BOX_OF_SPIDERS_NAME",
+        "name": "Box Of Spiders",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3409,9 +3380,9 @@
             "treasure"
         ]
     },
-    {
+    "Red Candle": {
         "id": 289,
-        "name": "#RED_CANDLE_NAME",
+        "name": "Red Candle",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -3420,9 +3391,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Jar": {
         "id": 290,
-        "name": "#THE_JAR_NAME",
+        "name": "The Jar",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -3430,9 +3401,9 @@
             "shop"
         ]
     },
-    {
+    "Flush": {
         "id": 291,
-        "name": "#FLUSH_NAME",
+        "name": "Flush",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3440,9 +3411,9 @@
             "treasure"
         ]
     },
-    {
+    "Satanic Bible": {
         "id": 292,
-        "name": "#SATANIC_BIBLE_NAME",
+        "name": "Satanic Bible",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -3452,17 +3423,17 @@
             "library"
         ]
     },
-    {
+    "Head Of Krampus": {
         "id": 293,
-        "name": "#HEAD_OF_KRAMPUS_NAME",
+        "name": "Head Of Krampus",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Butter Bean": {
         "id": 294,
-        "name": "#BUTTER_BEAN_NAME",
+        "name": "Butter Bean",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3471,9 +3442,9 @@
             "beggar"
         ]
     },
-    {
+    "Magic Fingers": {
         "id": 295,
-        "name": "#MAGIC_FINGERS_NAME",
+        "name": "Magic Fingers",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3482,9 +3453,9 @@
             "shop"
         ]
     },
-    {
+    "Converter": {
         "id": 296,
-        "name": "#CONVERTER_NAME",
+        "name": "Converter",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -3492,9 +3463,9 @@
             "shop"
         ]
     },
-    {
+    "Pandoras Box": {
         "id": 297,
-        "name": "#PANDORAS_BOX_NAME",
+        "name": "Pandoras Box",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -3503,9 +3474,9 @@
             "redChest"
         ]
     },
-    {
+    "Unicorn Stump": {
         "id": 298,
-        "name": "#UNICORN_STUMP_NAME",
+        "name": "Unicorn Stump",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -3515,9 +3486,9 @@
             "treasure"
         ]
     },
-    {
+    "Taurus": {
         "id": 299,
-        "name": "#TAURUS_NAME",
+        "name": "Taurus",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -3527,9 +3498,9 @@
             "treasure"
         ]
     },
-    {
+    "Aries": {
         "id": 300,
-        "name": "#ARIES_NAME",
+        "name": "Aries",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3539,9 +3510,9 @@
             "treasure"
         ]
     },
-    {
+    "Cancer": {
         "id": 301,
-        "name": "#CANCER_NAME",
+        "name": "Cancer",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -3549,9 +3520,9 @@
             "treasure"
         ]
     },
-    {
+    "Leo": {
         "id": 302,
-        "name": "#LEO_NAME",
+        "name": "Leo",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -3561,9 +3532,9 @@
             "treasure"
         ]
     },
-    {
+    "Virgo": {
         "id": 303,
-        "name": "#VIRGO_NAME",
+        "name": "Virgo",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -3571,9 +3542,9 @@
             "treasure"
         ]
     },
-    {
+    "Libra": {
         "id": 304,
-        "name": "#LIBRA_NAME",
+        "name": "Libra",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -3586,9 +3557,9 @@
             "treasure"
         ]
     },
-    {
+    "Scorpio": {
         "id": 305,
-        "name": "#SCORPIO_NAME",
+        "name": "Scorpio",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3599,9 +3570,9 @@
             "treasure"
         ]
     },
-    {
+    "Sagittarius": {
         "id": 306,
-        "name": "#SAGITTARIUS_NAME",
+        "name": "Sagittarius",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3612,9 +3583,9 @@
             "treasure"
         ]
     },
-    {
+    "Capricorn": {
         "id": 307,
-        "name": "#CAPRICORN_NAME",
+        "name": "Capricorn",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3628,9 +3599,9 @@
             "treasure"
         ]
     },
-    {
+    "Aquarius": {
         "id": 308,
-        "name": "#AQUARIUS_NAME",
+        "name": "Aquarius",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -3638,9 +3609,9 @@
             "treasure"
         ]
     },
-    {
+    "Pisces": {
         "id": 309,
-        "name": "#PISCES_NAME",
+        "name": "Pisces",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3651,9 +3622,9 @@
             "treasure"
         ]
     },
-    {
+    "Eves Mascara": {
         "id": 310,
-        "name": "#EVES_MASCARA_NAME",
+        "name": "Eves Mascara",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3666,9 +3637,9 @@
             "treasure"
         ]
     },
-    {
+    "Judas Shadow": {
         "id": 311,
-        "name": "#JUDAS_SHADOW_NAME",
+        "name": "Judas Shadow",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -3676,9 +3647,9 @@
             "devil"
         ]
     },
-    {
+    "Maggys Bow": {
         "id": 312,
-        "name": "#MAGGYS_BOW_NAME",
+        "name": "Maggys Bow",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3688,9 +3659,9 @@
             "treasure"
         ]
     },
-    {
+    "Holy Mantle": {
         "id": 313,
-        "name": "#HOLY_MANTLE_NAME",
+        "name": "Holy Mantle",
         "typeItem": "passive",
         "quality": 4,
         "stats": [],
@@ -3699,9 +3670,9 @@
             "angel"
         ]
     },
-    {
+    "Thunder Thighs": {
         "id": 314,
-        "name": "#THUNDER_THIGHS_NAME",
+        "name": "Thunder Thighs",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -3712,9 +3683,9 @@
             "treasure"
         ]
     },
-    {
+    "Strange Attractor": {
         "id": 315,
-        "name": "#STRANGE_ATTRACTOR_NAME",
+        "name": "Strange Attractor",
         "typeItem": "passive",
         "quality": 0,
         "stats": [
@@ -3725,9 +3696,9 @@
             "treasure"
         ]
     },
-    {
+    "Cursed Eye": {
         "id": 316,
-        "name": "#CURSED_EYE_NAME",
+        "name": "Cursed Eye",
         "typeItem": "passive",
         "quality": 0,
         "stats": [
@@ -3739,9 +3710,9 @@
             "redChest"
         ]
     },
-    {
+    "Mysterious Liquid": {
         "id": 317,
-        "name": "#MYSTERIOUS_LIQUID_NAME",
+        "name": "Mysterious Liquid",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3752,9 +3723,9 @@
             "treasure"
         ]
     },
-    {
+    "Gemini": {
         "id": 318,
-        "name": "#GEMINI_NAME",
+        "name": "Gemini",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3762,9 +3733,9 @@
             "treasure"
         ]
     },
-    {
+    "Cains Other Eye": {
         "id": 319,
-        "name": "#CAINS_OTHER_EYE_NAME",
+        "name": "Cains Other Eye",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3772,9 +3743,9 @@
             "treasure"
         ]
     },
-    {
+    "S Only Friend": {
         "id": 320,
-        "name": "#S_ONLY_FRIEND_NAME",
+        "name": "S Only Friend",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3783,9 +3754,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Samsons Chains": {
         "id": 321,
-        "name": "#SAMSONS_CHAINS_NAME",
+        "name": "Samsons Chains",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -3794,9 +3765,9 @@
             "secret"
         ]
     },
-    {
+    "Mongo Baby": {
         "id": 322,
-        "name": "#MONGO_BABY_NAME",
+        "name": "Mongo Baby",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -3804,9 +3775,9 @@
             "treasure"
         ]
     },
-    {
+    "Isaacs Tears": {
         "id": 323,
-        "name": "#ISAACS_TEARS_NAME",
+        "name": "Isaacs Tears",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3814,9 +3785,9 @@
             "treasure"
         ]
     },
-    {
+    "Undefined": {
         "id": 324,
-        "name": "#UNDEFINED_NAME",
+        "name": "Undefined",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -3824,9 +3795,9 @@
             "treasure"
         ]
     },
-    {
+    "Scissors": {
         "id": 325,
-        "name": "#SCISSORS_NAME",
+        "name": "Scissors",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -3836,9 +3807,9 @@
             "treasure"
         ]
     },
-    {
+    "Breath Of Life": {
         "id": 326,
-        "name": "#BREATH_OF_LIFE_NAME",
+        "name": "Breath Of Life",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3846,17 +3817,17 @@
             "angel"
         ]
     },
-    {
+    "The Polaroid": {
         "id": 327,
-        "name": "#THE_POLAROID_NAME",
+        "name": "The Polaroid",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
         "itemPool": []
     },
-    {
+    "The Negative": {
         "id": 328,
-        "name": "#THE_NEGATIVE_NAME",
+        "name": "The Negative",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3864,9 +3835,9 @@
         ],
         "itemPool": []
     },
-    {
+    "The Ludovico Technique": {
         "id": 329,
-        "name": "#THE_LUDOVICO_TECHNIQUE_NAME",
+        "name": "The Ludovico Technique",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3876,9 +3847,9 @@
             "treasure"
         ]
     },
-    {
+    "Soy Milk": {
         "id": 330,
-        "name": "#SOY_MILK_NAME",
+        "name": "Soy Milk",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -3890,9 +3861,9 @@
             "treasure"
         ]
     },
-    {
+    "Godhead": {
         "id": 331,
-        "name": "#GODHEAD_NAME",
+        "name": "Godhead",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -3906,9 +3877,9 @@
             "angel"
         ]
     },
-    {
+    "Lazarus Rags": {
         "id": 332,
-        "name": "#LAZARUS_RAGS_NAME",
+        "name": "Lazarus Rags",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -3917,9 +3888,9 @@
             "angel"
         ]
     },
-    {
+    "The Mind": {
         "id": 333,
-        "name": "#THE_MIND_NAME",
+        "name": "The Mind",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -3928,9 +3899,9 @@
             "angel"
         ]
     },
-    {
+    "The Body": {
         "id": 334,
-        "name": "#THE_BODY_NAME",
+        "name": "The Body",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3942,9 +3913,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Soul": {
         "id": 335,
-        "name": "#THE_SOUL_NAME",
+        "name": "The Soul",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -3953,9 +3924,9 @@
             "angel"
         ]
     },
-    {
+    "Dead Onion": {
         "id": 336,
-        "name": "#DEAD_ONION_NAME",
+        "name": "Dead Onion",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -3969,9 +3940,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Broken Watch": {
         "id": 337,
-        "name": "#BROKEN_WATCH_NAME",
+        "name": "Broken Watch",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -3979,9 +3950,9 @@
             "shop"
         ]
     },
-    {
+    "The Boomerang": {
         "id": 338,
-        "name": "#THE_BOOMERANG_NAME",
+        "name": "The Boomerang",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -3989,9 +3960,9 @@
             "shop"
         ]
     },
-    {
+    "Safety Pin": {
         "id": 339,
-        "name": "#SAFETY_PIN_NAME",
+        "name": "Safety Pin",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -4003,9 +3974,9 @@
             "boss"
         ]
     },
-    {
+    "Caffeine Pill": {
         "id": 340,
-        "name": "#CAFFEINE_PILL_NAME",
+        "name": "Caffeine Pill",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -4017,9 +3988,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Torn Photo": {
         "id": 341,
-        "name": "#TORN_PHOTO_NAME",
+        "name": "Torn Photo",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4031,9 +4002,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Blue Cap": {
         "id": 342,
-        "name": "#BLUE_CAP_NAME",
+        "name": "Blue Cap",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4045,9 +4016,9 @@
             "boss"
         ]
     },
-    {
+    "Latch Key": {
         "id": 343,
-        "name": "#LATCH_KEY_NAME",
+        "name": "Latch Key",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -4059,9 +4030,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Match Book": {
         "id": 344,
-        "name": "#MATCH_BOOK_NAME",
+        "name": "Match Book",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -4072,9 +4043,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Synthoil": {
         "id": 345,
-        "name": "#SYNTHOIL_NAME",
+        "name": "Synthoil",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4086,9 +4057,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "A Snack": {
         "id": 346,
-        "name": "#A_SNACK_NAME",
+        "name": "A Snack",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -4098,9 +4069,9 @@
             "boss"
         ]
     },
-    {
+    "Diplopia": {
         "id": 347,
-        "name": "#DIPLOPIA_NAME",
+        "name": "Diplopia",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -4108,9 +4079,9 @@
             "shop"
         ]
     },
-    {
+    "Placebo": {
         "id": 348,
-        "name": "#PLACEBO_NAME",
+        "name": "Placebo",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -4119,9 +4090,9 @@
             "secret"
         ]
     },
-    {
+    "Wooden Nickel": {
         "id": 349,
-        "name": "#WOODEN_NICKEL_NAME",
+        "name": "Wooden Nickel",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4129,9 +4100,9 @@
             "shop"
         ]
     },
-    {
+    "Toxic Shock": {
         "id": 350,
-        "name": "#TOXIC_SHOCK_NAME",
+        "name": "Toxic Shock",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4141,9 +4112,9 @@
             "treasure"
         ]
     },
-    {
+    "Mega Bean": {
         "id": 351,
-        "name": "#MEGA_BEAN_NAME",
+        "name": "Mega Bean",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4151,9 +4122,9 @@
             "treasure"
         ]
     },
-    {
+    "Glass Cannon": {
         "id": 352,
-        "name": "#GLASS_CANNON_NAME",
+        "name": "Glass Cannon",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4161,9 +4132,9 @@
             "treasure"
         ]
     },
-    {
+    "Bomber Boy": {
         "id": 353,
-        "name": "#BOMBER_BOY_NAME",
+        "name": "Bomber Boy",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4172,9 +4143,9 @@
             "bombBum"
         ]
     },
-    {
+    "Crack Jacks": {
         "id": 354,
-        "name": "#CRACK_JACKS_NAME",
+        "name": "Crack Jacks",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -4185,9 +4156,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Moms Pearls": {
         "id": 355,
-        "name": "#MOMS_PEARLS_NAME",
+        "name": "Moms Pearls",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -4199,9 +4170,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Car Battery": {
         "id": 356,
-        "name": "#CAR_BATTERY_NAME",
+        "name": "Car Battery",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -4210,9 +4181,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Box Of Friends": {
         "id": 357,
-        "name": "#BOX_OF_FRIENDS_NAME",
+        "name": "Box Of Friends",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -4222,9 +4193,9 @@
             "shop"
         ]
     },
-    {
+    "The Wiz": {
         "id": 358,
-        "name": "#THE_WIZ_NAME",
+        "name": "The Wiz",
         "typeItem": "passive",
         "quality": 0,
         "stats": [
@@ -4234,9 +4205,9 @@
             "treasure"
         ]
     },
-    {
+    "8 Inch Nails": {
         "id": 359,
-        "name": "#8_INCH_NAILS_NAME",
+        "name": "8 Inch Nails",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4247,9 +4218,9 @@
             "treasure"
         ]
     },
-    {
+    "Incubus": {
         "id": 360,
-        "name": "#INCUBUS_NAME",
+        "name": "Incubus",
         "typeItem": "familiar",
         "quality": 4,
         "stats": [],
@@ -4257,9 +4228,9 @@
             "devil"
         ]
     },
-    {
+    "Fates Reward": {
         "id": 361,
-        "name": "#FATES_REWARD_NAME",
+        "name": "Fates Reward",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -4267,9 +4238,9 @@
             "treasure"
         ]
     },
-    {
+    "Lil Chest": {
         "id": 362,
-        "name": "#LIL_CHEST_NAME",
+        "name": "Lil Chest",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -4278,9 +4249,9 @@
             "beggar"
         ]
     },
-    {
+    "Sworn Protector": {
         "id": 363,
-        "name": "#SWORN_PROTECTOR_NAME",
+        "name": "Sworn Protector",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -4288,9 +4259,9 @@
             "angel"
         ]
     },
-    {
+    "Friend Zone": {
         "id": 364,
-        "name": "#FRIEND_ZONE_NAME",
+        "name": "Friend Zone",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -4299,9 +4270,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Lost Fly": {
         "id": 365,
-        "name": "#LOST_FLY_NAME",
+        "name": "Lost Fly",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -4310,9 +4281,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Scatter Bombs": {
         "id": 366,
-        "name": "#SCATTER_BOMBS_NAME",
+        "name": "Scatter Bombs",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -4321,9 +4292,9 @@
             "bombBum"
         ]
     },
-    {
+    "Sticky Bombs": {
         "id": 367,
-        "name": "#STICKY_BOMBS_NAME",
+        "name": "Sticky Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4332,9 +4303,9 @@
             "bombBum"
         ]
     },
-    {
+    "Epiphora": {
         "id": 368,
-        "name": "#EPIPHORA_NAME",
+        "name": "Epiphora",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4342,9 +4313,9 @@
             "treasure"
         ]
     },
-    {
+    "Continuum": {
         "id": 369,
-        "name": "#CONTINUUM_NAME",
+        "name": "Continuum",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -4355,9 +4326,9 @@
             "treasure"
         ]
     },
-    {
+    "Mr Dolly": {
         "id": 370,
-        "name": "#MR_DOLLY_NAME",
+        "name": "Mr Dolly",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4369,9 +4340,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Curse Of The Tower": {
         "id": 371,
-        "name": "#CURSE_OF_THE_TOWER_NAME",
+        "name": "Curse Of The Tower",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -4381,9 +4352,9 @@
             "curse"
         ]
     },
-    {
+    "Charged Baby": {
         "id": 372,
-        "name": "#CHARGED_BABY_NAME",
+        "name": "Charged Baby",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -4392,9 +4363,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Dead Eye": {
         "id": 373,
-        "name": "#DEAD_EYE_NAME",
+        "name": "Dead Eye",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4405,9 +4376,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Holy Light": {
         "id": 374,
-        "name": "#HOLY_LIGHT_NAME",
+        "name": "Holy Light",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -4416,9 +4387,9 @@
             "angel"
         ]
     },
-    {
+    "Host Hat": {
         "id": 375,
-        "name": "#HOST_HAT_NAME",
+        "name": "Host Hat",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -4426,9 +4397,9 @@
             "treasure"
         ]
     },
-    {
+    "Restock": {
         "id": 376,
-        "name": "#RESTOCK_NAME",
+        "name": "Restock",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4437,9 +4408,9 @@
             "beggar"
         ]
     },
-    {
+    "Bursting Sack": {
         "id": 377,
-        "name": "#BURSTING_SACK_NAME",
+        "name": "Bursting Sack",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -4447,9 +4418,9 @@
             "treasure"
         ]
     },
-    {
+    "Number Two": {
         "id": 378,
-        "name": "#NUMBER_TWO_NAME",
+        "name": "Number Two",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4458,9 +4429,9 @@
             "shellGame"
         ]
     },
-    {
+    "Pupula Duplex": {
         "id": 379,
-        "name": "#PUPULA_DUPLEX_NAME",
+        "name": "Pupula Duplex",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -4470,9 +4441,9 @@
             "treasure"
         ]
     },
-    {
+    "Pay To Play": {
         "id": 380,
-        "name": "#PAY_TO_PLAY_NAME",
+        "name": "Pay To Play",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4480,9 +4451,9 @@
             "shop"
         ]
     },
-    {
+    "Edens Blessing": {
         "id": 381,
-        "name": "#EDENS_BLESSING_NAME",
+        "name": "Edens Blessing",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4492,9 +4463,9 @@
             "treasure"
         ]
     },
-    {
+    "Friendly Ball": {
         "id": 382,
-        "name": "#FRIENDLY_BALL_NAME",
+        "name": "Friendly Ball",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4502,9 +4473,9 @@
             "treasure"
         ]
     },
-    {
+    "Tear Detonator": {
         "id": 383,
-        "name": "#TEAR_DETONATOR_NAME",
+        "name": "Tear Detonator",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4512,9 +4483,9 @@
             "shop"
         ]
     },
-    {
+    "Lil Gurdy": {
         "id": 384,
-        "name": "#LIL_GURDY_NAME",
+        "name": "Lil Gurdy",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -4522,9 +4493,9 @@
             "treasure"
         ]
     },
-    {
+    "Bumbo": {
         "id": 385,
-        "name": "#BUMBO_NAME",
+        "name": "Bumbo",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -4533,9 +4504,9 @@
             "beggar"
         ]
     },
-    {
+    "D12": {
         "id": 386,
-        "name": "#D12_NAME",
+        "name": "D12",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4543,9 +4514,9 @@
             "treasure"
         ]
     },
-    {
+    "Censer": {
         "id": 387,
-        "name": "#CENSER_NAME",
+        "name": "Censer",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -4553,9 +4524,9 @@
             "angel"
         ]
     },
-    {
+    "Key Bum": {
         "id": 388,
-        "name": "#KEY_BUM_NAME",
+        "name": "Key Bum",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
@@ -4565,9 +4536,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Rune Bag": {
         "id": 389,
-        "name": "#RUNE_BAG_NAME",
+        "name": "Rune Bag",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -4576,9 +4547,9 @@
             "secret"
         ]
     },
-    {
+    "Seraphim": {
         "id": 390,
-        "name": "#SERAPHIM_NAME",
+        "name": "Seraphim",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -4587,9 +4558,9 @@
             "angel"
         ]
     },
-    {
+    "Betrayal": {
         "id": 391,
-        "name": "#BETRAYAL_NAME",
+        "name": "Betrayal",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -4598,9 +4569,9 @@
             "devil"
         ]
     },
-    {
+    "Zodiac": {
         "id": 392,
-        "name": "#ZODIAC_NAME",
+        "name": "Zodiac",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -4608,9 +4579,9 @@
             "treasure"
         ]
     },
-    {
+    "Serpents Kiss": {
         "id": 393,
-        "name": "#SERPENTS_KISS_NAME",
+        "name": "Serpents Kiss",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4618,9 +4589,9 @@
             "treasure"
         ]
     },
-    {
+    "Marked": {
         "id": 394,
-        "name": "#MARKED_NAME",
+        "name": "Marked",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -4632,9 +4603,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Tech X": {
         "id": 395,
-        "name": "#TECH_X_NAME",
+        "name": "Tech X",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -4644,9 +4615,9 @@
             "treasure"
         ]
     },
-    {
+    "Ventricle Razor": {
         "id": 396,
-        "name": "#VENTRICLE_RAZOR_NAME",
+        "name": "Ventricle Razor",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4654,9 +4625,9 @@
             "shop"
         ]
     },
-    {
+    "Tractor Beam": {
         "id": 397,
-        "name": "#TRACTOR_BEAM_NAME",
+        "name": "Tractor Beam",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4669,9 +4640,9 @@
             "treasure"
         ]
     },
-    {
+    "Gods Flesh": {
         "id": 398,
-        "name": "#GODS_FLESH_NAME",
+        "name": "Gods Flesh",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -4681,9 +4652,9 @@
             "treasure"
         ]
     },
-    {
+    "Maw Of The Void": {
         "id": 399,
-        "name": "#MAW_OF_THE_VOID_NAME",
+        "name": "Maw Of The Void",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4694,9 +4665,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Spear Of Destiny": {
         "id": 400,
-        "name": "#SPEAR_OF_DESTINY_NAME",
+        "name": "Spear Of Destiny",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4704,9 +4675,9 @@
             "angel"
         ]
     },
-    {
+    "Explosivo": {
         "id": 401,
-        "name": "#EXPLOSIVO_NAME",
+        "name": "Explosivo",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4717,9 +4688,9 @@
             "treasure"
         ]
     },
-    {
+    "Chaos": {
         "id": 402,
-        "name": "#CHAOS_NAME",
+        "name": "Chaos",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -4728,9 +4699,9 @@
             "secret"
         ]
     },
-    {
+    "Spider Mod": {
         "id": 403,
-        "name": "#SPIDER_MOD_NAME",
+        "name": "Spider Mod",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -4738,9 +4709,9 @@
             "shop"
         ]
     },
-    {
+    "Farting Baby": {
         "id": 404,
-        "name": "#FARTING_BABY_NAME",
+        "name": "Farting Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -4748,9 +4719,9 @@
             "treasure"
         ]
     },
-    {
+    "Gb Bug": {
         "id": 405,
-        "name": "#GB_BUG_NAME",
+        "name": "Gb Bug",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -4759,9 +4730,9 @@
             "secret"
         ]
     },
-    {
+    "D8": {
         "id": 406,
-        "name": "#D8_NAME",
+        "name": "D8",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -4769,9 +4740,9 @@
             "treasure"
         ]
     },
-    {
+    "Purity": {
         "id": 407,
-        "name": "#PURITY_NAME",
+        "name": "Purity",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4785,9 +4756,9 @@
             "angel"
         ]
     },
-    {
+    "Athame": {
         "id": 408,
-        "name": "#ATHAME_NAME",
+        "name": "Athame",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -4796,9 +4767,9 @@
             "curse"
         ]
     },
-    {
+    "Empty Vessel": {
         "id": 409,
-        "name": "#EMPTY_VESSEL_NAME",
+        "name": "Empty Vessel",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -4809,9 +4780,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Evil Eye": {
         "id": 410,
-        "name": "#EVIL_EYE_NAME",
+        "name": "Evil Eye",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4819,9 +4790,9 @@
             "treasure"
         ]
     },
-    {
+    "Lusty Blood": {
         "id": 411,
-        "name": "#LUSTY_BLOOD_NAME",
+        "name": "Lusty Blood",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -4834,9 +4805,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Cambion Conception": {
         "id": 412,
-        "name": "#CAMBION_CONCEPTION_NAME",
+        "name": "Cambion Conception",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4845,9 +4816,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Immaculate Conception": {
         "id": 413,
-        "name": "#IMMACULATE_CONCEPTION_NAME",
+        "name": "Immaculate Conception",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -4855,9 +4826,9 @@
             "angel"
         ]
     },
-    {
+    "More Options": {
         "id": 414,
-        "name": "#MORE_OPTIONS_NAME",
+        "name": "More Options",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -4865,9 +4836,9 @@
             "shop"
         ]
     },
-    {
+    "Crown Of Light": {
         "id": 415,
-        "name": "#CROWN_OF_LIGHT_NAME",
+        "name": "Crown Of Light",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -4878,9 +4849,9 @@
             "angel"
         ]
     },
-    {
+    "Deep Pockets": {
         "id": 416,
-        "name": "#DEEP_POCKETS_NAME",
+        "name": "Deep Pockets",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4888,9 +4859,9 @@
             "shop"
         ]
     },
-    {
+    "Succubus": {
         "id": 417,
-        "name": "#SUCCUBUS_NAME",
+        "name": "Succubus",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -4898,9 +4869,9 @@
             "devil"
         ]
     },
-    {
+    "Fruit Cake": {
         "id": 418,
-        "name": "#FRUIT_CAKE_NAME",
+        "name": "Fruit Cake",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4908,9 +4879,9 @@
             "treasure"
         ]
     },
-    {
+    "Teleport 20": {
         "id": 419,
-        "name": "#TELEPORT_20_NAME",
+        "name": "Teleport 20",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -4918,9 +4889,9 @@
             "treasure"
         ]
     },
-    {
+    "Black Powder": {
         "id": 420,
-        "name": "#BLACK_POWDER_NAME",
+        "name": "Black Powder",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -4929,9 +4900,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Kidney Bean": {
         "id": 421,
-        "name": "#KIDNEY_BEAN_NAME",
+        "name": "Kidney Bean",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -4940,9 +4911,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Glowing Hour Glass": {
         "id": 422,
-        "name": "#GLOWING_HOUR_GLASS_NAME",
+        "name": "Glowing Hour Glass",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -4951,9 +4922,9 @@
             "shop"
         ]
     },
-    {
+    "Circle Of Protection": {
         "id": 423,
-        "name": "#CIRCLE_OF_PROTECTION_NAME",
+        "name": "Circle Of Protection",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -4961,9 +4932,9 @@
             "angel"
         ]
     },
-    {
+    "Sack Head": {
         "id": 424,
-        "name": "#SACK_HEAD_NAME",
+        "name": "Sack Head",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -4972,9 +4943,9 @@
             "secret"
         ]
     },
-    {
+    "Night Light": {
         "id": 425,
-        "name": "#NIGHT_LIGHT_NAME",
+        "name": "Night Light",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -4982,9 +4953,9 @@
             "shop"
         ]
     },
-    {
+    "Obsessed Fan": {
         "id": 426,
-        "name": "#OBSESSED_FAN_NAME",
+        "name": "Obsessed Fan",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
@@ -4993,9 +4964,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Mine Crafter": {
         "id": 427,
-        "name": "#MINE_CRAFTER_NAME",
+        "name": "Mine Crafter",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -5003,9 +4974,9 @@
             "treasure"
         ]
     },
-    {
+    "Pjs": {
         "id": 428,
-        "name": "#PJS_NAME",
+        "name": "Pjs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5016,9 +4987,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Head Of The Keeper": {
         "id": 429,
-        "name": "#HEAD_OF_THE_KEEPER_NAME",
+        "name": "Head Of The Keeper",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5027,9 +4998,9 @@
         ],
         "itemPool": []
     },
-    {
+    "Papa Fly": {
         "id": 430,
-        "name": "#PAPA_FLY_NAME",
+        "name": "Papa Fly",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5038,9 +5009,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Multidimensional Baby": {
         "id": 431,
-        "name": "#MULTIDIMENSIONAL_BABY_NAME",
+        "name": "Multidimensional Baby",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -5049,9 +5020,9 @@
             "devil"
         ]
     },
-    {
+    "Glitter Bombs": {
         "id": 432,
-        "name": "#GLITTER_BOMBS_NAME",
+        "name": "Glitter Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5060,9 +5031,9 @@
             "bombBum"
         ]
     },
-    {
+    "My Shadow": {
         "id": 433,
-        "name": "#MY_SHADOW_NAME",
+        "name": "My Shadow",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -5070,9 +5041,9 @@
             "devil"
         ]
     },
-    {
+    "Jar Of Flies": {
         "id": 434,
-        "name": "#JAR_OF_FLIES_NAME",
+        "name": "Jar Of Flies",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -5080,9 +5051,9 @@
             "shop"
         ]
     },
-    {
+    "Lil Loki": {
         "id": 435,
-        "name": "#LIL_LOKI_NAME",
+        "name": "Lil Loki",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5091,9 +5062,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Milk": {
         "id": 436,
-        "name": "#MILK_NAME",
+        "name": "Milk",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [
@@ -5103,9 +5074,9 @@
             "treasure"
         ]
     },
-    {
+    "D7": {
         "id": 437,
-        "name": "#D7_NAME",
+        "name": "D7",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -5113,9 +5084,9 @@
             "treasure"
         ]
     },
-    {
+    "Binky": {
         "id": 438,
-        "name": "#BINKY_NAME",
+        "name": "Binky",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5127,9 +5098,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Moms Box": {
         "id": 439,
-        "name": "#MOMS_BOX_NAME",
+        "name": "Moms Box",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -5139,9 +5110,9 @@
             "shop"
         ]
     },
-    {
+    "Kidney Stone": {
         "id": 440,
-        "name": "#KIDNEY_STONE_NAME",
+        "name": "Kidney Stone",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5153,9 +5124,9 @@
             "treasure"
         ]
     },
-    {
+    "Mega Blast": {
         "id": 441,
-        "name": "#MEGA_BLAST_NAME",
+        "name": "Mega Blast",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -5163,9 +5134,9 @@
             "devil"
         ]
     },
-    {
+    "Dark Princes Crown": {
         "id": 442,
-        "name": "#DARK_PRINCES_CROWN_NAME",
+        "name": "Dark Princes Crown",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -5178,9 +5149,9 @@
             "curse"
         ]
     },
-    {
+    "Apple": {
         "id": 443,
-        "name": "#APPLE_NAME",
+        "name": "Apple",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5191,9 +5162,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Lead Pencil": {
         "id": 444,
-        "name": "#LEAD_PENCIL_NAME",
+        "name": "Lead Pencil",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -5202,9 +5173,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Dog Tooth": {
         "id": 445,
-        "name": "#DOG_TOOTH_NAME",
+        "name": "Dog Tooth",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5215,9 +5186,9 @@
             "treasure"
         ]
     },
-    {
+    "Dead Tooth": {
         "id": 446,
-        "name": "#DEAD_TOOTH_NAME",
+        "name": "Dead Tooth",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5225,9 +5196,9 @@
             "treasure"
         ]
     },
-    {
+    "Linger Bean": {
         "id": 447,
-        "name": "#LINGER_BEAN_NAME",
+        "name": "Linger Bean",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -5236,9 +5207,9 @@
             "beggar"
         ]
     },
-    {
+    "Shard Of Glass": {
         "id": 448,
-        "name": "#SHARD_OF_GLASS_NAME",
+        "name": "Shard Of Glass",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5246,9 +5217,9 @@
             "treasure"
         ]
     },
-    {
+    "Metal Plate": {
         "id": 449,
-        "name": "#METAL_PLATE_NAME",
+        "name": "Metal Plate",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5256,9 +5227,9 @@
             "treasure"
         ]
     },
-    {
+    "Eye Of Greed": {
         "id": 450,
-        "name": "#EYE_OF_GREED_NAME",
+        "name": "Eye Of Greed",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5266,9 +5237,9 @@
             "secret"
         ]
     },
-    {
+    "Tarot Cloth": {
         "id": 451,
-        "name": "#TAROT_CLOTH_NAME",
+        "name": "Tarot Cloth",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5277,9 +5248,9 @@
             "curse"
         ]
     },
-    {
+    "Varicose Veins": {
         "id": 452,
-        "name": "#VARICOSE_VEINS_NAME",
+        "name": "Varicose Veins",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5288,9 +5259,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Compound Fracture": {
         "id": 453,
-        "name": "#COMPOUND_FRACTURE_NAME",
+        "name": "Compound Fracture",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5301,9 +5272,9 @@
             "treasure"
         ]
     },
-    {
+    "Polydactyly": {
         "id": 454,
-        "name": "#POLYDACTYLY_NAME",
+        "name": "Polydactyly",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5311,9 +5282,9 @@
             "treasure"
         ]
     },
-    {
+    "Dads Lost Coin": {
         "id": 455,
-        "name": "#DADS_LOST_COIN_NAME",
+        "name": "Dads Lost Coin",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -5325,9 +5296,9 @@
             "beggar"
         ]
     },
-    {
+    "Midnight Snack": {
         "id": 456,
-        "name": "#MIDNIGHT_SNACK_NAME",
+        "name": "Midnight Snack",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -5339,9 +5310,9 @@
             "beggar"
         ]
     },
-    {
+    "Cone Head": {
         "id": 457,
-        "name": "#CONE_HEAD_NAME",
+        "name": "Cone Head",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5349,9 +5320,9 @@
             "treasure"
         ]
     },
-    {
+    "Belly Button": {
         "id": 458,
-        "name": "#BELLY_BUTTON_NAME",
+        "name": "Belly Button",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5359,9 +5330,9 @@
             "treasure"
         ]
     },
-    {
+    "Sinus Infection": {
         "id": 459,
-        "name": "#SINUS_INFECTION_NAME",
+        "name": "Sinus Infection",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5371,9 +5342,9 @@
             "treasure"
         ]
     },
-    {
+    "Glaucoma": {
         "id": 460,
-        "name": "#GLAUCOMA_NAME",
+        "name": "Glaucoma",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5381,9 +5352,9 @@
             "treasure"
         ]
     },
-    {
+    "Parasitoid": {
         "id": 461,
-        "name": "#PARASITOID_NAME",
+        "name": "Parasitoid",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5393,9 +5364,9 @@
             "treasure"
         ]
     },
-    {
+    "Eye Of Belial": {
         "id": 462,
-        "name": "#EYE_OF_BELIAL_NAME",
+        "name": "Eye Of Belial",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5407,9 +5378,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Sulfuric Acid": {
         "id": 463,
-        "name": "#SULFURIC_ACID_NAME",
+        "name": "Sulfuric Acid",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5421,9 +5392,9 @@
             "treasure"
         ]
     },
-    {
+    "Glyph Of Balance": {
         "id": 464,
-        "name": "#GLYPH_OF_BALANCE_NAME",
+        "name": "Glyph Of Balance",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5431,9 +5402,9 @@
             "angel"
         ]
     },
-    {
+    "Analog Stick": {
         "id": 465,
-        "name": "#ANALOG_STICK_NAME",
+        "name": "Analog Stick",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5443,9 +5414,9 @@
             "treasure"
         ]
     },
-    {
+    "Contagion": {
         "id": 466,
-        "name": "#CONTAGION_NAME",
+        "name": "Contagion",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5454,9 +5425,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Finger": {
         "id": 467,
-        "name": "#FINGER_NAME",
+        "name": "Finger",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5464,9 +5435,9 @@
             "treasure"
         ]
     },
-    {
+    "Shade": {
         "id": 468,
-        "name": "#SHADE_NAME",
+        "name": "Shade",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
@@ -5475,9 +5446,9 @@
             "curse"
         ]
     },
-    {
+    "Depression": {
         "id": 469,
-        "name": "#DEPRESSION_NAME",
+        "name": "Depression",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5485,9 +5456,9 @@
             "treasure"
         ]
     },
-    {
+    "Hushy": {
         "id": 470,
-        "name": "#HUSHY_NAME",
+        "name": "Hushy",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
@@ -5495,9 +5466,9 @@
             "treasure"
         ]
     },
-    {
+    "Lil Monstro": {
         "id": 471,
-        "name": "#LIL_MONSTRO_NAME",
+        "name": "Lil Monstro",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -5505,9 +5476,9 @@
             "treasure"
         ]
     },
-    {
+    "King Baby": {
         "id": 472,
-        "name": "#KING_BABY_NAME",
+        "name": "King Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5515,9 +5486,9 @@
             "shop"
         ]
     },
-    {
+    "Big Chubby": {
         "id": 473,
-        "name": "#BIG_CHUBBY_NAME",
+        "name": "Big Chubby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5525,17 +5496,17 @@
             "treasure"
         ]
     },
-    {
+    "Broken Glass Cannon": {
         "id": 474,
-        "name": "#BROKEN_GLASS_CANNON_NAME",
+        "name": "Broken Glass Cannon",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Plan C": {
         "id": 475,
-        "name": "#PLAN_C_NAME",
+        "name": "Plan C",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -5548,9 +5519,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "D1": {
         "id": 476,
-        "name": "#D1_NAME",
+        "name": "D1",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -5558,9 +5529,9 @@
             "treasure"
         ]
     },
-    {
+    "Void": {
         "id": 477,
-        "name": "#VOID_NAME",
+        "name": "Void",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -5569,9 +5540,9 @@
             "angel"
         ]
     },
-    {
+    "Pause": {
         "id": 478,
-        "name": "#PAUSE_NAME",
+        "name": "Pause",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -5579,9 +5550,9 @@
             "treasure"
         ]
     },
-    {
+    "Smelter": {
         "id": 479,
-        "name": "#SMELTER_NAME",
+        "name": "Smelter",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -5589,9 +5560,9 @@
             "shop"
         ]
     },
-    {
+    "Compost": {
         "id": 480,
-        "name": "#COMPOST_NAME",
+        "name": "Compost",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -5600,9 +5571,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Dataminer": {
         "id": 481,
-        "name": "#DATAMINER_NAME",
+        "name": "Dataminer",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -5611,9 +5582,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Clicker": {
         "id": 482,
-        "name": "#CLICKER_NAME",
+        "name": "Clicker",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
@@ -5621,9 +5592,9 @@
             "treasure"
         ]
     },
-    {
+    "Mama Mega": {
         "id": 483,
-        "name": "#MAMA_MEGA_NAME",
+        "name": "Mama Mega",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -5632,17 +5603,17 @@
             "bombBum"
         ]
     },
-    {
+    "Wait What": {
         "id": 484,
-        "name": "#WAIT_WHAT_NAME",
+        "name": "Wait What",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Crooked Penny": {
         "id": 485,
-        "name": "#CROOKED_PENNY_NAME",
+        "name": "Crooked Penny",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -5652,9 +5623,9 @@
             "beggar"
         ]
     },
-    {
+    "Dull Razor": {
         "id": 486,
-        "name": "#DULL_RAZOR_NAME",
+        "name": "Dull Razor",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -5662,9 +5633,9 @@
             "shop"
         ]
     },
-    {
+    "Potato Peeler": {
         "id": 487,
-        "name": "#POTATO_PEELER_NAME",
+        "name": "Potato Peeler",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -5673,9 +5644,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Metronome": {
         "id": 488,
-        "name": "#METRONOME_NAME",
+        "name": "Metronome",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -5685,9 +5656,9 @@
             "treasure"
         ]
     },
-    {
+    "D Infinity": {
         "id": 489,
-        "name": "#D_INFINITY_NAME",
+        "name": "D Infinity",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -5695,9 +5666,9 @@
             "secret"
         ]
     },
-    {
+    "Edens Soul": {
         "id": 490,
-        "name": "#EDENS_SOUL_NAME",
+        "name": "Edens Soul",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -5705,9 +5676,9 @@
             "angel"
         ]
     },
-    {
+    "Acid Baby": {
         "id": 491,
-        "name": "#ACID_BABY_NAME",
+        "name": "Acid Baby",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -5715,9 +5686,9 @@
             "treasure"
         ]
     },
-    {
+    "Yo Listen": {
         "id": 492,
-        "name": "#YO_LISTEN_NAME",
+        "name": "Yo Listen",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [
@@ -5728,9 +5699,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Adrenaline": {
         "id": 493,
-        "name": "#ADRENALINE_NAME",
+        "name": "Adrenaline",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5741,9 +5712,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Jacobs Ladder": {
         "id": 494,
-        "name": "#JACOBS_LADDER_NAME",
+        "name": "Jacobs Ladder",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5755,9 +5726,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Ghost Pepper": {
         "id": 495,
-        "name": "#GHOST_PEPPER_NAME",
+        "name": "Ghost Pepper",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -5765,9 +5736,9 @@
             "treasure"
         ]
     },
-    {
+    "Euthanasia": {
         "id": 496,
-        "name": "#EUTHANASIA_NAME",
+        "name": "Euthanasia",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -5777,9 +5748,9 @@
             "curse"
         ]
     },
-    {
+    "Camo Undies": {
         "id": 497,
-        "name": "#CAMO_UNDIES_NAME",
+        "name": "Camo Undies",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5789,9 +5760,9 @@
             "treasure"
         ]
     },
-    {
+    "Duality": {
         "id": 498,
-        "name": "#DUALITY_NAME",
+        "name": "Duality",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5800,9 +5771,9 @@
             "angel"
         ]
     },
-    {
+    "Eucharist": {
         "id": 499,
-        "name": "#EUCHARIST_NAME",
+        "name": "Eucharist",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -5810,9 +5781,9 @@
             "angel"
         ]
     },
-    {
+    "Sack Of Sacks": {
         "id": 500,
-        "name": "#SACK_OF_SACKS_NAME",
+        "name": "Sack Of Sacks",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -5820,9 +5791,9 @@
             "secret"
         ]
     },
-    {
+    "Greeds Gullet": {
         "id": 501,
-        "name": "#GREEDS_GULLET_NAME",
+        "name": "Greeds Gullet",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5830,9 +5801,9 @@
             "secret"
         ]
     },
-    {
+    "Large Zit": {
         "id": 502,
-        "name": "#LARGE_ZIT_NAME",
+        "name": "Large Zit",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -5840,9 +5811,9 @@
             "treasure"
         ]
     },
-    {
+    "Little Horn": {
         "id": 503,
-        "name": "#LITTLE_HORN_NAME",
+        "name": "Little Horn",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -5852,9 +5823,9 @@
             "curse"
         ]
     },
-    {
+    "Brown Nugget": {
         "id": 504,
-        "name": "#BROWN_NUGGET_NAME",
+        "name": "Brown Nugget",
         "typeItem": "active",
         "quality": 0,
         "stats": [
@@ -5865,9 +5836,9 @@
             "shellGame"
         ]
     },
-    {
+    "Poke Go": {
         "id": 505,
-        "name": "#POKE_GO_NAME",
+        "name": "Poke Go",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -5875,9 +5846,9 @@
             "shop"
         ]
     },
-    {
+    "Backstabber": {
         "id": 506,
-        "name": "#BACKSTABBER_NAME",
+        "name": "Backstabber",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -5889,9 +5860,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Sharp Straw": {
         "id": 507,
-        "name": "#SHARP_STRAW_NAME",
+        "name": "Sharp Straw",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -5899,9 +5870,9 @@
             "treasure"
         ]
     },
-    {
+    "Moms Razor": {
         "id": 508,
-        "name": "#MOMS_RAZOR_NAME",
+        "name": "Moms Razor",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -5909,9 +5880,9 @@
             "treasure"
         ]
     },
-    {
+    "Bloodshot Eye": {
         "id": 509,
-        "name": "#BLOODSHOT_EYE_NAME",
+        "name": "Bloodshot Eye",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5919,9 +5890,9 @@
             "treasure"
         ]
     },
-    {
+    "Delirious": {
         "id": 510,
-        "name": "#DELIRIOUS_NAME",
+        "name": "Delirious",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -5929,9 +5900,9 @@
             "angel"
         ]
     },
-    {
+    "Angry Fly": {
         "id": 511,
-        "name": "#ANGRY_FLY_NAME",
+        "name": "Angry Fly",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -5940,9 +5911,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Black Hole": {
         "id": 512,
-        "name": "#BLACK_HOLE_NAME",
+        "name": "Black Hole",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -5950,9 +5921,9 @@
             "treasure"
         ]
     },
-    {
+    "Bozo": {
         "id": 513,
-        "name": "#BOZO_NAME",
+        "name": "Bozo",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -5962,9 +5933,9 @@
             "treasure"
         ]
     },
-    {
+    "Broken Modem": {
         "id": 514,
-        "name": "#BROKEN_MODEM_NAME",
+        "name": "Broken Modem",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -5972,9 +5943,9 @@
             "shop"
         ]
     },
-    {
+    "Mystery Gift": {
         "id": 515,
-        "name": "#MYSTERY_GIFT_NAME",
+        "name": "Mystery Gift",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -5982,9 +5953,9 @@
             "shop"
         ]
     },
-    {
+    "Sprinkler": {
         "id": 516,
-        "name": "#SPRINKLER_NAME",
+        "name": "Sprinkler",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -5994,9 +5965,9 @@
             "treasure"
         ]
     },
-    {
+    "Fast Bombs": {
         "id": 517,
-        "name": "#FAST_BOMBS_NAME",
+        "name": "Fast Bombs",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -6005,9 +5976,9 @@
             "bombBum"
         ]
     },
-    {
+    "Buddy In A Box": {
         "id": 518,
-        "name": "#BUDDY_IN_A_BOX_NAME",
+        "name": "Buddy In A Box",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -6015,9 +5986,9 @@
             "shop"
         ]
     },
-    {
+    "Lil Delirium": {
         "id": 519,
-        "name": "#LIL_DELIRIUM_NAME",
+        "name": "Lil Delirium",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -6026,9 +5997,9 @@
             "angel"
         ]
     },
-    {
+    "Jumper Cables": {
         "id": 520,
-        "name": "#JUMPER_CABLES_NAME",
+        "name": "Jumper Cables",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -6037,9 +6008,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Coupon": {
         "id": 521,
-        "name": "#COUPON_NAME",
+        "name": "Coupon",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -6047,9 +6018,9 @@
             "shop"
         ]
     },
-    {
+    "Telekinesis": {
         "id": 522,
-        "name": "#TELEKINESIS_NAME",
+        "name": "Telekinesis",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -6057,9 +6028,9 @@
             "treasure"
         ]
     },
-    {
+    "Moving Box": {
         "id": 523,
-        "name": "#MOVING_BOX_NAME",
+        "name": "Moving Box",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -6067,9 +6038,9 @@
             "shop"
         ]
     },
-    {
+    "Technology Zero": {
         "id": 524,
-        "name": "#TECHNOLOGY_ZERO_NAME",
+        "name": "Technology Zero",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6079,9 +6050,9 @@
             "treasure"
         ]
     },
-    {
+    "Leprosy": {
         "id": 525,
-        "name": "#LEPROSY_NAME",
+        "name": "Leprosy",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -6089,9 +6060,9 @@
             "treasure"
         ]
     },
-    {
+    "7 Seals": {
         "id": 526,
-        "name": "#7_SEALS_NAME",
+        "name": "7 Seals",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -6100,9 +6071,9 @@
             "angel"
         ]
     },
-    {
+    "Mr Me": {
         "id": 527,
-        "name": "#MR_ME_NAME",
+        "name": "Mr Me",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -6111,9 +6082,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Angelic Prism": {
         "id": 528,
-        "name": "#ANGELIC_PRISM_NAME",
+        "name": "Angelic Prism",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -6121,9 +6092,9 @@
             "angel"
         ]
     },
-    {
+    "Pop": {
         "id": 529,
-        "name": "#POP_NAME",
+        "name": "Pop",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -6133,9 +6104,9 @@
             "treasure"
         ]
     },
-    {
+    "Deaths List": {
         "id": 530,
-        "name": "#DEATHS_LIST_NAME",
+        "name": "Deaths List",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6143,9 +6114,9 @@
             "devil"
         ]
     },
-    {
+    "Haemolacria": {
         "id": 531,
-        "name": "#HAEMOLACRIA_NAME",
+        "name": "Haemolacria",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -6160,9 +6131,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Lachryphagy": {
         "id": 532,
-        "name": "#LACHRYPHAGY_NAME",
+        "name": "Lachryphagy",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6172,9 +6143,9 @@
             "treasure"
         ]
     },
-    {
+    "Trisagion": {
         "id": 533,
-        "name": "#TRISAGION_NAME",
+        "name": "Trisagion",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6184,9 +6155,9 @@
             "angel"
         ]
     },
-    {
+    "Schoolbag": {
         "id": 534,
-        "name": "#SCHOOLBAG_NAME",
+        "name": "Schoolbag",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -6195,9 +6166,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Blanket": {
         "id": 535,
-        "name": "#BLANKET_NAME",
+        "name": "Blanket",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6207,9 +6178,9 @@
             "shop"
         ]
     },
-    {
+    "Sacrificial Altar": {
         "id": 536,
-        "name": "#SACRIFICIAL_ALTAR_NAME",
+        "name": "Sacrificial Altar",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -6218,9 +6189,9 @@
             "curse"
         ]
     },
-    {
+    "Lil Spewer": {
         "id": 537,
-        "name": "#LIL_SPEWER_NAME",
+        "name": "Lil Spewer",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -6228,9 +6199,9 @@
             "treasure"
         ]
     },
-    {
+    "Marbles": {
         "id": 538,
-        "name": "#MARBLES_NAME",
+        "name": "Marbles",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6240,9 +6211,9 @@
             "boss"
         ]
     },
-    {
+    "Mystery Egg": {
         "id": 539,
-        "name": "#MYSTERY_EGG_NAME",
+        "name": "Mystery Egg",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -6250,9 +6221,9 @@
             "treasure"
         ]
     },
-    {
+    "Flat Stone": {
         "id": 540,
-        "name": "#FLAT_STONE_NAME",
+        "name": "Flat Stone",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6265,9 +6236,9 @@
             "treasure"
         ]
     },
-    {
+    "Marrow": {
         "id": 541,
-        "name": "#MARROW_NAME",
+        "name": "Marrow",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -6276,9 +6247,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Slipped Rib": {
         "id": 542,
-        "name": "#SLIPPED_RIB_NAME",
+        "name": "Slipped Rib",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -6286,9 +6257,9 @@
             "treasure"
         ]
     },
-    {
+    "Hallowed Ground": {
         "id": 543,
-        "name": "#HALLOWED_GROUND_NAME",
+        "name": "Hallowed Ground",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -6297,9 +6268,9 @@
             "angel"
         ]
     },
-    {
+    "Pointy Rib": {
         "id": 544,
-        "name": "#POINTY_RIB_NAME",
+        "name": "Pointy Rib",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -6307,9 +6278,9 @@
             "treasure"
         ]
     },
-    {
+    "Book Of The Dead": {
         "id": 545,
-        "name": "#BOOK_OF_THE_DEAD_NAME",
+        "name": "Book Of The Dead",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -6319,9 +6290,9 @@
             "library"
         ]
     },
-    {
+    "Dads Ring": {
         "id": 546,
-        "name": "#DADS_RING_NAME",
+        "name": "Dads Ring",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -6329,9 +6300,9 @@
             "secret"
         ]
     },
-    {
+    "Divorce Papers": {
         "id": 547,
-        "name": "#DIVORCE_PAPERS_NAME",
+        "name": "Divorce Papers",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6341,9 +6312,9 @@
             "boss"
         ]
     },
-    {
+    "Jaw Bone": {
         "id": 548,
-        "name": "#JAW_BONE_NAME",
+        "name": "Jaw Bone",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -6351,9 +6322,9 @@
             "treasure"
         ]
     },
-    {
+    "Brittle Bones": {
         "id": 549,
-        "name": "#BRITTLE_BONES_NAME",
+        "name": "Brittle Bones",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -6361,33 +6332,33 @@
             "treasure"
         ]
     },
-    {
+    "Broken Shovel": {
         "id": 550,
-        "name": "#BROKEN_SHOVEL_NAME",
+        "name": "Broken Shovel",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Broken Shovel2": {
         "id": 551,
-        "name": "#BROKEN_SHOVEL2_NAME",
+        "name": "Broken Shovel2",
         "typeItem": "passive",
         "quality": 4,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Moms Shovel": {
         "id": 552,
-        "name": "#MOMS_SHOVEL_NAME",
+        "name": "Moms Shovel",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Mucormycosis": {
         "id": 553,
-        "name": "#MUCORMYCOSIS_NAME",
+        "name": "Mucormycosis",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6397,9 +6368,9 @@
             "treasure"
         ]
     },
-    {
+    "2spooky": {
         "id": 554,
-        "name": "#2SPOOKY_NAME",
+        "name": "2spooky",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -6410,9 +6381,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Golden Razor": {
         "id": 555,
-        "name": "#GOLDEN_RAZOR_NAME",
+        "name": "Golden Razor",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -6422,9 +6393,9 @@
             "treasure"
         ]
     },
-    {
+    "Sulfur": {
         "id": 556,
-        "name": "#SULFUR_NAME",
+        "name": "Sulfur",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -6433,9 +6404,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Fortune Cookie": {
         "id": 557,
-        "name": "#FORTUNE_COOKIE_NAME",
+        "name": "Fortune Cookie",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -6443,9 +6414,9 @@
             "treasure"
         ]
     },
-    {
+    "Eye Sore": {
         "id": 558,
-        "name": "#EYE_SORE_NAME",
+        "name": "Eye Sore",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -6453,9 +6424,9 @@
             "treasure"
         ]
     },
-    {
+    "120 Volt": {
         "id": 559,
-        "name": "#120_VOLT_NAME",
+        "name": "120 Volt",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6464,9 +6435,9 @@
             "batteryBum"
         ]
     },
-    {
+    "It Hurts": {
         "id": 560,
-        "name": "#IT_HURTS_NAME",
+        "name": "It Hurts",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -6474,9 +6445,9 @@
             "treasure"
         ]
     },
-    {
+    "Almond Milk": {
         "id": 561,
-        "name": "#ALMOND_MILK_NAME",
+        "name": "Almond Milk",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -6488,9 +6459,9 @@
             "treasure"
         ]
     },
-    {
+    "Rock Bottom": {
         "id": 562,
-        "name": "#ROCK_BOTTOM_NAME",
+        "name": "Rock Bottom",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6500,9 +6471,9 @@
             "secret"
         ]
     },
-    {
+    "Nancy Bombs": {
         "id": 563,
-        "name": "#NANCY_BOMBS_NAME",
+        "name": "Nancy Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6511,9 +6482,9 @@
             "bombBum"
         ]
     },
-    {
+    "A Bar Of Soap": {
         "id": 564,
-        "name": "#A_BAR_OF_SOAP_NAME",
+        "name": "A Bar Of Soap",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6524,9 +6495,9 @@
             "boss"
         ]
     },
-    {
+    "Blood Puppy": {
         "id": 565,
-        "name": "#BLOOD_PUPPY_NAME",
+        "name": "Blood Puppy",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -6537,9 +6508,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Dream Catcher": {
         "id": 566,
-        "name": "#DREAM_CATCHER_NAME",
+        "name": "Dream Catcher",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6547,9 +6518,9 @@
             "shop"
         ]
     },
-    {
+    "Paschal Candle": {
         "id": 567,
-        "name": "#PASCHAL_CANDLE_NAME",
+        "name": "Paschal Candle",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [
@@ -6559,9 +6530,9 @@
             "angel"
         ]
     },
-    {
+    "Divine Intervention": {
         "id": 568,
-        "name": "#DIVINE_INTERVENTION_NAME",
+        "name": "Divine Intervention",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6569,9 +6540,9 @@
             "angel"
         ]
     },
-    {
+    "Blood Oath": {
         "id": 569,
-        "name": "#BLOOD_OATH_NAME",
+        "name": "Blood Oath",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -6580,9 +6551,9 @@
             "curse"
         ]
     },
-    {
+    "Playdough Cookie": {
         "id": 570,
-        "name": "#PLAYDOUGH_COOKIE_NAME",
+        "name": "Playdough Cookie",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6592,9 +6563,9 @@
             "treasure"
         ]
     },
-    {
+    "Orphan Socks": {
         "id": 571,
-        "name": "#ORPHAN_SOCKS_NAME",
+        "name": "Orphan Socks",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6605,9 +6576,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Eye Of The Occult": {
         "id": 572,
-        "name": "#EYE_OF_THE_OCCULT_NAME",
+        "name": "Eye Of The Occult",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6622,9 +6593,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Immaculate Heart": {
         "id": 573,
-        "name": "#IMMACULATE_HEART_NAME",
+        "name": "Immaculate Heart",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6636,9 +6607,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Monstrance": {
         "id": 574,
-        "name": "#MONSTRANCE_NAME",
+        "name": "Monstrance",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6646,9 +6617,9 @@
             "angel"
         ]
     },
-    {
+    "The Intruder": {
         "id": 575,
-        "name": "#THE_INTRUDER_NAME",
+        "name": "The Intruder",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -6656,9 +6627,9 @@
             "treasure"
         ]
     },
-    {
+    "Dirty Mind": {
         "id": 576,
-        "name": "#DIRTY_MIND_NAME",
+        "name": "Dirty Mind",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -6667,21 +6638,20 @@
             "shellGame"
         ]
     },
-    {
-        "id": 577,
-        "name": "#DAMOCLES_NAME",
-        "typeItem": "active",
+    "Damocles": {
+        "id": 656,
+        "name": "Damocles",
+        "typeItem": "familiar",
         "quality": 2,
         "stats": [
-            "familiars"
+            "familiars",
+            "damage"
         ],
-        "itemPool": [
-            "devil"
-        ]
+        "itemPool": []
     },
-    {
+    "Free Lemonade": {
         "id": 578,
-        "name": "#FREE_LEMONADE_NAME",
+        "name": "Free Lemonade",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -6689,9 +6659,9 @@
             "treasure"
         ]
     },
-    {
+    "Spirit Sword": {
         "id": 579,
-        "name": "#SPIRIT_SWORD_NAME",
+        "name": "Spirit Sword",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6703,9 +6673,9 @@
             "angel"
         ]
     },
-    {
+    "Red Key": {
         "id": 580,
-        "name": "#RED_KEY_NAME",
+        "name": "Red Key",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -6717,9 +6687,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Psy Fly": {
         "id": 581,
-        "name": "#PSY_FLY_NAME",
+        "name": "Psy Fly",
         "typeItem": "familiar",
         "quality": 4,
         "stats": [],
@@ -6728,9 +6698,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Wavy Cap": {
         "id": 582,
-        "name": "#WAVY_CAP_NAME",
+        "name": "Wavy Cap",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -6742,9 +6712,9 @@
             "secret"
         ]
     },
-    {
+    "Rocket In A Jar": {
         "id": 583,
-        "name": "#ROCKET_IN_A_JAR_NAME",
+        "name": "Rocket In A Jar",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6753,9 +6723,9 @@
             "bombBum"
         ]
     },
-    {
+    "Book Of Virtues": {
         "id": 584,
-        "name": "#BOOK_OF_VIRTUES_NAME",
+        "name": "Book Of Virtues",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -6764,9 +6734,9 @@
             "library"
         ]
     },
-    {
+    "Alabaster Box": {
         "id": 585,
-        "name": "#ALABASTER_BOX_NAME",
+        "name": "Alabaster Box",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -6774,9 +6744,9 @@
             "shop"
         ]
     },
-    {
+    "The Stairway": {
         "id": 586,
-        "name": "#THE_STAIRWAY_NAME",
+        "name": "The Stairway",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -6784,17 +6754,9 @@
             "angel"
         ]
     },
-    {
-        "id": 587,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Sol": {
         "id": 588,
-        "name": "#SOL_NAME",
+        "name": "Sol",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6802,9 +6764,9 @@
             "planetarium"
         ]
     },
-    {
+    "Luna": {
         "id": 589,
-        "name": "#LUNA_NAME",
+        "name": "Luna",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6812,9 +6774,9 @@
             "planetarium"
         ]
     },
-    {
+    "Mercurius": {
         "id": 590,
-        "name": "#MERCURIUS_NAME",
+        "name": "Mercurius",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6824,9 +6786,9 @@
             "planetarium"
         ]
     },
-    {
+    "Venus": {
         "id": 591,
-        "name": "#VENUS_NAME",
+        "name": "Venus",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6836,9 +6798,9 @@
             "planetarium"
         ]
     },
-    {
+    "Terra": {
         "id": 592,
-        "name": "#TERRA_NAME",
+        "name": "Terra",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6849,9 +6811,9 @@
             "planetarium"
         ]
     },
-    {
+    "Mars": {
         "id": 593,
-        "name": "#MARS_NAME",
+        "name": "Mars",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6859,9 +6821,9 @@
             "planetarium"
         ]
     },
-    {
+    "Jupiter": {
         "id": 594,
-        "name": "#JUPITER_NAME",
+        "name": "Jupiter",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -6873,9 +6835,9 @@
             "planetarium"
         ]
     },
-    {
+    "Saturnus": {
         "id": 595,
-        "name": "#SATURNUS_NAME",
+        "name": "Saturnus",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6883,9 +6845,9 @@
             "planetarium"
         ]
     },
-    {
+    "Uranus": {
         "id": 596,
-        "name": "#URANUS_NAME",
+        "name": "Uranus",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6896,9 +6858,9 @@
             "planetarium"
         ]
     },
-    {
+    "Neptunus": {
         "id": 597,
-        "name": "#NEPTUNUS_NAME",
+        "name": "Neptunus",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -6906,9 +6868,9 @@
             "planetarium"
         ]
     },
-    {
+    "Pluto": {
         "id": 598,
-        "name": "#PLUTO_NAME",
+        "name": "Pluto",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6921,9 +6883,9 @@
             "planetarium"
         ]
     },
-    {
+    "Voodoo Head": {
         "id": 599,
-        "name": "#VOODOO_HEAD_NAME",
+        "name": "Voodoo Head",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6931,9 +6893,9 @@
             "shop"
         ]
     },
-    {
+    "Eye Drops": {
         "id": 600,
-        "name": "#EYE_DROPS_NAME",
+        "name": "Eye Drops",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6943,9 +6905,9 @@
             "boss"
         ]
     },
-    {
+    "Act Of Contrition": {
         "id": 601,
-        "name": "#ACT_OF_CONTRITION_NAME",
+        "name": "Act Of Contrition",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -6955,9 +6917,9 @@
             "angel"
         ]
     },
-    {
+    "Member Card": {
         "id": 602,
-        "name": "#MEMBER_CARD_NAME",
+        "name": "Member Card",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -6965,9 +6927,9 @@
             "shop"
         ]
     },
-    {
+    "Battery Pack": {
         "id": 603,
-        "name": "#BATTERY_PACK_NAME",
+        "name": "Battery Pack",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -6976,9 +6938,9 @@
             "batteryBum"
         ]
     },
-    {
+    "Moms Bracelet": {
         "id": 604,
-        "name": "#MOMS_BRACELET_NAME",
+        "name": "Moms Bracelet",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -6986,9 +6948,9 @@
             "shop"
         ]
     },
-    {
+    "The Scooper": {
         "id": 605,
-        "name": "#THE_SCOOPER_NAME",
+        "name": "The Scooper",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -6998,9 +6960,9 @@
             "treasure"
         ]
     },
-    {
+    "Ocular Rift": {
         "id": 606,
-        "name": "#OCULAR_RIFT_NAME",
+        "name": "Ocular Rift",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -7009,9 +6971,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Boiled Baby": {
         "id": 607,
-        "name": "#BOILED_BABY_NAME",
+        "name": "Boiled Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -7020,9 +6982,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Freezer Baby": {
         "id": 608,
-        "name": "#FREEZER_BABY_NAME",
+        "name": "Freezer Baby",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -7030,9 +6992,9 @@
             "treasure"
         ]
     },
-    {
+    "Eternal D6": {
         "id": 609,
-        "name": "#ETERNAL_D6_NAME",
+        "name": "Eternal D6",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -7041,9 +7003,9 @@
             "secret"
         ]
     },
-    {
+    "Bird Cage": {
         "id": 610,
-        "name": "#BIRD_CAGE_NAME",
+        "name": "Bird Cage",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -7051,9 +7013,9 @@
             "treasure"
         ]
     },
-    {
+    "Larynx": {
         "id": 611,
-        "name": "#LARYNX_NAME",
+        "name": "Larynx",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -7061,9 +7023,9 @@
             "treasure"
         ]
     },
-    {
+    "Lost Soul": {
         "id": 612,
-        "name": "#LOST_SOUL_NAME",
+        "name": "Lost Soul",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -7072,17 +7034,9 @@
             "secret"
         ]
     },
-    {
-        "id": 613,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Blood Bombs": {
         "id": 614,
-        "name": "#BLOOD_BOMBS_NAME",
+        "name": "Blood Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7094,9 +7048,9 @@
             "bombBum"
         ]
     },
-    {
+    "Lil Dumpy": {
         "id": 615,
-        "name": "#LIL_DUMPY_NAME",
+        "name": "Lil Dumpy",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -7104,9 +7058,9 @@
             "treasure"
         ]
     },
-    {
+    "Birds Eye": {
         "id": 616,
-        "name": "#BIRDS_EYE_NAME",
+        "name": "Birds Eye",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -7115,9 +7069,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Lodestone": {
         "id": 617,
-        "name": "#LODESTONE_NAME",
+        "name": "Lodestone",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -7127,9 +7081,9 @@
             "treasure"
         ]
     },
-    {
+    "Rotten Tomato": {
         "id": 618,
-        "name": "#ROTTEN_TOMATO_NAME",
+        "name": "Rotten Tomato",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7141,9 +7095,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Birthright": {
         "id": 619,
-        "name": "#BIRTHRIGHT_NAME",
+        "name": "Birthright",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -7153,17 +7107,9 @@
             "shop"
         ]
     },
-    {
-        "id": 620,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Red Stew": {
         "id": 621,
-        "name": "#RED_STEW_NAME",
+        "name": "Red Stew",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7175,9 +7121,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Genesis": {
         "id": 622,
-        "name": "#GENESIS_NAME",
+        "name": "Genesis",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -7185,9 +7131,9 @@
             "angel"
         ]
     },
-    {
+    "Sharp Key": {
         "id": 623,
-        "name": "#SHARP_KEY_NAME",
+        "name": "Sharp Key",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -7195,9 +7141,9 @@
             "shop"
         ]
     },
-    {
+    "Booster Pack": {
         "id": 624,
-        "name": "#BOOSTER_PACK_NAME",
+        "name": "Booster Pack",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7206,9 +7152,9 @@
             "boss"
         ]
     },
-    {
+    "Mega Mush": {
         "id": 625,
-        "name": "#MEGA_MUSH_NAME",
+        "name": "Mega Mush",
         "typeItem": "active",
         "quality": 4,
         "stats": [
@@ -7219,25 +7165,25 @@
             "secret"
         ]
     },
-    {
+    "Knife Piece 1": {
         "id": 626,
-        "name": "#KNIFE_PIECE_1_NAME",
+        "name": "Knife Piece 1",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Knife Piece 2": {
         "id": 627,
-        "name": "#KNIFE_PIECE_2_NAME",
+        "name": "Knife Piece 2",
         "typeItem": "familiar",
         "quality": 0,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Death Certificate": {
         "id": 628,
-        "name": "#DEATH_CERTIFICATE_NAME",
+        "name": "Death Certificate",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -7245,9 +7191,9 @@
             "secret"
         ]
     },
-    {
+    "Bot Fly": {
         "id": 629,
-        "name": "#BOT_FLY_NAME",
+        "name": "Bot Fly",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -7256,17 +7202,9 @@
             "keyMaster"
         ]
     },
-    {
-        "id": 630,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Meat Cleaver": {
         "id": 631,
-        "name": "#MEAT_CLEAVER_NAME",
+        "name": "Meat Cleaver",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -7274,9 +7212,9 @@
             "treasure"
         ]
     },
-    {
+    "Evil Charm": {
         "id": 632,
-        "name": "#EVIL_CHARM_NAME",
+        "name": "Evil Charm",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7286,9 +7224,9 @@
             "secret"
         ]
     },
-    {
+    "Dogma": {
         "id": 633,
-        "name": "#DOGMA_NAME",
+        "name": "Dogma",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -7298,9 +7236,9 @@
         ],
         "itemPool": []
     },
-    {
+    "Purgatory": {
         "id": 634,
-        "name": "#PURGATORY_NAME",
+        "name": "Purgatory",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7309,9 +7247,9 @@
             "angel"
         ]
     },
-    {
+    "Stitches": {
         "id": 635,
-        "name": "#STITCHES_NAME",
+        "name": "Stitches",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -7321,9 +7259,9 @@
             "treasure"
         ]
     },
-    {
+    "R Key": {
         "id": 636,
-        "name": "#R_KEY_NAME",
+        "name": "R Key",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -7331,9 +7269,9 @@
             "secret"
         ]
     },
-    {
+    "Knockout Drops": {
         "id": 637,
-        "name": "#KNOCKOUT_DROPS_NAME",
+        "name": "Knockout Drops",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -7342,9 +7280,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Eraser": {
         "id": 638,
-        "name": "#ERASER_NAME",
+        "name": "Eraser",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -7352,9 +7290,9 @@
             "shop"
         ]
     },
-    {
+    "Yuck Heart": {
         "id": 639,
-        "name": "#YUCK_HEART_NAME",
+        "name": "Yuck Heart",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -7363,9 +7301,9 @@
             "rottenBeggar"
         ]
     },
-    {
+    "Urn Of Souls": {
         "id": 640,
-        "name": "#URN_OF_SOULS_NAME",
+        "name": "Urn Of Souls",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -7373,9 +7311,9 @@
             "angel"
         ]
     },
-    {
+    "Akeldama": {
         "id": 641,
-        "name": "#AKELDAMA_NAME",
+        "name": "Akeldama",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7383,9 +7321,9 @@
             "treasure"
         ]
     },
-    {
+    "Magic Skin": {
         "id": 642,
-        "name": "#MAGIC_SKIN_NAME",
+        "name": "Magic Skin",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -7395,9 +7333,9 @@
             "curse"
         ]
     },
-    {
+    "Revelation": {
         "id": 643,
-        "name": "#REVELATION_NAME",
+        "name": "Revelation",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -7407,9 +7345,9 @@
             "angel"
         ]
     },
-    {
+    "Consolation Prize": {
         "id": 644,
-        "name": "#CONSOLATION_PRIZE_NAME",
+        "name": "Consolation Prize",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7418,9 +7356,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Tinytoma": {
         "id": 645,
-        "name": "#TINYTOMA_NAME",
+        "name": "Tinytoma",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -7428,9 +7366,9 @@
             "treasure"
         ]
     },
-    {
+    "Brimstone Bombs": {
         "id": 646,
-        "name": "#BRIMSTONE_BOMBS_NAME",
+        "name": "Brimstone Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7439,9 +7377,9 @@
             "bombBum"
         ]
     },
-    {
+    "4 5 Volt": {
         "id": 647,
-        "name": "#4_5_VOLT_NAME",
+        "name": "4 5 Volt",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7450,17 +7388,9 @@
             "batteryBum"
         ]
     },
-    {
-        "id": 648,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Fruity Plum": {
         "id": 649,
-        "name": "#FRUITY_PLUM_NAME",
+        "name": "Fruity Plum",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -7469,9 +7399,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Plum Flute": {
         "id": 650,
-        "name": "#PLUM_FLUTE_NAME",
+        "name": "Plum Flute",
         "typeItem": "active",
         "quality": 1,
         "stats": [],
@@ -7480,9 +7410,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Star Of Bethlehem": {
         "id": 651,
-        "name": "#STAR_OF_BETHLEHEM_NAME",
+        "name": "Star Of Bethlehem",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -7490,9 +7420,9 @@
             "angel"
         ]
     },
-    {
+    "Cube Baby": {
         "id": 652,
-        "name": "#CUBE_BABY_NAME",
+        "name": "Cube Baby",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -7500,9 +7430,9 @@
             "treasure"
         ]
     },
-    {
+    "Vade Retro": {
         "id": 653,
-        "name": "#VADE_RETRO_NAME",
+        "name": "Vade Retro",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -7510,9 +7440,9 @@
             "angel"
         ]
     },
-    {
+    "False Phd": {
         "id": 654,
-        "name": "#FALSE_PHD_NAME",
+        "name": "False Phd",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7525,9 +7455,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Spin To Win": {
         "id": 655,
-        "name": "#SPIN_TO_WIN_NAME",
+        "name": "Spin To Win",
         "typeItem": "active",
         "quality": 1,
         "stats": [
@@ -7537,20 +7467,9 @@
             "treasure"
         ]
     },
-    {
-        "id": 656,
-        "name": "#DAMOCLES_NAME",
-        "typeItem": "familiar",
-        "quality": 2,
-        "stats": [
-            "familiars",
-            "damage"
-        ],
-        "itemPool": []
-    },
-    {
+    "Vasculitis": {
         "id": 657,
-        "name": "#VASCULITIS_NAME",
+        "name": "Vasculitis",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7559,9 +7478,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Giant Cell": {
         "id": 658,
-        "name": "#GIANT_CELL_NAME",
+        "name": "Giant Cell",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7569,9 +7488,9 @@
             "treasure"
         ]
     },
-    {
+    "Tropicamide": {
         "id": 659,
-        "name": "#TROPICAMIDE_NAME",
+        "name": "Tropicamide",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -7581,9 +7500,9 @@
             "boss"
         ]
     },
-    {
+    "Card Reading": {
         "id": 660,
-        "name": "#CARD_READING_NAME",
+        "name": "Card Reading",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -7591,9 +7510,9 @@
             "shop"
         ]
     },
-    {
+    "Quints": {
         "id": 661,
-        "name": "#QUINTS_NAME",
+        "name": "Quints",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7601,17 +7520,9 @@
             "treasure"
         ]
     },
-    {
-        "id": 662,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Tooth And Nail": {
         "id": 663,
-        "name": "#TOOTH_AND_NAIL_NAME",
+        "name": "Tooth And Nail",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7619,9 +7530,9 @@
             "treasure"
         ]
     },
-    {
+    "Binge Eater": {
         "id": 664,
-        "name": "#BINGE_EATER_NAME",
+        "name": "Binge Eater",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -7637,9 +7548,9 @@
             "secret"
         ]
     },
-    {
+    "Guppys Eye": {
         "id": 665,
-        "name": "#GUPPYS_EYE_NAME",
+        "name": "Guppys Eye",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7651,17 +7562,9 @@
             "curse"
         ]
     },
-    {
-        "id": 666,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Strawman": {
         "id": 667,
-        "name": "#STRAWMAN_NAME",
+        "name": "Strawman",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -7669,17 +7572,17 @@
             "secret"
         ]
     },
-    {
+    "Dads Note": {
         "id": 668,
-        "name": "#DADS_NOTE_NAME",
+        "name": "Dads Note",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Sausage": {
         "id": 669,
-        "name": "#SAUSAGE_NAME",
+        "name": "Sausage",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -7690,9 +7593,9 @@
             "secret"
         ]
     },
-    {
+    "Options": {
         "id": 670,
-        "name": "#OPTIONS_NAME",
+        "name": "Options",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7700,9 +7603,9 @@
             "shop"
         ]
     },
-    {
+    "Candy Heart": {
         "id": 671,
-        "name": "#CANDY_HEART_NAME",
+        "name": "Candy Heart",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7711,9 +7614,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "A Pound Of Flesh": {
         "id": 672,
-        "name": "#A_POUND_OF_FLESH_NAME",
+        "name": "A Pound Of Flesh",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7722,17 +7625,17 @@
             "demonBeggar"
         ]
     },
-    {
+    "Redemption": {
         "id": 673,
-        "name": "#REDEMPTION_NAME",
+        "name": "Redemption",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Spirit Shackles": {
         "id": 674,
-        "name": "#SPIRIT_SHACKLES_NAME",
+        "name": "Spirit Shackles",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7740,9 +7643,9 @@
             "secret"
         ]
     },
-    {
+    "Cracked Orb": {
         "id": 675,
-        "name": "#CRACKED_ORB_NAME",
+        "name": "Cracked Orb",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7751,9 +7654,9 @@
             "secret"
         ]
     },
-    {
+    "Empty Heart": {
         "id": 676,
-        "name": "#EMPTY_HEART_NAME",
+        "name": "Empty Heart",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7762,9 +7665,9 @@
             "demonBeggar"
         ]
     },
-    {
+    "Astral Projection": {
         "id": 677,
-        "name": "#ASTRAL_PROJECTION_NAME",
+        "name": "Astral Projection",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7777,9 +7680,9 @@
             "secret"
         ]
     },
-    {
+    "C Section": {
         "id": 678,
-        "name": "#C_SECTION_NAME",
+        "name": "C Section",
         "typeItem": "passive",
         "quality": 4,
         "stats": [
@@ -7794,9 +7697,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Lil Abaddon": {
         "id": 679,
-        "name": "#LIL_ABADDON_NAME",
+        "name": "Lil Abaddon",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -7804,9 +7707,9 @@
             "devil"
         ]
     },
-    {
+    "Montezumas Revenge": {
         "id": 680,
-        "name": "#MONTEZUMAS_REVENGE_NAME",
+        "name": "Montezumas Revenge",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7814,9 +7717,9 @@
             "treasure"
         ]
     },
-    {
+    "Lil Portal": {
         "id": 681,
-        "name": "#LIL_PORTAL_NAME",
+        "name": "Lil Portal",
         "typeItem": "familiar",
         "quality": 1,
         "stats": [],
@@ -7824,9 +7727,9 @@
             "treasure"
         ]
     },
-    {
+    "Worm Friend": {
         "id": 682,
-        "name": "#WORM_FRIEND_NAME",
+        "name": "Worm Friend",
         "typeItem": "familiar",
         "quality": 3,
         "stats": [],
@@ -7835,9 +7738,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Bone Spurs": {
         "id": 683,
-        "name": "#BONE_SPURS_NAME",
+        "name": "Bone Spurs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7845,9 +7748,9 @@
             "treasure"
         ]
     },
-    {
+    "Hungry Soul": {
         "id": 684,
-        "name": "#HUNGRY_SOUL_NAME",
+        "name": "Hungry Soul",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7856,9 +7759,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Jar Of Wisps": {
         "id": 685,
-        "name": "#JAR_OF_WISPS_NAME",
+        "name": "Jar Of Wisps",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -7866,9 +7769,9 @@
             "angel"
         ]
     },
-    {
+    "Soul Locket": {
         "id": 686,
-        "name": "#SOUL_LOCKET_NAME",
+        "name": "Soul Locket",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -7876,9 +7779,9 @@
             "angel"
         ]
     },
-    {
+    "Friend Finder": {
         "id": 687,
-        "name": "#FRIEND_FINDER_NAME",
+        "name": "Friend Finder",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -7886,9 +7789,9 @@
             "treasure"
         ]
     },
-    {
+    "Inner Child": {
         "id": 688,
-        "name": "#INNER_CHILD_NAME",
+        "name": "Inner Child",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7901,9 +7804,9 @@
             "secret"
         ]
     },
-    {
+    "Glitched Crown": {
         "id": 689,
-        "name": "#GLITCHED_CROWN_NAME",
+        "name": "Glitched Crown",
         "typeItem": "passive",
         "quality": 4,
         "stats": [],
@@ -7911,9 +7814,9 @@
             "secret"
         ]
     },
-    {
+    "Belly Jelly": {
         "id": 690,
-        "name": "#BELLY_JELLY_NAME",
+        "name": "Belly Jelly",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -7921,9 +7824,9 @@
             "treasure"
         ]
     },
-    {
+    "Sacred Orb": {
         "id": 691,
-        "name": "#SACRED_ORB_NAME",
+        "name": "Sacred Orb",
         "typeItem": "passive",
         "quality": 4,
         "stats": [],
@@ -7932,9 +7835,9 @@
             "secret"
         ]
     },
-    {
+    "Sanguine Bond": {
         "id": 692,
-        "name": "#SANGUINE_BOND_NAME",
+        "name": "Sanguine Bond",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -7946,9 +7849,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "The Swarm": {
         "id": 693,
-        "name": "#THE_SWARM_NAME",
+        "name": "The Swarm",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -7957,9 +7860,9 @@
             "keyMaster"
         ]
     },
-    {
+    "Heartbreak": {
         "id": 694,
-        "name": "#HEARTBREAK_NAME",
+        "name": "Heartbreak",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -7971,9 +7874,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Bloody Gust": {
         "id": 695,
-        "name": "#BLOODY_GUST_NAME",
+        "name": "Bloody Gust",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -7987,9 +7890,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Salvation": {
         "id": 696,
-        "name": "#SALVATION_NAME",
+        "name": "Salvation",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -7997,9 +7900,9 @@
             "angel"
         ]
     },
-    {
+    "Vanishing Twin": {
         "id": 697,
-        "name": "#VANISHING_TWIN_NAME",
+        "name": "Vanishing Twin",
         "typeItem": "familiar",
         "quality": 2,
         "stats": [],
@@ -8008,9 +7911,9 @@
             "curse"
         ]
     },
-    {
+    "Twisted Pair": {
         "id": 698,
-        "name": "#TWISTED_PAIR_NAME",
+        "name": "Twisted Pair",
         "typeItem": "familiar",
         "quality": 4,
         "stats": [],
@@ -8018,9 +7921,9 @@
             "devil"
         ]
     },
-    {
+    "Azazels Rage": {
         "id": 699,
-        "name": "#AZAZELS_RAGE_NAME",
+        "name": "Azazels Rage",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -8028,9 +7931,9 @@
             "devil"
         ]
     },
-    {
+    "Echo Chamber": {
         "id": 700,
-        "name": "#ECHO_CHAMBER_NAME",
+        "name": "Echo Chamber",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -8039,9 +7942,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Isaacs Tomb": {
         "id": 701,
-        "name": "#ISAACS_TOMB_NAME",
+        "name": "Isaacs Tomb",
         "typeItem": "passive",
         "quality": 3,
         "stats": [],
@@ -8049,9 +7952,9 @@
             "secret"
         ]
     },
-    {
+    "Vengeful Spirit": {
         "id": 702,
-        "name": "#VENGEFUL_SPIRIT_NAME",
+        "name": "Vengeful Spirit",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -8061,9 +7964,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Esau Jr": {
         "id": 703,
-        "name": "#ESAU_JR_NAME",
+        "name": "Esau Jr",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -8073,9 +7976,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Berserk": {
         "id": 704,
-        "name": "#BERSERK_NAME",
+        "name": "Berserk",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -8086,9 +7989,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Dark Arts": {
         "id": 705,
-        "name": "#DARK_ARTS_NAME",
+        "name": "Dark Arts",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -8099,9 +8002,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Abyss": {
         "id": 706,
-        "name": "#ABYSS_NAME",
+        "name": "Abyss",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -8110,9 +8013,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Supper": {
         "id": 707,
-        "name": "#SUPPER_NAME",
+        "name": "Supper",
         "typeItem": "passive",
         "quality": 1,
         "stats": [
@@ -8123,9 +8026,9 @@
             "beggar"
         ]
     },
-    {
+    "Stapler": {
         "id": 708,
-        "name": "#STAPLER_NAME",
+        "name": "Stapler",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -8136,9 +8039,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Suplex": {
         "id": 709,
-        "name": "#SUPLEX_NAME",
+        "name": "Suplex",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -8146,9 +8049,9 @@
             "treasure"
         ]
     },
-    {
+    "Bag Of Crafting": {
         "id": 710,
-        "name": "#BAG_OF_CRAFTING_NAME",
+        "name": "Bag Of Crafting",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -8156,9 +8059,9 @@
             "treasure"
         ]
     },
-    {
+    "Flip": {
         "id": 711,
-        "name": "#FLIP_NAME",
+        "name": "Flip",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -8168,9 +8071,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Lemegeton": {
         "id": 712,
-        "name": "#LEMEGETON_NAME",
+        "name": "Lemegeton",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -8179,9 +8082,9 @@
             "library"
         ]
     },
-    {
+    "Sumptorium": {
         "id": 713,
-        "name": "#SUMPTORIUM_NAME",
+        "name": "Sumptorium",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -8189,9 +8092,9 @@
             "treasure"
         ]
     },
-    {
+    "Recall": {
         "id": 714,
-        "name": "#RECALL_NAME",
+        "name": "Recall",
         "typeItem": "active",
         "quality": 0,
         "stats": [
@@ -8199,17 +8102,17 @@
         ],
         "itemPool": []
     },
-    {
+    "Hold": {
         "id": 715,
-        "name": "#HOLD_NAME",
+        "name": "Hold",
         "typeItem": "active",
         "quality": 0,
         "stats": [],
         "itemPool": []
     },
-    {
+    "Keepers Sack": {
         "id": 716,
-        "name": "#KEEPERS_SACK_NAME",
+        "name": "Keepers Sack",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -8222,9 +8125,9 @@
             "secret"
         ]
     },
-    {
+    "Keepers Kin": {
         "id": 717,
-        "name": "#KEEPERS_KIN_NAME",
+        "name": "Keepers Kin",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -8233,17 +8136,9 @@
             "secret"
         ]
     },
-    {
-        "id": 718,
-        "name": "",
-        "typeItem": "",
-        "quality": -1,
-        "stats": [],
-        "itemPool": []
-    },
-    {
+    "Keepers Box": {
         "id": 719,
-        "name": "#KEEPERS_BOX_NAME",
+        "name": "Keepers Box",
         "typeItem": "active",
         "quality": 2,
         "stats": [],
@@ -8252,9 +8147,9 @@
             "secret"
         ]
     },
-    {
+    "Everything Jar": {
         "id": 720,
-        "name": "#EVERYTHING_JAR_NAME",
+        "name": "Everything Jar",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -8262,9 +8157,9 @@
             "treasure"
         ]
     },
-    {
+    "Tmtrainer": {
         "id": 721,
-        "name": "#TMTRAINER_NAME",
+        "name": "Tmtrainer",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -8272,9 +8167,9 @@
             "secret"
         ]
     },
-    {
+    "Anima Sola": {
         "id": 722,
-        "name": "#ANIMA_SOLA_NAME",
+        "name": "Anima Sola",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -8282,9 +8177,9 @@
             "treasure"
         ]
     },
-    {
+    "Spindown Dice": {
         "id": 723,
-        "name": "#SPINDOWN_DICE_NAME",
+        "name": "Spindown Dice",
         "typeItem": "active",
         "quality": 4,
         "stats": [],
@@ -8293,9 +8188,9 @@
             "secret"
         ]
     },
-    {
+    "Hypercoagulation": {
         "id": 724,
-        "name": "#HYPERCOAGULATION_NAME",
+        "name": "Hypercoagulation",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -8304,9 +8199,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Ibs": {
         "id": 725,
-        "name": "#IBS_NAME",
+        "name": "Ibs",
         "typeItem": "passive",
         "quality": 0,
         "stats": [],
@@ -8314,9 +8209,9 @@
             "treasure"
         ]
     },
-    {
+    "Hemoptysis": {
         "id": 726,
-        "name": "#HEMOPTYSIS_NAME",
+        "name": "Hemoptysis",
         "typeItem": "passive",
         "quality": 1,
         "stats": [],
@@ -8325,9 +8220,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Ghost Bombs": {
         "id": 727,
-        "name": "#GHOST_BOMBS_NAME",
+        "name": "Ghost Bombs",
         "typeItem": "passive",
         "quality": 2,
         "stats": [],
@@ -8336,9 +8231,9 @@
             "bombBum"
         ]
     },
-    {
+    "Gello": {
         "id": 728,
-        "name": "#GELLO_NAME",
+        "name": "Gello",
         "typeItem": "active",
         "quality": 3,
         "stats": [],
@@ -8348,9 +8243,9 @@
             "ultraSecret"
         ]
     },
-    {
+    "Decap Attack": {
         "id": 729,
-        "name": "#DECAP_ATTACK_NAME",
+        "name": "Decap Attack",
         "typeItem": "active",
         "quality": 2,
         "stats": [
@@ -8361,9 +8256,9 @@
             "treasure"
         ]
     },
-    {
+    "Glass Eye": {
         "id": 730,
-        "name": "#GLASS_EYE_NAME",
+        "name": "Glass Eye",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -8375,9 +8270,9 @@
             "goldenChest"
         ]
     },
-    {
+    "Stye": {
         "id": 731,
-        "name": "#STYE_NAME",
+        "name": "Stye",
         "typeItem": "passive",
         "quality": 2,
         "stats": [
@@ -8388,9 +8283,9 @@
             "boss"
         ]
     },
-    {
+    "Moms Ring": {
         "id": 732,
-        "name": "#MOMS_RING_NAME",
+        "name": "Moms Ring",
         "typeItem": "passive",
         "quality": 3,
         "stats": [
@@ -8400,4 +8295,4 @@
             "goldenChest"
         ]
     }
-]
+}
