@@ -4,9 +4,11 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Result = exports.Turnout = void 0;
-exports.fetchItem = fetchItem;
+exports.fetchItembyId = fetchItembyId;
+exports.fetchItemByName = fetchItemByName;
 exports.compareItems = compareItems;
-const ItemDataFinal_json_1 = __importDefault(require("../datasets/ItemDataFinal.json"));
+const ItemDataByID_json_1 = __importDefault(require("../datasets/ItemDataByID.json"));
+const ItemDataByName_json_1 = __importDefault(require("../datasets/ItemDataByName.json"));
 var Turnout;
 (function (Turnout) {
     Turnout[Turnout["GREEN"] = 1] = "GREEN";
@@ -22,8 +24,11 @@ var Result;
     Result[Result["STATS"] = 2] = "STATS";
     Result[Result["ITEMPOOL"] = 3] = "ITEMPOOL";
 })(Result || (exports.Result = Result = {}));
-function fetchItem(identifier) {
-    return ItemDataFinal_json_1.default?.[identifier];
+function fetchItembyId(id) {
+    return ItemDataByID_json_1.default[id - 1];
+}
+function fetchItemByName(identifier) {
+    return ItemDataByName_json_1.default?.[identifier];
 }
 // returns how similar item2 is to item1
 function compareItems(item1, item2) {
