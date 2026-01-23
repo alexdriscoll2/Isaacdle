@@ -28,7 +28,7 @@ function fetchItembyId(id) {
     return ItemDataByID_json_1.default[id - 1];
 }
 function fetchItemByName(identifier) {
-    return ItemDataByName_json_1.default?.[identifier];
+    return ItemDataByName_json_1.default?.[identifier.toLowerCase()];
 }
 // returns how similar item2 is to item1
 function compareItems(item1, item2) {

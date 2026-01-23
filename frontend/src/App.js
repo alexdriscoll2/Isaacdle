@@ -6,10 +6,12 @@ function GuessList({list})
   return(
     <ul>
       {list.map((element) => (
-        <li>
-          Guess made : {element} 
-          {/* Name : {element.name}
-          Type of Item : {element.typeItem} */}
+        <li style={{whiteSpace: "pre-wrap"}}>
+          Name : {element.name + " -- "}
+          Type of Item : {element.typeItem + " -- "}
+          Quality : {element.quality + " -- "}
+          Stats : {element.stats.reduce((acc, s) => acc + s + ", ", "").slice(0, -2) + " -- "} {/* these two lines format the arrays correctly*/}
+          Item Pool : {element.itemPool.reduce((acc, s) => acc + s + ", ", "").slice(0, -2)}
         </li>
       ))}
     </ul>
@@ -45,15 +47,12 @@ function App() {
   const [lst, updateList] = useState([]);
 
   const newGuess = (guess) => {
-    updateList([...lst, guess])
+    // useEffect( () => 
+    // {
+    //   axios.get("/api/data/byname/" + guess).then(res => {updateList([...lst, res])})
+    // }, [])
+    axios.get("/api/data/byname/" + guess).then(res => {updateList([res.data, ...lst])})
   }
-
-  const [data, setData] = useState("");
-
-  useEffect( () => 
-  {
-    axios.get("/api/data/byname/Breakfast").then(res => {setData(res.data)})
-  }, [])
 
   return (
     <div style={{textAlign: "center"}}>
@@ -61,7 +60,6 @@ function App() {
       <p>Enter an item to guess:</p>
       <Input addItem={newGuess}/>
       <GuessList list={lst}/>
-      <p>data: {data.name}</p>
     </div>
   );
 }

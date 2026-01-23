@@ -1,5 +1,5 @@
 {
-  "passive": [
+  "Passive": [
     {
       "@cache": "firedelay",
       "@description": "#THE_SAD_ONION_DESCRIPTION",
@@ -3099,7 +3099,7 @@
       "@cache": "damage"
     }
   ],
-  "familiar": [
+  "Familiar": [
     {
       "@description": "#BROTHER_BOBBY_DESCRIPTION",
       "@gfx": "Collectibles_008_BrotherBobby.png",
@@ -3936,7 +3936,7 @@
       "@devilprice": "2"
     }
   ],
-  "active": [
+  "Active": [
     {
       "@cache": "flying",
       "@description": "#THE_BIBLE_DESCRIPTION",

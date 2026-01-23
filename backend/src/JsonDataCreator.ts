@@ -14,7 +14,7 @@ for(let i = 1; i < allItems.length+1; i++)
 }
 
 // get the name, category and stats of each item in the IsaacItems.json
-const categories: (keyof typeof itemGeneral)[] = ["passive", "active", "familiar"];
+const categories: (keyof typeof itemGeneral)[] = ["Passive", "Active", "Familiar"];
 
 for(const category of categories)
 {
@@ -30,13 +30,17 @@ for(const category of categories)
 
         allItems[id-1]!.typeItem = category;
 
-        if(item?.["@cache"])
+        if(item?.["@cache"]) // get all parts of cache and uppercase the first letter
         {
-            allItems[id-1]!.stats = item["@cache"].split(" "); // isnt adding correctly right now
+            allItems[id-1]!.stats = item["@cache"].split(" ").map(element => element[0]!.toUpperCase() + element.substring(1, element.length));
         }
-        if("@hearts" in item || "@maxhearts" in item) 
+        if("@hearts" in item || "@maxhearts" in item) // health up/down doesn't appear in cache, have to check like this
         {
-            allItems[id-1]!.stats.push("health");
+            allItems[id-1]!.stats.push("Health");
+        }
+        if(allItems[id-1]!.stats.length === 0)
+        {
+            allItems[id-1]!.stats.push("None");
         }
 
     } 
@@ -57,7 +61,7 @@ for(const itemPool of itemPools)
     for(const item of itemPool["Item"])
     {
         const id = parseInt(item["@Id"]);
-        allItems[id-1]!.itemPool.push(poolName);
+        allItems[id-1]!.itemPool.push(poolName[0]?.toUpperCase() + poolName.substring(1, poolName.length));
     }
 }
 
@@ -66,7 +70,7 @@ let dict: { [key: string]: Item } = {}
 
 for(const item of allItems)
 {
-    dict[item.name] = item;
+    dict[item.name.toLowerCase()] = item;
 }
 
 // convert both by id and by string to jsons
@@ -76,9 +80,9 @@ const jsonName = JSON.stringify(dict, null, 4);
 const filePath = path.join(__dirname, "../datasets/");
 
 fs.writeFile(path.join(filePath, "ItemDataByID.json"), jsonID, "utf8", () => {
-    console.log("Dataset created");
+    console.log("ID Dataset created");
 })
 
 fs.writeFile(path.join(filePath, "ItemDataByName.json"), jsonName, "utf8", () => {
-    console.log("Dataset created");
+    console.log("Name Dataset created");
 })

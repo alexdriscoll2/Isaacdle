@@ -26,7 +26,7 @@ export function fetchItembyId(id: number): Item
 
 export function fetchItemByName(identifier: string): Item
 {
-    return (itemsByName?.[identifier as keyof typeof itemsByName] as Item)
+    return (itemsByName?.[identifier.toLowerCase() as keyof typeof itemsByName] as Item)
 }
 
 

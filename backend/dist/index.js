@@ -44,5 +44,17 @@ app.get("/api/data/byname/:name", (req, res) => {
         res.status(500).json({ error: "Server error" });
     }
 });
+app.get("/api/data/compare/:name1/:name2", (req, res) => {
+    try {
+        console.log("attempting to fetch items.");
+        const item1 = (0, ItemSearcher_1.fetchItemByName)(req.params.name1);
+        const item2 = (0, ItemSearcher_1.fetchItemByName)(req.params.name2);
+        console.log("items successfully fetched! comparing items");
+        res.json((0, ItemSearcher_1.compareItems)(item1, item2));
+    }
+    catch (error) {
+        res.status(500).json({ error: "Server error" });
+    }
+});
 app.listen(4000, () => console.log("Server is running"));
 //# sourceMappingURL=index.js.map
