@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
+import "./App.css";
 
 function GuessList({list})
 {
@@ -47,19 +48,23 @@ function App() {
   const [lst, updateList] = useState([]);
 
   const newGuess = (guess) => {
-    // useEffect( () => 
-    // {
-    //   axios.get("/api/data/byname/" + guess).then(res => {updateList([...lst, res])})
-    // }, [])
     axios.get("/api/data/byname/" + guess).then(res => {updateList([res.data, ...lst])})
   }
 
+  const [mysteryItem, setMysteryItem] = useState(); 
+
+  useEffect( () => 
+  {
+    axios.get("/api/data/byid/" + (Math.floor(Math.random() * 732) + 1).toString()).then(res => {setMysteryItem(res.data)});
+  }, [])
+ 
   return (
-    <div style={{textAlign: "center"}}>
+    <div style={{textAlign: "center"}}> 
       <h1>Isaacdle</h1>
       <p>Enter an item to guess:</p>
       <Input addItem={newGuess}/>
       <GuessList list={lst}/>
+      {mysteryItem && <p>Mystery Item : {mysteryItem.name}</p>}
     </div>
   );
 }

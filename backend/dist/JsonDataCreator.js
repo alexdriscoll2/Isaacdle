@@ -10,11 +10,6 @@ const IsaacItemMetadata_json_1 = __importDefault(require("../datasets/IsaacItemM
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const allItems = new Array(732);
-/*
-TODO:
-lowercase the key name for item data by name, to create case-insensitive searching
-spacing for item pools and stats
-*/
 // instantiate 732 empty items
 for (let i = 1; i < allItems.length + 1; i++) {
     allItems[i - 1] = new ItemClass_1.Item(i);
