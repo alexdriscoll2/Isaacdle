@@ -7,6 +7,14 @@ body {
   color: white;
 }
 
+.label-style {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px auto;
+  align-items: center;
+  width: 80%;
+}
+
 /* .App {
   text-align: center;
 }

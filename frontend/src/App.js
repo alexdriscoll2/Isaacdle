@@ -7,13 +7,13 @@ function GuessList({list})
   return(
     <ul>
       {list.map((element) => (
-        <li style={{whiteSpace: "pre-wrap"}}>
+        <p style={{whiteSpace: "pre-wrap"}}>
           Name : {element.name + " -- "}
           Type of Item : {element.typeItem + " -- "}
           Quality : {element.quality + " -- "}
           Stats : {element.stats.reduce((acc, s) => acc + s + ", ", "").slice(0, -2) + " -- "} {/* these two lines format the arrays correctly*/}
           Item Pool : {element.itemPool.reduce((acc, s) => acc + s + ", ", "").slice(0, -2)}
-        </li>
+        </p>
       ))}
     </ul>
   );
@@ -79,7 +79,17 @@ function App() {
       <h1>Isaacdle</h1>
       <p>Enter an item to guess:</p>
       <Input addItem={newGuess}/>
+
+      <div className="label-style">
+        {["Name", "Type of Item", "Quality", "Stats", "Item Pool"].map(topic => (
+          <p style={{margin:0}}>{topic}</p>
+        ))}
+      </div>
+      
+      <hr style={{border:'0', borderTop: '1px solid #ccc', margin: '10px auto', width: "70%" }}/>
+
       <GuessList list={lst}/>
+
       {mysteryItem && <p>Mystery Item : {mysteryItem.name}</p>}
       {imgTest && <img 
         src={imgTest.image}
