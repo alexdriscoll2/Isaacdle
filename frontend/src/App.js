@@ -46,9 +46,25 @@ function Input({addItem})
 
 function App() {
   const [lst, updateList] = useState([]);
+  const [imgTest, setImg] = useState();
+  const [iURL, setIURL] = useState("");
 
-  const newGuess = (guess) => {
-    axios.get("/api/data/byname/" + guess).then(res => {updateList([res.data, ...lst])})
+  const newGuess = async (guess) => {
+    try
+    {
+      const res = await axios.get("/api/data/byname/" + guess)
+      updateList([res.data, ...lst])
+
+      const id = res.data.id;
+      const idToStr = id > 99 ? id.toString() : id > 9 ? "0" + id : "00" + id
+      const imgURL = "/images/itemPNGs/collectibles_" + idToStr + "_" + res.data.name.toLowerCase().replace(" ", "") + ".png";
+      setIURL(imgURL)
+      setImg({ ...res.data, image: imgURL})
+    }
+    catch (error)
+    {
+      console.error("Error fetching data: " + error)
+    }
   }
 
   const [mysteryItem, setMysteryItem] = useState(); 
@@ -65,6 +81,11 @@ function App() {
       <Input addItem={newGuess}/>
       <GuessList list={lst}/>
       {mysteryItem && <p>Mystery Item : {mysteryItem.name}</p>}
+      {imgTest && <img 
+        src={imgTest.image}
+        alt={imgTest.name}
+      />}
+      <p>png url: {iURL}</p>
     </div>
   );
 }
