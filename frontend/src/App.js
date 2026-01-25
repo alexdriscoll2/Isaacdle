@@ -7,13 +7,28 @@ function GuessList({list})
   return(
     <ul>
       {list.map((element) => (
-        <p style={{whiteSpace: "pre-wrap"}}>
-          Name : {element.name + " -- "}
-          Type of Item : {element.typeItem + " -- "}
-          Quality : {element.quality + " -- "}
-          Stats : {element.stats.reduce((acc, s) => acc + s + ", ", "").slice(0, -2) + " -- "} {/* these two lines format the arrays correctly*/}
-          Item Pool : {element.itemPool.reduce((acc, s) => acc + s + ", ", "").slice(0, -2)}
-        </p>
+        <div className="label-style">
+          <div>
+            <p>{element.name}</p>
+            <img src={element.itemImg} className="image-style"/>
+          </div>
+          <div>
+            <p>{element.typeItem} </p>
+            <img src={"/images/resultPNGs/" + element?.comparisonResults[0] + ".png"} className="image-style"/>
+          </div>
+          <div>
+            <p>{element.quality}</p>
+            <img src={"/images/resultPNGs/" + element?.comparisonResults[1] + ".png"} className="image-style"/>
+          </div>
+          <div style={{width:"30ch", wordWrap:"break-word"}}>
+            <p>{element.stats?.reduce((acc, s) => acc + s + ", ", "").slice(0, -2)}</p>
+            <img src={"/images/resultPNGs/" + element?.comparisonResults[2] + ".png"} className="image-style"/>
+          </div>
+          <div>
+            <p>{element.itemPool?.reduce((acc, s) => acc + s + ", ", "").slice(0, -2)}</p>
+            <img src={"/images/resultPNGs/" + element?.comparisonResults[3] + ".png"} className="image-style"/>
+          </div>
+        </div>
       ))}
     </ul>
   );
@@ -45,27 +60,7 @@ function Input({addItem})
 }
 
 function App() {
-  const [lst, updateList] = useState([]);
-  const [imgTest, setImg] = useState();
-  const [iURL, setIURL] = useState("");
-
-  const newGuess = async (guess) => {
-    try
-    {
-      const res = await axios.get("/api/data/byname/" + guess)
-      updateList([res.data, ...lst])
-
-      const id = res.data.id;
-      const idToStr = id > 99 ? id.toString() : id > 9 ? "0" + id : "00" + id
-      const imgURL = "/images/itemPNGs/collectibles_" + idToStr + "_" + res.data.name.toLowerCase().replace(" ", "") + ".png";
-      setIURL(imgURL)
-      setImg({ ...res.data, image: imgURL})
-    }
-    catch (error)
-    {
-      console.error("Error fetching data: " + error)
-    }
-  }
+  const [itemList, updateList] = useState([]);
 
   const [mysteryItem, setMysteryItem] = useState(); 
 
@@ -73,6 +68,24 @@ function App() {
   {
     axios.get("/api/data/byid/" + (Math.floor(Math.random() * 732) + 1).toString()).then(res => {setMysteryItem(res.data)});
   }, [])
+
+  const newGuess = async (guess) => {
+    try
+    {
+      const itemDetails = await axios.get("/api/data/byname/" + guess)
+      const comparisonResults = await axios.get("/api/data/compare/" + mysteryItem.name + "/" + itemDetails.data.name)
+
+      const id = itemDetails.data.id;
+      const idToStr = id > 99 ? id.toString() : id > 9 ? "0" + id : "00" + id
+      const imgURL = "/images/itemPNGs/collectibles_" + idToStr + "_" + itemDetails.data.name.toLowerCase().replace(" ", "") + ".png";
+
+      updateList([{ ...itemDetails.data, itemImg: imgURL, comparisonResults: comparisonResults.data}, ...itemList])
+    }
+    catch (error)
+    {
+      console.error("Error fetching data: " + error)
+    }
+  }
  
   return (
     <div style={{textAlign: "center"}}> 
@@ -88,14 +101,10 @@ function App() {
       
       <hr style={{border:'0', borderTop: '1px solid #ccc', margin: '10px auto', width: "70%" }}/>
 
-      <GuessList list={lst}/>
+      <GuessList list={itemList}/>
 
       {mysteryItem && <p>Mystery Item : {mysteryItem.name}</p>}
-      {imgTest && <img 
-        src={imgTest.image}
-        alt={imgTest.name}
-      />}
-      <p>png url: {iURL}</p>
+
     </div>
   );
 }
