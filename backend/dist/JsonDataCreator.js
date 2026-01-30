@@ -14,6 +14,14 @@ const allItems = new Array(732);
 for (let i = 1; i < allItems.length + 1; i++) {
     allItems[i - 1] = new ItemClass_1.Item(i);
 }
+// get each itempool that an item belongs to
+for (const itemPool of IsaacItemPool_json_1.default) {
+    const poolName = itemPool["@Name"];
+    for (const item of itemPool["Item"]) {
+        const id = parseInt(item["@Id"]);
+        allItems[id - 1].itemPool.push(poolName[0]?.toUpperCase() + poolName.substring(1, poolName.length));
+    }
+}
 // get the name, category and stats of each item in the IsaacItems.json
 const categories = ["Passive", "Active", "Familiar"];
 for (const category of categories) {
@@ -35,20 +43,15 @@ for (const category of categories) {
         if (allItems[id - 1].stats.length === 0) {
             allItems[id - 1].stats.push("None");
         }
+        if (allItems[id - 1].itemPool.length === 0) {
+            allItems[id - 1].itemPool.push("None");
+        }
     }
 }
 // get the quality value of each item in the IsaacItemMetadata.json
 for (const item of IsaacItemMetadata_json_1.default["item"]) {
     const id = parseInt(item["@id"]);
     allItems[id - 1].quality = parseInt(item["@quality"]);
-}
-// get each itempool that an item belongs to
-for (const itemPool of IsaacItemPool_json_1.default) {
-    const poolName = itemPool["@Name"];
-    for (const item of itemPool["Item"]) {
-        const id = parseInt(item["@Id"]);
-        allItems[id - 1].itemPool.push(poolName[0]?.toUpperCase() + poolName.substring(1, poolName.length));
-    }
 }
 // create reference by name dict
 let dict = {};

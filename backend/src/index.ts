@@ -81,3 +81,4 @@ app.get("/api/data/compare/:name1/:name2", (req, res) =>
 })
 
 app.listen(4000, () => console.log("Server is running"));
+

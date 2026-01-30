@@ -237,7 +237,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 19,
@@ -639,7 +641,9 @@
         "stats": [
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 51,
@@ -753,7 +757,9 @@
         "stats": [
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 60,
@@ -1155,7 +1161,9 @@
             "Speed",
             "Firedelay"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 91,
@@ -1689,7 +1697,9 @@
             "Flying",
             "Speed"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 131,
@@ -1713,7 +1723,9 @@
             "Tearflag",
             "Tearcolor"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 133,
@@ -2049,7 +2061,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 159,
@@ -2346,7 +2360,9 @@
             "Flying",
             "Speed"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 182,
@@ -2691,7 +2707,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 208,
@@ -3086,7 +3104,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 239,
@@ -3096,7 +3116,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 240,
@@ -3786,7 +3808,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 294,
@@ -4216,7 +4240,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 328,
@@ -4226,7 +4252,9 @@
         "stats": [
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 329,
@@ -5519,7 +5547,9 @@
             "Tearflag",
             "Tearcolor"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 430,
@@ -6085,7 +6115,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 475,
@@ -6212,7 +6244,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 485,
@@ -7037,7 +7071,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 551,
@@ -7047,7 +7083,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 552,
@@ -7057,7 +7095,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 553,
@@ -7983,7 +8023,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 627,
@@ -7993,7 +8035,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 628,
@@ -8062,7 +8106,9 @@
             "Flying",
             "Speed"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 634,
@@ -8346,7 +8392,9 @@
             "Familiars",
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 657,
@@ -8489,7 +8537,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 669,
@@ -8550,7 +8600,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 674,
@@ -9079,7 +9131,9 @@
         "stats": [
             "Flying"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 715,
@@ -9089,7 +9143,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     {
         "id": 716,

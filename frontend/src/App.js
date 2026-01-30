@@ -8,6 +8,7 @@ function GuessList({list})
     <ul>
       {list.map((element) => (
         <div className="label-style">
+          
           <div>
             <p>{element.name}</p>
             <img src={element.itemImg} className="image-style"/>
@@ -59,10 +60,28 @@ function Input({addItem})
   );
 }
 
+function WinScreen({item, guesses})
+{
+  return (
+    <div className="overlay">
+      <div className="win-style">
+        <p>Correct!</p>
+        <p>Item Name: {item.name}</p>
+        <img src={item.itemImg} className="image-style"/>
+        <p>Guesses: {guesses}</p>
+      </div>
+    </div>
+  )
+}
+
 function App() {
   const [itemList, updateList] = useState([]);
 
   const [mysteryItem, setMysteryItem] = useState(); 
+
+  const [correct, setCorrect] = useState(false);
+
+  const [numGuesses, setNumGuesses] = useState(0);
 
   useEffect( () => 
   {
@@ -77,9 +96,13 @@ function App() {
 
       const id = itemDetails.data.id;
       const idToStr = id > 99 ? id.toString() : id > 9 ? "0" + id : "00" + id
-      const imgURL = "/images/itemPNGs/collectibles_" + idToStr + "_" + itemDetails.data.name.toLowerCase().replace(" ", "") + ".png";
+      const imgURL = "/images/itemPNGs/collectibles_" + idToStr + "_" + itemDetails.data.name.toLowerCase().replaceAll(" ", "") + ".png";
 
       updateList([{ ...itemDetails.data, itemImg: imgURL, comparisonResults: comparisonResults.data}, ...itemList])
+
+      setNumGuesses(numGuesses+1);
+
+      if(itemDetails.data.name === mysteryItem.name) setCorrect(true);
     }
     catch (error)
     {
@@ -104,6 +127,8 @@ function App() {
       <GuessList list={itemList}/>
 
       {mysteryItem && <p>Mystery Item : {mysteryItem.name}</p>}
+      
+      {correct && <WinScreen item={itemList[0]} guesses={numGuesses} />}
 
     </div>
   );

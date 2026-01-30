@@ -47,7 +47,6 @@ app.get("/api/data/byname/:name", (req, res) => {
 app.get("/api/data/compare/:name1/:name2", (req, res) => {
     try {
         console.log("attempting to fetch items.");
-        console.log("name 1: " + req.params.name1 + "\nname 2: " + req.params.name2);
         const item1 = (0, ItemSearcher_1.fetchItemByName)(req.params.name1);
         const item2 = (0, ItemSearcher_1.fetchItemByName)(req.params.name2);
         console.log("item 1: " + item1.name + "\nitem 2: " + item2.name);

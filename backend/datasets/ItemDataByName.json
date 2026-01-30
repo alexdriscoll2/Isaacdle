@@ -250,7 +250,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "boom": {
         "id": 19,
@@ -454,7 +456,9 @@
         "stats": [
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "the necronomicon": {
         "id": 35,
@@ -649,7 +653,9 @@
         "stats": [
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "pentagram": {
         "id": 51,
@@ -1147,7 +1153,9 @@
             "Speed",
             "Firedelay"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "spelunker hat": {
         "id": 91,
@@ -1681,7 +1689,9 @@
             "Flying",
             "Speed"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "bomb bag": {
         "id": 131,
@@ -1705,7 +1715,9 @@
             "Tearflag",
             "Tearcolor"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "guppys paw": {
         "id": 133,
@@ -2041,7 +2053,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "spirit of the night": {
         "id": 159,
@@ -2338,7 +2352,9 @@
             "Flying",
             "Speed"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "sacred heart": {
         "id": 182,
@@ -2683,7 +2699,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "champion belt": {
         "id": 208,
@@ -3070,7 +3088,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "key piece 2": {
         "id": 239,
@@ -3080,7 +3100,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "experimental treatment": {
         "id": 240,
@@ -3757,7 +3779,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "butter bean": {
         "id": 294,
@@ -4187,7 +4211,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "the negative": {
         "id": 328,
@@ -4197,7 +4223,9 @@
         "stats": [
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "the ludovico technique": {
         "id": 329,
@@ -5490,7 +5518,9 @@
             "Tearflag",
             "Tearcolor"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "papa fly": {
         "id": 430,
@@ -6056,7 +6086,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "plan c": {
         "id": 475,
@@ -6183,7 +6215,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "crooked penny": {
         "id": 485,
@@ -7008,7 +7042,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "broken shovel2": {
         "id": 551,
@@ -7018,7 +7054,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "moms shovel": {
         "id": 552,
@@ -7028,7 +7066,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "mucormycosis": {
         "id": 553,
@@ -7347,7 +7387,9 @@
             "Familiars",
             "Damage"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "free lemonade": {
         "id": 578,
@@ -7929,7 +7971,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "knife piece 2": {
         "id": 627,
@@ -7939,7 +7983,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "death certificate": {
         "id": 628,
@@ -8000,7 +8046,9 @@
             "Flying",
             "Speed"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "purgatory": {
         "id": 634,
@@ -8392,7 +8440,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "sausage": {
         "id": 669,
@@ -8453,7 +8503,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "spirit shackles": {
         "id": 674,
@@ -8982,7 +9034,9 @@
         "stats": [
             "Flying"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "hold": {
         "id": 715,
@@ -8992,7 +9046,9 @@
         "stats": [
             "None"
         ],
-        "itemPool": []
+        "itemPool": [
+            "None"
+        ]
     },
     "keepers sack": {
         "id": 716,
